@@ -1,0 +1,130 @@
+[IND02_BRIEFING_PARTA_01]
+Text="El área que debes defender es un taller ilegal que estamos utilizando. Está formado |por tres edificios: la ZONA DE MANTENIMIENTO DE HELICÓPTEROS, el ALMACÉN |DE REPUESTOS y la CAFETERÍA."
+[IND02_BRIEFING_PARTA_02]
+Text="En la ZONA DE MANTENIMIENTO DE HELICÓPTEROS hay un terminal, dentro de |un helicóptero. También encontrarás el EDE en la entrada de esta zona."
+[IND02_BRIEFING_PARTA_03]
+Text="Hay dos terminales en el ALMACÉN DE REPUESTOS: uno en la planta baja del almacén, |dentro del hangar, y el otro en el pequeño vestíbulo donde está la aeronave."
+[IND02_BRIEFING_PARTA_04]
+Text="En la CAFETERÍA, el terminal está en la planta baja."
+[IND02_BRIEFING_PARTA_05]
+Text="Los terminales son transmisores fuertemente protegidos con un sistema de |encriptación y forman parte de nuestra red privada de comunicaciones."
+[IND02_BRIEFING_PARTA_06]
+Text="Hay un detalle importante que necesitas saber: las alarmas, los sistemas de defensa y las |luces están conectados a un dispositivo móvil situado en la ZONA DE MANTENIMIENTO |DE HELICÓPTEROS. Se denomina EDE. Si los intrusos lo desactivan, estaremos totalmente |a oscuras, de modo que si eso ocurre debes reactivarlo para poner todos los sistemas en |marcha. También puedes reactivarlo aunque no lo hayan apagado, para que todos los |sistemas funcionen de nuevo. No lo olvides, es un elemento estratégico a tener en cuenta."
+[IND02_BRIEFING_PARTA_07]
+Text="Tu misión es proteger nuestros terminales. Si los intrusos los desbloquean, impide que |roben los archivos y que los extraigan de la zona. Búscalos y elimínalos."
+[IND02_BRIEFING_PARTB_01]
+Text="Tu misión será patrullar este complejo, localizar intrusos y evitar a toda costa que desbloqueen |los terminales para hackearlos. Los terminales guardan información vital para nuestra |supervivencia y si neutralizan uno, se desbloquearán los demás terminales."
+[IND02_BRIEFING_PARTB_02]
+Text="Si los intrusos consiguen desbloquear los terminales, robarán los archivos |que contienen e intentarán asegurarlos. Utiliza todos los medios a tu alcance para impedir |que roben dos archivos; es el número mínimo que necesitan para descifrar |la información que contienen sobre nuestros agentes dobles."
+[IND02_BRIEFING_PARTB_03]
+Text="Las archivos son delicados y una vez fuera de sus terminales sólo son válidos |durante un tiempo limitado. Si consigues recuperar una archivo, matando |al intruso que la sostiene o recogiéndolo del suelo, debes destruirlo."
+[IND02_BRIEFING_VERSUS_01]
+Text="¡En marcha! Hay que proteger los terminales del ataque de intrusos. ¡No habrá piedad!"
+[IND02_BRIEFING_VERSUS_02]
+Text="Ahora que los terminales han sido desbloqueados, debes proteger los archivos y recuperar los que hayan sido robados."
+[IND02_BRIEFING_VERSUS_03]
+Text="¡Vamos, muchachos! Si los intrusos consiguen un archivo más, tendrán suficiente |información para descubrir a nuestros agentes dobles. ¡Hay que evitarlo cueste lo que cueste!"
+[IND02_BRIEFING_DM_PARTA_01]
+Text="La misión tiene tres fases:|1. Infiltrarse en la zona|2. Desbloquear uno de los terminales|3. Robar los archivos y traerlos de vuelta"
+[IND02_BRIEFING_DM_PARTA_01bis]
+Text="El área en la que te infiltrarás es un taller ilegal usado por el enemigo y formado por |tres edificios: la ZONA DE MANTENIMIENTO, EL ALMACÉN DE REPUESTOS y la CAFETERÍA."
+[IND02_BRIEFING_DM_PARTA_02]
+Text="En la ZONA DE MANTENIMIENTO DE HELICÓPTEROS hay un terminal, dentro de |un helicóptero. También encontrarás el EDE en la entrada de esta zona."
+[IND02_BRIEFING_DM_PARTA_03]
+Text="Hay dos terminales en el ALMACÉN DE REPUESTOS: uno en la planta baja, dentro del |hangar, y el otro en el pequeño vestíbulo donde está la aeronave."
+[IND02_BRIEFING_DM_PARTA_04]
+Text="En la CAFETERÍA, el terminal está en la planta baja."
+[IND02_BRIEFING_DM_PARTA_05]
+Text="Los terminales que debes desactivar son transmisores fuertemente protegidos por un sistema |encriptado y forman parte de la red de comunicaciones privada de UPSILON."
+[IND02_BRIEFING_DM_PARTA_06]
+Text="Hay un detalle que podría resultarnos útil: las alarmas, sistemas de defensa y luces |están conectados con un dispositivo móvil situado en la ZONA DE MANTENIMIENTO |DE HELICÓPTEROS. Se denomina EDE. Si desactivas este elemento sumirás a los |operativos de UPSILON en la oscuridad, complicarás la defensa de la zona y les |obligarás a moverse para reactivar el sistema. Tenlo en cuenta."
+[IND02_BRIEFING_DM_PARTB_01]
+Text="Tu misión será infiltrarte en el complejo de forma sigilosa y desbloquear los terminales para |hackearlos (esta operación puede llevar unos segundos). Si neutralizas un terminal, se |desbloquearán los demás."
+[IND02_BRIEFING_DM_PARTB_02]
+Text="Una vez neutralizados, roba los archivos que contienen y trae al menos dos de |ellos a este dispositivo remoto de control para asegurarlos y completar la misión. Buena suerte."
+[IND02_BRIEFING_DM_PARTB_03]
+Text="Ten cuidado. Los archivos son delicados y una vez fuera de sus terminales |se deterioran en poco tiempo. La cooperación será fundamental. Además, hay fuerzas de |UPSILON patrullando la zona: son fuertes, eficientes y tienen órdenes de matar para defenderse.| Buena suerte."
+[IND02_BRIEFING_DM_PARTB_04]
+Text="Tu misión será infiltrarte en el complejo de forma sigilosa y desbloquear los terminales para |hackearlos (esta operación puede llevar unos segundos). Si neutralizas un terminal, se |desbloquearán los demás."
+[IND02_BRIEFING_DM_PARTB_05]
+Text="Una vez neutralizados, roba los archivos que contienen y trae al menos dos de |ellos a este dispositivo remoto de control para asegurarlos y completar la misión. Buena suerte."
+[IND02_BRIEFING_DM_PARTB_06]
+Text="Ten cuidado. Los archivos son delicados y una vez fuera de sus terminales |se deterioran en poco tiempo. La cooperación será fundamental. Además, hay fuerzas de |UPSILON patrullando la zona: son fuertes, eficientes y tienen órdenes de matar para defenderse. |Buena suerte."
+[IND02_BRIEFING_DM_PARTB_07]
+Text="Tu misión será infiltrarte en el complejo de forma sigilosa y desbloquear los terminales |para hackearlos (esta operación puede llevar unos segundos). Si neutralizas un terminal, |se desbloquearán los demás."
+[IND02_BRIEFING_DM_PARTB_08]
+Text="Una vez neutralizados, roba los archivos que contienen y trae al menos dos de ellos |a este dispositivo remoto de control para aseguraroas y completar la misión. Buena suerte."
+[IND02_BRIEFING_DM_PARTB_09]
+Text="Ten cuidado. Los archivos son delicados y una vez fuera de sus terminales se |deterioran en poco tiempo. La cooperación será fundamental. Además, hay fuerzas de |UPSILON patrullando la zona: son fuertes, eficientes y tienen órdenes de matar para defenderse. |Buena suerte."
+[IND02_BRIEFING_DM_PARTB_10]
+Text="Tu misión será infiltrarte en el complejo de forma sigilosa y desbloquear los terminales para |hackearlos (esta operación puede llevar unos segundos). Si neutralizas un terminal, se |desbloquearán los demás."
+[IND02_BRIEFING_DM_PARTB_11]
+Text="Una vez neutralizados, roba los archivos que contienen y trae al menos dos de ellos |a este dispositivo remoto de control para asegurarlos y completar la misión. Buena suerte."
+[IND02_BRIEFING_DM_PARTB_12]
+Text="Ten cuidado. Los archivos son delicados y una vez fuera de sus terminales se |deterioran en poco tiempo. La cooperación será fundamental. Además, hay fuerzas de |UPSILON patrullando la zona: son fuertes, eficientes y tienen órdenes de matar para defenderse. |Buena suerte."
+[IND02_BRIEFING_DM_PARTB_13]
+Text="Tu misión será infiltrarte en el complejo de forma sigilosa y desbloquear los terminales para |hackearlos (esta operación puede llevar unos segundos). Si neutralizas un terminal, se |desbloquearán los demás."
+[IND02_BRIEFING_DM_PARTB_14]
+Text="Una vez neutralizados, roba los archivos que contienen y trae al menos dos de ellos |a este dispositivo remoto de control para asegurarlos y completar la misión. Buena suerte."
+[IND02_BRIEFING_DM_PARTB_15]
+Text="Ten cuidado. Los archivos son delicados y una vez fuera de sus terminales |se deterioran en poco tiempo. La cooperación será fundamental. Además, hay fuerzas |de UPSILON patrullando la zona: son fuertes, eficientes y tienen órdenes de matar para |defenderse. Buena suerte."
+[IND02_BRIEFING_DM_PARTB_16]
+Text="Para que la operación sea absolutamente secreta debe ejecutarse con la mayor velocidad |y efectividad posible. Debes hacer lo que sea para cumplir tu misión tan rápido como puedas."
+[IND02_BRIEFING_DM_PARTB_17]
+Text="Tu misión será infiltrarte en el complejo de forma sigilosa y desbloquear los terminales |para hackearlos (esta operación puede llevar unos segundos). Si neutralizas un terminal, |se desbloquearán los demás."
+[IND02_BRIEFING_DM_PARTB_18]
+Text="Una vez neutralizados, roba los archivos que contienen y trae al menos dos de ellos |a este dispositivo remoto de control para asegurarlos y completar la misión. Buena suerte."
+[IND02_BRIEFING_DM_PARTB_19]
+Text="Ten cuidado. Los archivos son delicados y una vez fuera de sus terminales se |deterioran en poco tiempo. La cooperación será fundamental. Además, hay fuerzas de |UPSILON patrullando la zona: son fuertes, eficientes y tienen órdenes de matar para defenderse. |Buena suerte."
+[IND02_BRIEFING_DM_PARTB_20]
+Text="Para que la operación sea absolutamente secreta debes eliminar cualquier indicio |de tu intervención. Tienes que acabar con las fuerzas de defensa que hay en la zona."
+[IND02_BRIEFING_DM_PARTB_21]
+Text="Tu misión será infiltrarte en el complejo de forma sigilosa y desbloquear los terminales para |hackearlos (esta operación puede llevar unos segundos). Si neutralizas un terminal, se |desbloquearán los demás."
+[IND02_BRIEFING_DM_PARTB_22]
+Text="Una vez neutralizados, roba las células de memoria que contienen y trae al menos dos de ellas |a este dispositivo remoto de control para asegurarlas y completar la misión. Buena suerte."
+[IND02_BRIEFING_DM_PARTB_23]
+Text="Ten cuidado. Los archivos son delicados y una vez fuera de sus terminales se |deterioran en poco tiempo. La cooperación será fundamental. Además, hay fuerzas de |UPSILON patrullando la zona: son fuertes, eficientes y tienen órdenes de matar para defenderse. |Buena suerte."
+[IND02_BRIEFING_DM_PARTB_24]
+Text="La operación debe ser absolutamente confidencial. Si tú o alguno de tus compañeros sois |detectados por un guardia o un dispositivo de vigilancia, nos veremos obligados a cancelar |la misión."
+[IND02_BRIEFING_DM_PARTB_25]
+Text="Cuantas más células tengamos, más información obtendremos y más podremos |averiguar sobre sus agentes dobles."
+[IND02_BRIEFING_DM_VERSUS_01]
+Text="¡En marcha, caballeros! ¡A hackear los terminales!"
+[IND02_BRIEFING_DM_VERSUS_02]
+Text="Ahora que los terminales han sido desbloqueados, ve y roba los archivos. |Tráelos hasta este drone para asegurarlas."
+[IND02_BRIEFING_DM_VERSUS_03]
+Text="¡Ánimo, muchachos! Un archivo más y la misión habrá sido un éxito."
+[IND02_BRIEFING_DM_SCORE_01]
+Text="¡En marcha, caballeros! ¡A hackear los terminales!"
+[IND02_BRIEFING_DM_SCORE_02]
+Text="Ahora que los terminales han sido desbloqueados, ve y roba los archivos. |Tráelos hasta este drone para asegurarlas."
+[IND02_BRIEFING_DM_SCORE_03]
+Text="¡En marcha, caballeros! ¡A hackear los terminales!"
+[IND02_BRIEFING_DM_INFILT]
+Text="¡En marcha, caballeros! ¡A hackear los terminales!"
+[IND02_BRIEFING_DM_EXFILT]
+Text="Ve y roba los archivos. Tráelos hasta este drone para asegurarlas."
+[IND02_BRIEFING_DM_NOD_01]
+Text="¡En marcha, caballeros! ¡A hackear los terminales!"
+[IND02_BRIEFING_DM_NOD_02]
+Text="Ahora que los terminales han sido desbloqueados, ve y roba los archivos. |Tráelos hasta este drone para asegurarlos."
+[IND02_BRIEFING_DM_NOD_03]
+Text="¡Ánimo, muchachos! Un archivo más y la misión habrá sido un éxito."
+[IND02_BRIEFING_DM_TA_01]
+Text="¡En marcha, caballeros! ¡A hackear los terminales!"
+[IND02_BRIEFING_DM_TA_02]
+Text="Ahora que los terminales han sido desbloqueados, ve y roba los archivos. |Tráelos hasta este drone para asegurarlos."
+[IND02_BRIEFING_DM_TA_03]
+Text="¡Ánimo, muchachos! Un archivo más y la misión habrá sido un éxito."
+[IND02_BRIEFING_DM_TK_01]
+Text="¡En marcha, caballeros! ¡A hackear los terminales!"
+[IND02_BRIEFING_DM_TK_02]
+Text="Ahora que los terminales han sido desbloqueados, ve y roba los archivos. |Tráelos hasta este drone para asegurarlos."
+[IND02_BRIEFING_DM_TK_03]
+Text="¡Ánimo, muchachos! Un archivo más y la misión habrá sido un éxito."
+[IND02_BRIEFING_DM_NDET_01]
+Text="¡En marcha, caballeros! ¡A hackear los terminales!"
+[IND02_BRIEFING_DM_NDET_02]
+Text="Ahora que los terminales han sido desbloqueados, ve y roba los archivos. |Tráelos hasta este drone para asegurarlos."
+[IND02_BRIEFING_DM_NDET_03]
+Text="¡Ánimo, muchachos! Un archivo más y la misión habrá sido un éxito."

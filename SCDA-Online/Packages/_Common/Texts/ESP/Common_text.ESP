@@ -1,0 +1,202 @@
+[Common_DEFAULT]
+Text="Predet."
+[Common_TEAM0]
+Text="Espías"
+[Common_TEAM1]
+Text="Upsilon"
+[Common_TOOLTIP_NOUSENIGHTVISION]
+Text="Pulsa \\c para usar el visor nocturno."
+[Common_TOOLTIP_NOUSEHEATVISION]
+Text="Pulsa \\d para usar el visor térmico."
+[Common_TOOLTIP_NOUSEOBSCURITYANDHYPERCROUCH]
+Text="No hagas tanto ruido. Aprovecha tu entorno."
+[Common_TOOLTIP_TOOFAST]
+Text="Muévete despacio para hacer menos ruido."
+[Common_TOOLTIP_NOJUMP]
+Text="Pulsa \\a para saltar y trepar."
+[Common_KILLCAM_UFWEAPON_KILL]
+Text=" te ha matado con su arma."
+[Common_KILLCAM_UFSNIPE_KILL]
+Text=" te ha disparado con su arma de francotirador."
+[Common_KILLCAM_UFDRONE_KILL]
+Text=" te ha destruido con su drone."
+[Common_KILLCAM_UFGRENADE_KILL]
+Text=""
+[Common_KILLCAM_SPGRAB_KILL]
+Text=" te ha agarrado."
+[Common_KILLCAM_UFDRONE_SUICIDE]
+Text="Te has suicidado con tu propio equipo remoto."
+[Common_KILLCAM_UFGRENADE_SUICIDE]
+Text="Te has suicidado con una granada."
+[Common_KILLCAM_VISION_EMF]
+Text=" tenía el visor CEM activado."
+[Common_KILLCAM_VISION_MTV]
+Text=" tenía el detector de movimiento activado."
+[Common_KILLCAM_VISION_HEAT]
+Text=" tenía el visor térmico activado."
+[Common_KILLCAM_VISION_NIGHT]
+Text=" tenía el visor nocturno activado."
+[Common_TOOLTIP_ALT1NOUSEGADGETALERT]
+Text="Pulsa \\j para usar el dispositivo elegido."
+[Common_TOOLTIP_NOUSESTRATEGICMAP]
+Text="Pulsa \\p para usar el mapa."
+[Common_TOOLTIP_HACK_TERMINAL]
+Text="Pulsa \\i para hackear un terminal."
+[Common_TOOLTIP_ECC_PROXIMITY]
+Text="Hackear el generador principal te permite desactivar todas las luces y defensas de una zona."
+[Common_TOOLTIP_SMOKE_GRENADE]
+Text="Con las granadas puedes crear pantallas de humo. Pulsa \\j para lanzar una granada a tus pies."
+[Common_LOADINGSCREEN_BACK_TO_LOBBY]
+Text="Cargando punto de encuentro"
+[Common_LOADINGSCREEN_LOADING_MAP]
+Text="Cargando %s"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_01]
+Text="Controles básicos"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_02]
+Text="Unidad de hackeo remoto"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_03]
+Text="Objetivos de misión"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_04]
+Text="Sensor de presencia"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_05]
+Text="Movimientos de escape"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_06]
+Text="Acciones cuerpo a cuerpo"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_07]
+Text="La pantalla"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_08]
+Text="Dispositivos"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_09]
+Text="Consejos"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_10]
+Text="Generador eléctrico principal"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_01]
+Text="Controles básicos"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_02]
+Text="Sensor de presencia"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_03]
+Text="Objetivos de misión"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_04]
+Text="Herramientas de búsqueda"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_05]
+Text="Acciones cuerpo a cuerpo"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_06]
+Text="La pantalla"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_07]
+Text="Dispositivos de Upsilon"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_08]
+Text="Consejos"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_09]
+Text="Generador eléctrico principal"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_01]
+Text="Tu personaje puede realizar movimientos |variados y en ocasiones acrobáticos: |saltar, agacharte, rodar, etc.|Moverse:\\q, \\r, \\s, \\t |Saltar: \\a |Agacharse/Levantarse/Rodar: \\b |Cambiar vista de cámara: ratón"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_02]
+Text="En el antebrazo tienes una unidad de|hackeo remoto para descargar|información de un terminal, desactivar|luces o destruir paneles de cristal.||Usar la unidad de  hackeo: \\k|Activar la unidad de hackeo: \\i"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_03]
+Text="El objetivo de la misión es|descargar dos archivos completos de|uno de los terminales y|llevarlos al drone de control.||Para ello, debes infiltrarte|y localizar los objetivos.|Usa tu unidad de hackeo| para descargar la información|y obtener un archivo completo.||Llévalo al drone de control."
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_04]
+Text="Cuidado, tus enemigos tienen|potentes sensores de presencia:|a menos de diez metros de ellos,|aparece un eco en su HUD |que señala tu presencia.||Cuanto más cerca,|más regular y potente es el eco.|Sabrás si te han detectado| al ver un eco similar en tu HUD,|en forma de latido de corazón."
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_05]
+Text="Tu entrenamiento te ha convertido |en un atleta de alto nivel y un ágil |acróbata. Por ello tienes a tu |disposición movimientos aéreos |para salir de ciertas situaciones. ||Realizar un movimiento acrobático|de huida: \\g"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_06]
+Text="No intentes enfrentarte a los|miembros de Upsilon cara a cara,|no podrás contra su potencia de|fuego. Sin embargo, puedes intentar|inmobilizarles tirándote encima de|ellos. Otra solución es acercarte|por detrás para agarrarles y romperles|el cuello o deshacerte de los Upsilon |cuando estás colgado de una|barandilla... .||Agarrar a un enemigo por detrás: \\i|Romper el cuello: \\i|Atacar desde una viga: \\i"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_07]
+Text="La pantalla muestra cuatro partes:|- Superior izquierda: mapa del juego F5|- Inferior izquierda: mensajes F6|- Inferior derecha: medidor|de vida y el dispositivo que llevas F7|- Superior derecha: nombres de|espías y puntuación F8"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_08]
+Text="En la partida, sólo puedes usar un|dispositivo simultáneamente.|Para cambiar, usa el armario en|forma de cajón que encontrarás|junto a tu punto de insercion. Si|eliges el dispositivo que ya tienes,|lo recargarás||Usar un dispositivo: \\j|Usar el cajón: \\i"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_09]
+Text="Algunas estrategias que puedes usar:|- No saques información si|estás al descubierto.Ocúltate,|así huirás más fácilmente.|- No seas avaricioso. Es mejor|descargar la información poco a poco|y moverte de un objetivo a otro.|Si no estás junto al objetivo|será más difícil que te rastreen.|- Juegas en equipo: coordina tus ataques|tendrás más posibilidades.|- Al volver al punto de inserción,|mantén la calma y no corras.|Sé sigiloso y piensa, sólo|ganarás si sigues vivo."
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_10]
+Text="En algunos mapas habrá un|generador: todas las luces y todos|los paneles de control de puertas|están conectados a él. Puedes|hackearlo para apagar al tiempo|todos los dispositivos eléctricos.|Pero cuidado, pueden|reiniciar el generador."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_01]
+Text="Puedes efectuar diferentes|movimientos: saltar, agacharte, etc.,|así como disparar balas o granadas|con tu arama. El número de balas en|el cargador está limitado, pero no el|número de cargadores. Recuerda |recargar en su debido momento.||Saltar: \\A|Agacharte/Levantarte: \\B|Recargar arma: \\M"
+[Common_LOADINGSCREEN_LOADING_UF_DESC_02]
+Text="Tienes un potente sensor|de presencia. Un intruso|a menos de diez metros aparece como|un eco en tu HUD|y un sonido que lo delata.|Cuanto más cercano, más regular y|potente es el eco. Úsalo para|rastrear su posición. Pero ten|en cuenta que ellos saben|cuando han sido detectados.|Sé rápido y efectivo."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_03]
+Text="Tu misión es evitar que los intrusos |roben dos de los archivos que están |en los terminales. Los espías tienen |tecnología de hackeo remota: si un |terminal es atacado, registra la zona|a su alrededor para encontrar al|intruso antes de que descargue el|archivo. Si un intruso consigue un|archivo, persíguelo y neutralízalo|antes de que escape."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_04]
+Text="Tienes más herramientas de búsqueda:|- Un intruso que corra aparecerá en|tu HUD con un círculo blanco.|- El visor CEM que localiza la radiación|de un dispositivo electrónico.|Así localizarás a un intruso|que esté descargando datos.|- Tu linterna, la  mejor aliada|en la oscuridad."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_05]
+Text="Además de tu arma y los accesorios,|tienes a tu disposición acciones para|enfrentarte a los intrusos o llegar|a ellos rápidamente. Si un espía|se acerca demasiado, puedes noquearlo|con un movimiento de rotación ||Tirar a un espía al suelo: \\N|Agarrar a un espía y matarle|en el suelo: \\I   dos veces seguidas|Hacer un sprint: \\G|Usar el garfio: \\I junto a una barandilla"
+[Common_LOADINGSCREEN_LOADING_UF_DESC_06]
+Text="La pantalla muestra cuatro partes:|- Superior izquierda : un mapa|de tu situación.|- Inferior izquierda : mensajes.|- Inferior derecha : dispositiv|que llevas|- Superior derecha muestra los|nombres de los jugadores y su|puntuación además de la puntuación|general. Puedes activar o desactivar|cada una en el menú de opciones."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_07]
+Text="En la partida, sólo puedes usar un|dispositivo simultáneamente. Para|cambiar, usa el armario en forma|de cajón que encontrarás junto a|tu punto de insercion. Si eliges|el dispositivo que ya tienes, lo|recargarás. ||Usar el cajón: \\I|Destruir el drone: \\I"
+[Common_LOADINGSCREEN_LOADING_UF_DESC_08]
+Text="La misión es proteger los|terminales y evitar que los|intrusos descarguen dos archivos|completos. Posibles estrategias:|- Desplegaos por el mapa y comunicaos.|- Usa tus herramientas de|rastreo para cercar al intruso.|- Si han logrado sacar un|archivo completo, retírate hacia|las áreas de extracción para|buscarlos allí."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_09]
+Text="En algunos mapas encontrarás un|generador: todas las luces y todos|los paneles de control de puertas|están conectados a él. Pero|cuidado, los intrusos pueden entrar|en este sistema con sus hackeadores|remotos. Si esto ocurriera, todos los|equipos conectados al generador|se apagarían y tendrías que ir al|generador a reiniciarlo.||Reiniciar el generador: \\I"
+[Common_TOOLTIP_DETECTED_NEW]
+Text="Estás cerca de un enemigo. Puede encontrarte con su detector de movimiento. Atención: es muy fuerte."
+[Common_ALL_BACK_TO_MENU]
+Text="Cargando el menú…"
+[Common_TOOLTIPS_NEW_001]
+Text="Puedes hackear un terminal si lo ves a menos de 10m. Cuanto más cerca, más rápido descargas."
+[Common_TOOLTIPS_NEW_002]
+Text="Para descargar un archivo, puedes hackearlo entero de un terminal, o parar e irte a otro terminal."
+[Common_KILLCAM_PLAYER_SUICIDE]
+Text=" se ha suicidado"
+[Common_KILLCAM_UFMINE_KILL]
+Text=" te ha destruido con una mina."
+[Common_TOOLTIP_STICKY_CAMERA]
+Text=""
+[Common_TOOLTIP_MINEPROXIMITY]
+Text="Atención: Hay una mina."
+[Common_TOOLTIP_CAMERA_PROXIMITY]
+Text="Atención: Hay una cámara. Puede detectarte."
+[Common_TOOLTIP_LASER_PROXIMITY]
+Text="Atención: Hay un láser. Puedes desactivarlo con tu pistola."
+[Common_TOOLTIP_QUIETALERT]
+Text="Los bots te han detectado. Aprovecha la oscuridad."
+[Common_TOOLTIP_NOUSEGADGETALERT]
+Text=""
+[Common_TOOLTIP_NOCHANGEGADGET]
+Text=""
+[Common_TOOLTIP_MARQUED]
+Text="Atención: El enemigo te ha marcado. Puede detectarte."
+[Common_TOOLTIP_NOUSETAZER]
+Text=""
+[Common_TOOLTIP_NOUSEZOOM]
+Text=""
+[Common_TOOLTIP_GUNTOOLONG]
+Text=""
+[Common_KILLCAM_SPPOISON_KILL]
+Text="Te han envenenado."
+[Common_KILLCAM_UFMINE_SUICIDE]
+Text="Te has matado con tu propia mina. La próxima vez, mira por dónde andas y recuerda dónde has puesto las minas."
+[Common_TOOLTIP_QUIETALERT2]
+Text="Los bots te han detectado. Has hecho mucho ruido."
+[Common_TOOLTIP_NOGUNENERGY]
+Text="Tu arma no tiene energía. Espera a que recargue."
+[Common_TOOLTIP_AIDE_DESTR_FLAG]
+Text="Ve más despacio o la célula de memoria se recalentará y se destruirá:"
+[Common_TOOLTIP_AIDE_PASSE_FLAG]
+Text=""
+[Common_TOOLTIP_FLAG_DESTR_ALERT]
+Text="Hay una célula de memoria en el suelo. Va a autodestruirse."
+[Common_TOOLTIP_MOUV_COOP]
+Text=""
+[Common_TOOLTIP_SPY_BULLET]
+Text=""
+[Common_TOOLTIP_EMP_BULLET]
+Text=""
+[Common_TOOLTIP_WIFI_MODEM]
+Text=""
+[Common_TOOLTIP_POISON_BULLET]
+Text=""
+[Common_TOOLTIP_CAMO_SUIT]
+Text=""
+[Common_TOOLTIP_MARKER]
+Text=""
+[Common_TOOLTIP_DRONE_NEW_VIDEO]
+Text=""
+[Common_LOADINGSCREEN_TOOLTIPS_SPY01_TITLE]
+Text="Fuerza de infiltración 01"
+[Common_LOADINGSCREEN_TOOLTIPS_MERC01_TITLE]
+Text="Fuerza Upsilon 01"
+[Common_LOADINGSCREEN_TOOLTIPS_SPY01_TEXT]
+Text="Tu unidad de hackeo te permite descargar archivos.||"A menos de diez metros de un terminal, presiona y mantén el gatillo derecho, apunta y presiona A para descargar.||Esta unidad te permite también apagar las luces, romper vventanas e incluso hackear elementos enemigos." "
+[Common_LOADINGSCREEN_TOOLTIPS_MERC01_TEXT]
+Text="Para ayudarte a rastrear al intruso, cuentas con un detector de movimiento de alta tecnología.||No funciona cuando el enemigo está a menos de diez metros de ti.||Cuanto mayor sean el sonido y la vibración, más cerca está el objetivo de ti. Permanece atento."
+[Common_ALL_BACK_TO_LOBBY]
+Text=""

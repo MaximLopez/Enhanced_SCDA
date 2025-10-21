@@ -1,0 +1,588 @@
+BEGIN ScriptEvents
+   BEGIN MeshAnim Name=SPY
+      BEGIN AnimSeq Name=2WalkCrSpFd2
+         AnimNbFrames=32
+         BEGIN ScriptEvent Time=0.363636374474
+            EventName=RFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.363636374474
+            EventName=LFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.848484873772
+            EventName=LFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.909090936184
+            EventName=RFoot_OnAir
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=2WalkStSpFd2
+         AnimNbFrames=33
+         BEGIN ScriptEvent Time=0.393939405680
+            EventName=LFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.424242436886
+            EventName=RFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.909090936184
+            EventName=RFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.909090936184
+            EventName=LFoot_OnGround
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=2WalkCrAlFd0
+         AnimNbFrames=32
+         BEGIN ScriptEvent Time=0.250000000000
+            EventName=RFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.375000000000
+            EventName=LFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.750000000000
+            EventName=LFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.781250000000
+            EventName=RFoot_OnAir
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=2WalkStAlFd0
+         AnimNbFrames=32
+         BEGIN ScriptEvent Time=0.250000000000
+            EventName=LFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.281250000000
+            EventName=RFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.718750000000
+            EventName=LFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.750000000000
+            EventName=RFoot_OnAir
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=4RunCrAlFD0
+         AnimNbFrames=20
+         BEGIN ScriptEvent Time=0.050000000745
+            EventName=LFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.349999994040
+            EventName=RFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.550000011921
+            EventName=RFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.800000011921
+            EventName=LFoot_OnGround
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=FencStAlCo0
+         AnimNbFrames=43
+         BEGIN ScriptEvent Time=0.000000000000
+            EventName=Notify_Disable_StopAnim
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=Ledg_EscStAlBgL150
+         AnimNbFrames=12
+         BEGIN ScriptEvent Time=0.000000000000
+            EventName=Notify_Disable_StopAnim
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=Ledg_EscStAlBgR150
+         AnimNbFrames=12
+         BEGIN ScriptEvent Time=0.000000000000
+            EventName=Notify_Disable_StopAnim
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=Ledg_EscStAlEd_Bk150
+         AnimNbFrames=35
+         BEGIN ScriptEvent Time=0.301851838827
+            EventName=Notify_Disable_StopAnim
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=Ledg_EscStAlEd_Fd150
+         AnimNbFrames=42
+         BEGIN ScriptEvent Time=0.463541656733
+            EventName=Notify_Disable_StopAnim
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=PipHPrAl0_PipHPrSp1
+         AnimNbFrames=41
+         BEGIN ScriptEvent Time=0.315490186214
+            EventName=NotifyDrawWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=PipHPrSp1_FallStAl
+         AnimNbFrames=21
+         BEGIN ScriptEvent Time=0.571428596973
+            EventName=NotifyUndrawWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=PipHPrSp1_PipHPrAl0
+         AnimNbFrames=41
+         BEGIN ScriptEvent Time=0.226415097713
+            EventName=NotifyUndrawWeapon
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.226037725806
+            EventName=NotifyUndrawWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=PipHStAl_PipHStSp1
+         AnimNbFrames=24
+         BEGIN ScriptEvent Time=0.391666680574
+            EventName=NotifyDrawWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=PipHStSp1_PipHStAl
+         AnimNbFrames=49
+         BEGIN ScriptEvent Time=0.117659576237
+            EventName=NotifyUndrawWeapon
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.300000011921
+            EventName=NotifyUndrawWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=PipVStAlL_ZippStAl
+         AnimNbFrames=28
+         BEGIN ScriptEvent Time=0.365853667259
+            EventName=Notify_ZipLine_RCatch
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.797073185444
+            EventName=Notify_ZipLine_LCatch
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=PipVStAlR_ZippStAl
+         AnimNbFrames=28
+         BEGIN ScriptEvent Time=0.422439008951
+            EventName=Notify_ZipLine_LCatch
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.814634203911
+            EventName=Notify_ZipLine_RCatch
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=PipHStAl_ZippStAl_Lt
+         AnimNbFrames=26
+         BEGIN ScriptEvent Time=0.385625004768
+            EventName=Notify_ZipLine_Catch
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=PipHStAl_ZippStAl_Rt
+         AnimNbFrames=26
+         BEGIN ScriptEvent Time=0.354375004768
+            EventName=Notify_ZipLine_Catch
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=ZippCrAlBl0
+         AnimNbFrames=24
+         BEGIN ScriptEvent Time=0.674583375454
+            EventName=Notify_ZipLine_LRelease
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.675000011921
+            EventName=Notify_ZipLine_RRelease
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=ZippStAl_PipHStAlL_Lt
+         AnimNbFrames=46
+         BEGIN ScriptEvent Time=0.393478274345
+            EventName=Notify_ZipLine_LRelease
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.535652160645
+            EventName=Notify_ZipLine_RRelease
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=ZippStAl_PipHStAlL_Rt
+         AnimNbFrames=46
+         BEGIN ScriptEvent Time=0.293695658445
+            EventName=Notify_ZipLine_RRelease
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.565652132034
+            EventName=Notify_ZipLine_LRelease
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=ZippStAlBg0
+         AnimNbFrames=16
+         BEGIN ScriptEvent Time=0.145624995232
+            EventName=Notify_ZipLine_LCatch
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.308750003576
+            EventName=Notify_ZipLine_RCatch
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=ZippStAlL_PipVStAlL_Dn
+         AnimNbFrames=27
+         BEGIN ScriptEvent Time=0.052592590451
+            EventName=Notify_ZipLine_RRelease
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.374074041843
+            EventName=Notify_ZipLine_LRelease
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=DrawStSpEd2
+         AnimNbFrames=19
+         BEGIN ScriptEvent Time=0.555555582047
+            EventName=NotifyUndrawWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=DrawCrSpBg2
+         AnimNbFrames=19
+         BEGIN ScriptEvent Time=0.555555582047
+            EventName=NotifyDrawWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=DrawCrSpEd2
+         AnimNbFrames=19
+         BEGIN ScriptEvent Time=0.555555582047
+            EventName=NotifyUndrawWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=DrawStSpBg2
+         AnimNbFrames=19
+         BEGIN ScriptEvent Time=0.277777791023
+            EventName=NotifyDrawWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=PalmCrAlNt0
+         AnimNbFrames=61
+         BEGIN ScriptEvent Time=4.700000286102
+            EventName=NotifyDrawWeapon
+         END ScriptEvent
+         BEGIN ScriptEvent Time=1.843333363533
+            EventName=NotifyUndrawWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=ThroStAlMix
+         AnimNbFrames=29
+         BEGIN ScriptEvent Time=0.249655157328
+            EventName=NotifyQuickUse
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=GrabLgEdRail
+         AnimNbFrames=101
+         BEGIN ScriptEvent Time=0.259999990463
+            EventName=Notify_GFL_FindAndDestructWindow
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=GrabLgEdRailW
+         AnimNbFrames=101
+         BEGIN ScriptEvent Time=0.259999990463
+            EventName=Notify_GFL_FindAndDestructWindow
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=SladMovCrAl_Jump
+         AnimNbFrames=66
+         BEGIN ScriptEvent Time=0.154042541981
+            EventName=NotifyQuickUse
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=JumpStAlBr0_Wind
+         AnimNbFrames=38
+         BEGIN ScriptEvent Time=0.157894730568
+            EventName=NotifyBreakWindow
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=LedgStAlRail_Fall_Up
+         AnimNbFrames=34
+         BEGIN ScriptEvent Time=0.377941191196
+            EventName=Notify_Disable_StopAnim
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=LedgStAl_Walk_UpRailLt
+         AnimNbFrames=87
+         BEGIN ScriptEvent Time=0.697241365910
+            EventName=Notify_Disable_StopAnim
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=LedgStAl_Walk_UpRailRt
+         AnimNbFrames=85
+         BEGIN ScriptEvent Time=0.717058837414
+            EventName=Notify_Disable_StopAnim
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=PalmStAlNt0
+         AnimNbFrames=61
+         BEGIN ScriptEvent Time=0.072727270424
+            EventName=LFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.127272725105
+            EventName=RFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.236363634467
+            EventName=RFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.309090912342
+            EventName=LFoot_OnGround
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=0WaitCrAl_LaddStAlL_Dn
+         AnimNbFrames=55
+         BEGIN ScriptEvent Time=0.072727270424
+            EventName=LFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.127272725105
+            EventName=RFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.236363634467
+            EventName=RFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.309090912342
+            EventName=LFoot_OnGround
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=Palm_Bg-End
+         AnimNbFrames=6
+         BEGIN ScriptEvent Time=0.163333326578
+            EventName=Notify_Middle_Pressed
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.158333331347
+            EventName=Notify_Ring_Pressed
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=Palm_End
+         AnimNbFrames=6
+         BEGIN ScriptEvent Time=0.166666671634
+            EventName=Notify_Pinky_Pressed
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.159999996424
+            EventName=Notify_Ring_Pressed
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=GrabLgEdWind
+         AnimNbFrames=101
+         BEGIN ScriptEvent Time=0.282079219818
+            EventName=Notify_GFL_FindAndDestructWindow
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=Palm_wind
+         AnimNbFrames=31
+         BEGIN ScriptEvent Time=0.238124996424
+            EventName=Notify_Middle_Pressed
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.231875002384
+            EventName=Notify_Ring_Pressed
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.626874983311
+            EventName=Notify_Ring_Pressed
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.631249964237
+            EventName=None
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=Palm_Light
+         AnimNbFrames=31
+         BEGIN ScriptEvent Time=0.700625002384
+            EventName=Notify_Pinky_Pressed
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.698125004768
+            EventName=Notify_Ring_Pressed
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.344374984503
+            EventName=Notify_Index_Pressed
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=2WalkCrAlFd0_S
+         AnimNbFrames=32
+         BEGIN ScriptEvent Time=0.250000000000
+            EventName=RFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.375000000000
+            EventName=LFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.750000000000
+            EventName=LFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.781250000000
+            EventName=RFoot_OnAir
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=2WalkStAlFd0_S
+         AnimNbFrames=32
+         BEGIN ScriptEvent Time=0.250000000000
+            EventName=LFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.281250000000
+            EventName=RFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.718750000000
+            EventName=LFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.750000000000
+            EventName=RFoot_OnAir
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=4RunCrAlFd0_S
+         AnimNbFrames=20
+         BEGIN ScriptEvent Time=0.050000000745
+            EventName=LFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.349999994040
+            EventName=RFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.550000011921
+            EventName=RFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.800000011921
+            EventName=LFoot_OnGround
+         END ScriptEvent
+      END AnimSeq
+   END MeshAnim
+   BEGIN MeshAnim Name=merc
+      BEGIN AnimSeq Name=0WAITCRSP2_LADDSTALL_DN
+         AnimNbFrames=57
+         BEGIN ScriptEvent Time=0.085714288056
+            EventName=NotifyUndrawWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=0WaitCrSp2_LaddStAlR_Dn
+         AnimNbFrames=55
+         BEGIN ScriptEvent Time=0.087857142091
+            EventName=NotifyUndrawWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=0WaitStSp2_LaddStAlL_Dn
+         AnimNbFrames=59
+         BEGIN ScriptEvent Time=0.107068963349
+            EventName=NotifyUndrawWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=0WaitStSp2_LaddStAlR_Dn
+         AnimNbFrames=59
+         BEGIN ScriptEvent Time=0.112586207688
+            EventName=NotifyUndrawWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=JumpStAl_LaddStAlL
+         AnimNbFrames=24
+         BEGIN ScriptEvent Time=0.041666667908
+            EventName=NotifyUndrawWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=JumpStAl_LaddStAlR
+         AnimNbFrames=24
+         BEGIN ScriptEvent Time=0.041666667908
+            EventName=NotifyUndrawWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=LaddStAlL_0WaitStSp2_Dn
+         AnimNbFrames=17
+         BEGIN ScriptEvent Time=0.376875013113
+            EventName=NotifyDrawWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=ReloStSpFd2
+         AnimNbFrames=56
+         BEGIN ScriptEvent Time=0.235892862082
+            EventName=Notify_Ammo_InHand
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.613214313984
+            EventName=Notify_Ammo_InWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=2WalkCrSpFd2
+         AnimNbFrames=33
+         BEGIN ScriptEvent Time=0.242424249649
+            EventName=LFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.242424249649
+            EventName=RFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.696969687939
+            EventName=LFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.696969687939
+            EventName=RFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.363636374474
+            EventName=RFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.333333343267
+            EventName=LFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.848484873772
+            EventName=LFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.939393937588
+            EventName=None
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=2WalkStSpFd2
+         AnimNbFrames=33
+         BEGIN ScriptEvent Time=0.454545468092
+            EventName=LFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.393939405680
+            EventName=RFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.848484873772
+            EventName=RFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.848484873772
+            EventName=LFoot_OnGround
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=4RunStSpFD2
+         AnimNbFrames=16
+         BEGIN ScriptEvent Time=0.187500000000
+            EventName=LFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.500000000000
+            EventName=RFoot_OnGround
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.687500000000
+            EventName=RFoot_OnAir
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.000000000000
+            EventName=LFoot_OnGround
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=0WaitStSp2_LaddStAlL
+         AnimNbFrames=27
+         BEGIN ScriptEvent Time=0.270000010729
+            EventName=NotifyUndrawWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=2WALKSTAL2H_FALLHOOKSTAL
+         AnimNbFrames=61
+         BEGIN ScriptEvent Time=0.122295081615
+            EventName=Notify_Hook_SpawnHook
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.164918020368
+            EventName=NotifyUndrawWeapon
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.417704910040
+            EventName=Notify_Hook_PutHook
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.713442623615
+            EventName=Notify_Hook_RCatch
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.773934423923
+            EventName=Notify_Hook_LCatch
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=LANDHOOKSTALNT
+         AnimNbFrames=43
+         BEGIN ScriptEvent Time=0.046511627734
+            EventName=Notify_Hook_ReleaseHook
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.766744136810
+            EventName=NotifyDrawWeapon
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.368372082710
+            EventName=Notify_Hook_RRelease
+         END ScriptEvent
+         BEGIN ScriptEvent Time=0.676511645317
+            EventName=Notify_Hook_LRelease
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=LaddStAlR_WalkCrSp2_Up
+         AnimNbFrames=40
+         BEGIN ScriptEvent Time=0.673999965191
+            EventName=NotifyDrawWeapon
+         END ScriptEvent
+      END AnimSeq
+      BEGIN AnimSeq Name=LaddStAlL_WalkCrSp2_Up
+         AnimNbFrames=43
+         BEGIN ScriptEvent Time=0.585348844528
+            EventName=NotifyDrawWeapon
+         END ScriptEvent
+      END AnimSeq
+   END MeshAnim
+END ScriptEvents

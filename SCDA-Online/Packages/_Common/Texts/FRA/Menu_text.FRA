@@ -1,0 +1,3026 @@
+[Menu_ALL_CANCEL]
+Text="Annuler"
+[Menu_ALL_VALIDATE]
+Text="Valider"
+[Menu_ALL_DEFAULT_ITEMTITLE]
+Text="Titre par défaut"
+[Menu_ALL_MENU_CHOOSE_SOLO]
+Text="Solo"
+[Menu_ALL_CHOOSE_MULTI]
+Text="Multijoueur"
+[Menu_ALL_CHOOSE_EXTRA_F]
+Text="Bonus"
+[Menu_ALL_PRESS_START]
+Text="Appuyez sur START"
+[Menu_ALL_CHOOSE]
+Text="Choisir"
+[Menu_ALL_BACK]
+Text="Retour"
+[Menu_ALL_AIDE_CHOIX_SOLO]
+Text="Jouer la nouvelle aventure de Sam Fisher."
+[Menu_ALL_AIDE_CHOIX_MULTI]
+Text="Jouer aux modes multijoueurs de Splinter Cell: Double Agent."
+[Menu_ALL_AIDE_CHOIX_CREDITS]
+Text="Parcourir la liste des personnes ayant contribué à la création du jeu."
+[Menu_XBLIVE_CHOOSE_LAN]
+Text="LAN"
+[Menu_XBLIVE_CHOOSE_LIVE]
+Text="En ligne"
+[Menu_XBLIVE_AIDE_CHOOSE_LAN]
+Text="Jouer sur un réseau local."
+[Menu_XBLIVE_AIDE_CHOOSE_LIVE]
+Text="Jouer sur Xbox Live."
+[Menu_XBLIVE_QUICKMATCH_VERSUS]
+Text="Partie rapide"
+[Menu_XBLIVE_AIDE_QUICKMATCH_VERSUS]
+Text="Trouver une partie joignable en mode VERSUS."
+[Menu_XBLIVE_AIDE_QUICKMATCH_CHALLENGE]
+Text="Trouver une partie joignable en mode CHALLENGE."
+[Menu_XBLIVE_AIDE_CUSTOM_MATCH_VS]
+Text="Créer ou rejoindre une session VERSUS répondant à vos souhaits."
+[Menu_XBLIVE_AIDE_CUSTOM_MATCH_CH]
+Text="Créer ou rejoindre une PARTIE PERSONNALISÉE en mode CHALLENGE sur cette carte."
+[Menu_XBLIVE_AIDE_QM_VS_RK]
+Text="Trouver une PARTIE AVEC CLASSEMENT joignable."
+[Menu_XBLIVE_AIDE_CUSTOM_MATCH_RANKED]
+Text="Créer ou rejoindre une PARTIE PERSONNALISÉE AVEC CLASSEMENT."
+[Menu_XBLIVE_HELP_PUSH_X_BUTTON_ST_TO_RK]
+Text="Partie avec classement"
+[Menu_XBLIVE_HELP_PUSH_X_BUTTON_RK_TO_ST]
+Text="Mise en relation"
+[Menu_ALL_CUBE_OPEN]
+Text="Paramètres du profil."
+[Menu_ALL_CUBE_OPEN_HELP_PROFILE_FACE]
+Text="Gestion des profils"
+[Menu_XBLIVE_CUBE_OPEN_HELP_SQUAD_FACE]
+Text="Accéder aux paramètres de votre CLAN."
+[Menu_XBLIVE_CUBE_FACE_PROFILE]
+Text="PROFIL"
+[Menu_XBLIVE_CUBE_FACE_SQUAD]
+Text="CLAN"
+[Menu_XBLIVE_CUBE_FACE_MENTOR]
+Text="APPRENDRE"
+[Menu_ALL_LAN_SESSIONS_LIST]
+Text="Choisir une partie à rejoindre."
+[Menu_XBLIVE_HELP_CHOOSE_SQUAD_MATE]
+Text="Choisir membre"
+[Menu_XBLIVE_HELP_TEMPLATE_LONEWOLF]
+Text="Jouer contre et avec quiconque."
+[Menu_XBLIVE_HELP_TEMPLATE_FR_VS_WO]
+Text="Jouer avec des amis contre quiconque."
+[Menu_XBLIVE_HELPE_TEMPLATE_FR_VS_FR]
+Text="Jouer avec et contre des amis."
+[Menu_XBLIVE_HELP_TEMPLATE_SQ_VS_WO]
+Text="Jouer avec votre CLAN contre quiconque."
+[Menu_XBLIVE_HELP_TEMPLATE_SQ_VS_SQ]
+Text="Jouer avec et contre des membres de votre CLAN."
+[Menu_XBLIVE_HELP_TEMPLATE_PRIVATE]
+Text="Jouer une partie en PRIVÉ avec des amis."
+[Menu_XBLIVE_HELP_TEAM_SPY]
+Text="Jouer un ESPION et tenter de dérober des données."
+[Menu_XBLIVE_HELP_TEAM_UPSILON]
+Text="Jouer un membre des FORCES UPSILON et protéger les terminaux."
+[Menu_XBLIVE_HELP_TEAM_DONT_CARE]
+Text="Jouer un ESPION ou un membre des FORCES UPSILON."
+[Menu_XBLIVE_HELP_CHOOSE_FRIEND]
+Text="Choisir un AMI avec qui jouer."
+[Menu_ALL_HELP_TEMPLATE_LONEWOLF_CH]
+Text="Jouer avec n'importe qui."
+[Menu_ALL_HELP_TEMPLATE_CH_WI_FR]
+Text="Jouer avec des amis."
+[Menu_ALL_HELP_TEMPLATE_CH_WI_SQ]
+Text="Jouer avec votre CLAN."
+[Menu_ALL_HELP_RPOFILE_GAME_OPTIONS]
+Text="Éditer les options de jeu pour ce profil."
+[Menu_ALL_HELP_PROFILE_GAME_PROGRESSION]
+Text="Vérifier votre progression et vos SUCCÈS."
+[Menu_ALL_HELP_PROFILE_BONUS_ZONE]
+Text="Vérifier les bonus débloqués."
+[Menu_XBLIVE_POP_UP_SIGNING_IN]
+Text="Veuillez patienter..."
+[Menu_ALL_CHOOSE_TEAM_SPY]
+Text="Espion"
+[Menu_ALL_CHOOSE_TEAM_UPSILON]
+Text="Forces UPSILON"
+[Menu_ALL_MAP_NAME_MAP_01]
+Text="Blackwing"
+[Menu_ALL_MAP_NAME_MAP_02]
+Text="Motorway 90"
+[Menu_ALL_MAP_NAME_MAP_03]
+Text="Terminus"
+[Menu_ALL_MAP_NAME_MAP_04]
+Text="Red Diamond"
+[Menu_ALL_MAP_NAME_MAP_05]
+Text="Boss House"
+[Menu_ALL_MAP_NAME_MAP_06]
+Text="Dawn waves"
+[Menu_ALL_MAP_NAME_MAP_07]
+Text="USS Wisdom"
+[Menu_ALL_MAP_NAME_MAP_08]
+Text="Slaughterhouse"
+[Menu_ALL_MAP_NAME_MAP_09]
+Text="Kinshasa"
+[Menu_ALL_MAP_NAME_MAP_10]
+Text="Secret Base"
+[Menu_ALL_HELP_VIDEO_SECTION]
+Text="Vidéos d'aide"
+[Menu_ALL_AIDE_HELP_VIDEO]
+Text="Voir des vidéos expliquant les règles du jeu."
+[Menu_XBLIVE_CHOIX_TEMPLATE_VERSUS_LONE]
+Text="Solo"
+[Menu_XBLIVE_CHOIX_TEMPLATE_VERSUS_FR_VS_WO]
+Text="Amis contre monde"
+[Menu_XBLIVE_CHOIX_TEMPLATE_VERSUS_FR_VS_FR]
+Text="Amis contre amis"
+[Menu_XBLIVE_CHOIX_TEMPLATE_VERSUS_SQ_VS_WO]
+Text="Clan contre monde"
+[Menu_XBLIVE_CHOIX_TEMPLATE_VERSUS_SQ_VS_SQ]
+Text="Jouer avec votre clan contre un autre clan"
+[Menu_XBLIVE_LOOKING_SESSION]
+Text="Recherche une session. Veuillez patienter..."
+[Menu_XBLIVE_HOSTING_SESSION]
+Text="Hébergement d'une session. Veuillez patienter..."
+[Menu_XBLIVE_UNABLE_CREATE_SESSION]
+Text="Impossible de créer une session.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_JOINING_SESSION]
+Text="Rejoint une session. Veuillez patienter..."
+[Menu_XBLIVE_UNABLE_JOIN_SESSION]
+Text="Impossible de rejoindre la session.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_NO_MATCH_FOUND]
+Text="Aucune partie trouvée.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_UNALBE_FIND_SESSION]
+Text="Impossible de trouver une session.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_ERROR_CONNEXION_CRA_GROUP]
+Text="Une erreur est survenue lors de la recherche de session.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_UNABLE_SIGNIN_ONLINE]
+Text="Impossible de se connecter.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_UNABLE_SIGNIN_LOCAL]
+Text="Impossible de se connecter en local.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_ERROR_WHILE_SIGNING_IN]
+Text="Une erreur est survenue lors de la connexion.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_START_SESSION]
+Text="Démarrer la partie"
+[Menu_XBLIVE_READY]
+Text="Prêt / Pas prêt"
+[Menu_XBLIVE_NOT_READY]
+Text="Pas prêt à jouer."
+[Menu_ALL_TITRE_MAIN_MENU]
+Text="Splinter Cell: Double Agent"
+[Menu_XBLIVE_HOST]
+Text="Héberger"
+[Menu_XBLIVE_QUIT_SESSION]
+Text="Êtes-vous sûr de vouloir quitter la session ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[Menu_XBLIVE_YES]
+Text="Oui"
+[Menu_XBLIVE_NO]
+Text="Non"
+[Menu_XBLIVE_DISPLAY_PLAYER_READY]
+Text="Prêt"
+[Menu_XBLIVE_DISPLAY_PLAYER_NOT_READY]
+Text="Pas prêt"
+[Menu_XBLIVE_RANKED_SESSION]
+Text="Partie avec classement"
+[Menu_XBLIVE_STANDARD_SESSION]
+Text="Partie normale"
+[Menu_ALL_NUMBER_OF_PLAYERS_1]
+Text="Un joueur"
+[Menu_ALL_NUMBER_OF_PLAYERS_2]
+Text="Deux joueurs"
+[Menu_ALL_NUMBER_OF_PLAYERS_3]
+Text="Trois joueurs"
+[Menu_ALL_HELP_CREATE_SQUAD]
+Text="Créer un CLAN, en rejoindre un ou consulter le sien."
+[Menu_ALL_HELP_CONSULT_SQUAD]
+Text="Consulter les membres de votre CLAN."
+[Menu_ALL_HELP_CONSULT_SQUAD_INVITE]
+Text="Voir cette invitation d'un CLAN."
+[Menu_ALL_HELP_ENTER_SQUAD_MOTO]
+Text="Entrez le SLOGAN de votre clan :"
+[Menu_ALL_HELP_ENTER_SQUAD_NAME]
+Text="Entrez le nom de votre CLAN :"
+[Menu_ALL_HELP_CREATE_MENTOR_SESSION]
+Text="Créer une partie pour expliquer le jeu aux joueurs débutants."
+[Menu_ALL_HELP_JOIN_STUDENT_SESSION]
+Text="Rechercher une partie dans laquelle un joueur expérimenté va vous aider."
+[Menu_XBLIVE_TITLE_CUSTOM_MATCH]
+Text="Partie personnalisée"
+[Menu_XBLIVE_HELP_CHOOSE_VIDEOS]
+Text="Apprendre le fonctionnement du jeu à l'aide de vidéos."
+[Menu_XBLIVE_HELP_EXTRA_FEATURES]
+Text="Parcourir les bonus disponibles."
+[Menu_XBLIVE_ACTION_PRE_LOBBY_SWITCH_TEAM]
+Text="Changer d'équipe"
+[Menu_XBLIVE_ACTION_PRE_LOBBY_CHANGE_MAP]
+Text="Changer de carte"
+[Menu_XBLIVE_ACTION_PRE_LOBBY_PROCEED]
+Text="Continuer et chercher une session."
+[Menu_ALL_EX_FE_CREDITS]
+Text="Crédits"
+[Menu_ALL_EX_FE_GR3_DEMO]
+Text="Version démo de Ghost Recon Advanced Warfighter"
+[Menu_ALL_EX_FE_GR3_DEMO_AIDE]
+Text="Jouer à la démo de Ghost Recon Advanced Warfighter."
+[Menu_ALL_IMP_MODE_PLAY]
+Text="Pas de CHALLENGES en mode CLASSEMENT.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_VS_IMP_JOIN_SESSION]
+Text="Un problème empêche de rejoindre la session.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_VS_ERR_SESSION_HOST_END]
+Text="L'hôte a mis fin à la session.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_VS_ERR_SESSION_GAME_FULL]
+Text="Session de jeu pleine.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_VS_ERR_SESSION_CONNECT]
+Text="Un problème empêche de rejoindre la session.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_CH_ERR_SESSION_HOST_END]
+Text="Impossible de rejoindre, l'hôte a mis fin à la session.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_CH_ERR_SESSION_GAME_FULL]
+Text="Impossible de rejoindre, la session de jeu est pleine.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_CH_ERR_SESSION_CONNECT]
+Text="Un problème empêche de rejoindre la session.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_CH_IMP_JOIN_SESSION]
+Text="Un problème empêche de rejoindre la session.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_CHOOSE_SESSION]
+Text="Choisir une session."
+[Menu_XBLIVE_VS_ERR_PLAY_RANK_NO_SQUAD]
+Text="Vous devez faire partie d'un clan pour jouer en session CLASSEMENT.|Accédez à vos paramètres pour créer un CLAN ou pour accepter un recrutement.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_CHOOSE_MATES]
+Text="Choisir vos équipiers."
+[Menu_XBLIVE_VS_UNABLE_SEND_INVITE]
+Text="Impossible d'envoyer une invitation. Votre invitation n'a pas été envoyée. Veuillez réessayer.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_CHOOSE_FRIENDS_]
+Text="Choisir des amis."
+[Menu_XBLIVE_ERR_SESSION_NO_FRIENDS]
+Text="Impossible de commencer la session sans vos amis.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_ERR_SESSION_NO_MATES]
+Text="Impossible de commencer la session sans vos équipiers.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_CHALLENGE_ULTIMATE]
+Text="Challenge ULTIME"
+[Menu_ALL_CUBE_PROFILE_TYPE_01]
+Text="Équipement"
+[Menu_ALL_CUBE_PROFILE_TYPE_02]
+Text="Votre profil"
+[Menu_ALL_CUBE_PROFILE_TYPE_03]
+Text="Progression dans le jeu"
+[Menu_ALL_CUBE_PROFILE_TYPE_04]
+Text="Bonus"
+[Menu_ALL_CUBE_PROFILE_EQUIP_SLOTS]
+Text="Statut des emplacements"
+[Menu_ALL_GAME_PROGR_MEDALS_01]
+Text="Médailles d'OR"
+[Menu_ALL_GAME_PROGR_MEDALS_02]
+Text="Médailles d'ARGENT"
+[Menu_ALL_GAME_PROGR_MEDALS_03]
+Text="Médailles de BRONZE"
+[Menu_ALL_GAME_PROGR_GRADE_01]
+Text="Recruit"
+[Menu_ALL_GAME_PROGR_GRADE_02]
+Text="Operative"
+[Menu_ALL_GAME_PROGR_GRADE_03]
+Text="Field Agent"
+[Menu_ALL_GAME_PROGR_GRADE_04]
+Text="Special Agent"
+[Menu_ALL_GAME_PROGR_GRADE_05]
+Text="Officer"
+[Menu_ALL_GAME_PROGR_GRADE_06]
+Text="Commander"
+[Menu_ALL_SPY_CAPACITIES_GENERAL]
+Text="ESPIONS"
+[Menu_ALL_SPY_CAPACITIES_01]
+Text="Athlète"
+[Menu_ALL_SPY_CAPACITIES_02]
+Text="Discrétion"
+[Menu_ALL_SPY_CAPACITIES_03]
+Text="Gadgets"
+[Menu_ALL_SPY_CAPACITIES_LEVEL_01]
+Text="Niveau athlète : MAX"
+[Menu_ALL_SPY_CAPACITIES_LEVEL_02]
+Text="Niveau discrétion : MAX"
+[Menu_ALL_SPY_CAPACITIES_LEVEL_03]
+Text="Niveau gadgets espion : MAX"
+[Menu_ALL_UF_CAPACITIES_GENERAL]
+Text="UPSILON"
+[Menu_ALL_UF_CAPACITIES_01]
+Text="Action directe"
+[Menu_ALL_UF_CAPACITIES_02]
+Text="Reco/pistage"
+[Menu_ALL_UF_CAPACITIES_03]
+Text="Gadgets"
+[Menu_ALL_UF_CAPACITIES_LEVEL_01]
+Text="Niveau action directe : MAX"
+[Menu_ALL_UF_CAPACITIES_LEVEL_02]
+Text="Niveau reco/pistage : MAX"
+[Menu_ALL_UF_CAPACITIES_LEVEL_03]
+Text="Niveau gadgets UPSILON : MAX"
+[Menu_ALL_GAME_PROGR_GRADE]
+Text="Grade"
+[Menu_ALL_GAME_PROGR_CAPACITIES]
+Text="Compétences"
+[Menu_ALL_GAME_PROGR_CHALLENGES]
+Text="Challenges coopératifs"
+[Menu_ALL_GAME_PROGR_VERSUS]
+Text="Versus"
+[Menu_ALL_GAME_PROGR_PROGRESSION]
+Text="Progression"
+[Menu_ALL_GAME_PROGR_SCORE]
+Text="Résumé du score"
+[Menu_ALL_GAME_PROGR_PROGRESSION_INSTRUCTOR]
+Text="Niveau Mentor atteint"
+[Menu_ALL_GAME_PROGR_SCORE_NUM_1]
+Text="Meilleurs scores"
+[Menu_ALL_GAME_PROGR_REWARDS]
+Text="Récompenses débloquées"
+[Menu_ALL_BONUS_ZONE_NEW]
+Text="Nouveau Bonus !"
+[Menu_ALL_BONUS_ZONE_LIST]
+Text="Liste des Bonus"
+[Menu_ALL_BONUS_ZONE_TYPE_02]
+Text="Consultez les missions"
+[Menu_ALL_BONUS_ZONE_TYPE_03]
+Text="Parcourir les bonus."
+[Menu_ALL_SQUAD_TYPE_01]
+Text="Créez un CLAN"
+[Menu_ALL_SQUAD_TYPE_02]
+Text="Invitations CLAN"
+[Menu_ALL_SQUAD_CREATE_DETAILS]
+Text="Entrer les détails du CLAN."
+[Menu_ALL_SQUAD_MOTO]
+Text="Devise"
+[Menu_ALL_SQUAD_INVITE_DETAILS]
+Text="Détails des invitations CLAN"
+[Menu_ALL_SQUAD_INVITE_ACCEPT]
+Text="Accepter"
+[Menu_ALL_SQUAD_INVITE_DECLINE]
+Text="Refuser"
+[Menu_ALL_SQUAD_INVITE_ACCEPT_JOIN]
+Text="Accepter et rejoindre ce CLAN ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[Menu_ALL_SQUAD_INVITE_DECLINE_DELETE]
+Text="Décliner cette invitation de CLAN ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[Menu_ALL_SQUAD_INVITE_STOP_REQUEST]
+Text="Bloquer les requêtes de ce CLAN ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[Menu_ALL_SQUAD_CONSULT_PLAYER_STATS]
+Text="Statistiques du joueur"
+[Menu_ALL_SQUAD_CONSULT_TYPE_01]
+Text="Informations CLAN"
+[Menu_ALL_SQUAD_CONSULT_TYPE_02]
+Text="Chef du CLAN"
+[Menu_ALL_SQUAD_CONSULT_TYPE_03]
+Text="Membre du CLAN"
+[Menu_ALL_SQUAD_CONSULT_STATS]
+Text="Vos statistiques"
+[Menu_ALL_SQUAD_CONSULT_LEAVE]
+Text="Quitter le CLAN"
+[Menu_ALL_SQUAD_CONSULT_LEAVE_CONFIRM]
+Text="Êtes-vous sûr de vouloir quitter ce CLAN ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[Menu_ALL_SQUAD_CONSULT_CAN_BE_INVITED]
+Text="Peut être invité dans un autre CLAN"
+[Menu_ALL_SQUAD_CONSULT_CAN_NOT_BE_INVITED]
+Text="Ne peut pas être invité dans un autre CLAN"
+[Menu_ALL_SQUAD_CONSULT_WARNING_ACCEPT_INVITE]
+Text="Voulez-vous vraiment accepter l'invitation de ce CLAN ? Vous serez exclu du CLAN actuel.|Vous ne pouvez faire partie que d'un CLAN à la fois.||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[Menu_ALL_SQUAD_CONSULT_DELETE]
+Text="Effacer CLAN"
+[Menu_ALL_SQUAD_CONSULT_DELETE_SQUAD_WARNING]
+Text="Êtes-vous sûr de vouloir supprimer ce CLAN ?|Tous ses membres en seront exclus.||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[Menu_ALL_SQUAD_LEADER_LEAVE_TRANSFERT_RIGHTS]
+Text="Vous devez donner vos droits de chef de CLAN à un équipier.||\Z1, \Zl : Accepter||\Z2, \Zr : Retour."
+[Menu_ALL_SQUAD_LEADER_CONSULT_KICK_PLAYER]
+Text="Éjecter le joueur"
+[Menu_ALL_SQUAD_LEADER_CONSULT_KICK_PLAYER_CONFIRM]
+Text="Éjecter ce JOUEUR ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[Menu_ALL_SQUAD_LEADER_SEND_INVITE_FRIEND]
+Text="Invitation de CLAN à un AMI"
+[Menu_ALL_SQUAD_LEADER_SEND_INVITE_RECENT_PLAYER]
+Text="Invitation de CLAN à un JOUEUR RÉCENT"
+[Menu_ALL_SQUAD_LEADER_SEND_INVITE_SOMEONE]
+Text="Invitation de CLAN à quelqu'un"
+[Menu_ALL_MENTOR_PLAY_SESSION_MENTOR_TYPE_01]
+Text="Pour AMIS"
+[Menu_ALL_MENTOR_PLAY_SESSION_MENTOR_TYPE_02]
+Text="Pour CLAN"
+[Menu_ALL_MENTOR_PLAY_SESSION_MENTOR_TYPE_03]
+Text="PUBLIC"
+[Menu_XBLIVE_END_SESSION_FAILED_SCORE_DETAIL]
+Text="Échec de la mission"
+[Menu_XBLIVE_END_SESSION_MISSION_COMPLETE]
+Text="Mission accomplie !"
+[Menu_XBLIVE_END_SESSION_SCORE]
+Text="Score"
+[Menu_XBLIVE_END_SESSION_SCORE_DETAIL]
+Text="Détail du score"
+[Menu_XBLIVE_END_SESSION_SCORE_DETAIL_01]
+Text="Temps de session"
+[Menu_XBLIVE_END_SESSION_SCORE_DETAIL_02]
+Text="Espions morts"
+[Menu_XBLIVE_END_SESSION_NEW_BONUS]
+Text="Nouveau bonus !"
+[Menu_XBLIVE_END_SESSION_NEW_ACHIEVEMENT]
+Text="Nouveau succès !"
+[Menu_XBLIVE_END_SESSION_COMPLETE_CONGRATULATIONS]
+Text="Félicitations !"
+[Menu_XBLIVE_END_SESSION_OBJ_GOLD_SCORE]
+Text="Score de médaille d'or :"
+[Menu_XBLIVE_END_SESSION_OBJ_SILVER_SCORE]
+Text="Score de médaille d'argent :"
+[Menu_XBLIVE_END_SESSION_MISSION_FAILED]
+Text="Échec de la mission"
+[Menu_XBLIVE_END_SESSION_MAP_BEST_SCORE]
+Text="Meilleur score Carte"
+[Menu_XBLIVE_END_SESSION_RANK]
+Text="Classement"
+[Menu_XBLIVE_END_SESSION_BEST_SCORE]
+Text="Meilleur score Challenge"
+[Menu_XBLIVE_END_SESSION_YOU_WIN]
+Text="Vous avez gagné."
+[Menu_XBLIVE_END_SESSION_TRUE_SKILL]
+Text="Performances des joueurs"
+[Menu_XBLIVE_END_SESSION_TRUE_SKILL_01]
+Text="1er"
+[Menu_XBLIVE_END_SESSION_TRUE_SKILL_02]
+Text="2e"
+[Menu_XBLIVE_END_SESSION_TRUE_SKILL_03]
+Text="3e"
+[Menu_XBLIVE_END_SESSION_TRUE_SKILL_04]
+Text="4e"
+[Menu_XBLIVE_END_SESSION_TRUE_SKILL_05]
+Text="5e"
+[Menu_XBLIVE_END_SESSION_TRUE_SKILL_06]
+Text="6e"
+[Menu_XBLIVE_END_SESSION_SQUAD_WIN]
+Text="Votre CLAN a gagné."
+[Menu_XBLIVE_END_SESSION_YOUR_SQUAD]
+Text="Votre CLAN :"
+[Menu_XBLIVE_END_SESSION_OTHER_SQUAD]
+Text="Autre CLAN :"
+[Menu_XBLIVE_END_SESSION_SQUAD_DETAIL_01]
+Text="SCORE précédent :"
+[Menu_XBLIVE_END_SESSION_SQUAD_DETAIL_02]
+Text="Résultats de partie :"
+[Menu_XBLIVE_END_SESSION_SQUAD_DETAIL_03]
+Text="Nouveau SCORE :"
+[Menu_ALL_AIDE_EXTRA_FEATURES]
+Text="Bonus de Splinter Cell Double Agent."
+[Menu_XBLIVE_BACK_TO_MAIN_MENU]
+Text="Quitter et retourner au menu multijoueur ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[Menu_XBLIVE_TEMPLATE_VS_LONEWOLF]
+Text="Quiconque"
+[Menu_XBLIVE_TEMPLATE_VS_PRIVATE]
+Text="Privé"
+[Menu_XBLIVE_TEMPLATE_VERSUS_LONEWOLF]
+Text="Quiconque"
+[Menu_XBLIVE_TEMPLATE_VERSUS_PRIVATE]
+Text="Privé"
+[Menu_XBLIVE_HOME]
+Text="Accueil"
+[Menu_XBLIVE_LOADING_PROFILE]
+Text="Chargement de votre profil, veuillez patienter..."
+[Menu_XBLIVE_INITIALIZING_MATCHMAKER]
+Text="Gestion en cours, veuillez patienter "
+[Menu_XBLIVE_CREATE_SESSION_LAN]
+Text="Créer une session LAN"
+[Menu_XBLIVE_HOME_AIDE]
+Text="Vérifier votre évolution, vos bonus ou vos paramètres pour ce profil."
+[Menu_ALL_E3_LOCKED]
+Text="Bientôt..."
+[Menu_ALL_CHALLENGES_HELP]
+Text="Créer ou rejoindre une session pour une mission spécifique."
+[Menu_XBLIVE_LIVE_ZONE]
+Text="Zone Live"
+[Menu_XBLIVE_LIVE_ZONE_AIDE]
+Text="Infos ou événements à propos du jeu."
+[Menu_XBLIVE_HELP_ZONE]
+Text="Zone d'aide"
+[Menu_XBLIVE_HELP_ZONE_AIDE]
+Text="Vidéos sur les règles du jeu, demande d'aide ou proposition de solution."
+[Menu_XBLIVE_CONFIRM_START]
+Text="Démarrer session ?"
+[Menu_ALL_GAME_PROGR_CAPACITIES_AIE]
+Text="Vérifier votre progression et vos compétences."
+[Menu_ALL_XBLIVE_CONSULT_RK]
+Text="Consulter les meilleurs scores des challenges"
+[Menu_ALL_XBLIVE_CONSULT_RK_2]
+Text="Consulter les classements Versus"
+[Menu_ALL_XBLIVE_CONSULT_RK_DETAILS]
+Text="Classements mondiaux du mode versus."
+[Menu_XBLIVE_LAN_NEW_SEARCH]
+Text="Nouvelle recherche"
+[Menu_ALL_MAP_NAME_MAP_11]
+Text="Carte DC 3"
+[Menu_ALL_MAP_NAME_MAP_12]
+Text="Carte DC 4"
+[Menu_ALL_MAP_NAME_MAP_13]
+Text="Carte DC 5"
+[Menu_ALL_MAP_NAME_MAP_14]
+Text="Carte DC 6"
+[Menu_ALL_CHOOSE_TEAM_DONT_CARE]
+Text="Sans importance"
+[Menu_XBLIVE_INVITE_SQUAD_MATE]
+Text="Inviter des équipiers"
+[Menu_XBLIVE_SENDING_INVITE]
+Text="Envoi de l'invitation, veuillez patienter..."
+[Menu_XBLIVE_SQUAD_OK_GO]
+Text="Rechercher une session"
+[Menu_XBLIVE_SQUAD_TEMPLATE_UNAVAILABLE]
+Text="Vous ne faites partie d'aucun CLAN. |Accédez à vos paramètres pour créer un CLAN ou pour accepter un recrutement.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_CHALLENGE_01_TITLE]
+Text="Opération JAGUAR"
+[Menu_ALL_CHALLENGE_02_TITLE]
+Text="Opération PANTHER"
+[Menu_ALL_CHALLENGE_04_TITLE]
+Text="Opération COUGAR"
+[Menu_ALL_CHALLENGE_05_TITLE]
+Text="Opération PUMA"
+[Menu_ALL_CHALLENGE_03_TITLE]
+Text="Opération TIGER"
+[Menu_ALL_CHALLENGE_06_TITLE]
+Text="Opération LION"
+[Menu_ALL_CHALLENGE_07_TITLE]
+Text="Opération UNICORN"
+[Menu_ALL_CHALLENGE_08_TITLE]
+Text="Opération SPHINX"
+[Menu_ALL_CHALLENGE_09_TITLE]
+Text="Opération GRIFFIN"
+[Menu_ALL_CHALLENGE_10_TITLE]
+Text="Opération MINOTAUR"
+[Menu_ALL_CHALLENGE_11_TITLE]
+Text="Opération MANTICORE"
+[Menu_ALL_CHALLENGE_12_TITLE]
+Text="Opération PHOENIX"
+[Menu_ALL_CHALLENGE_13_TITLE]
+Text="Opération POLAR BEAR"
+[Menu_ALL_CHALLENGE_14_TITLE]
+Text="Opération MISUMERA"
+[Menu_ALL_CHALLENGE_15_TITLE]
+Text="Opération ARCTIC WOLF"
+[Menu_ALL_CHALLENGE_16_TITLE]
+Text="Opération NAJA"
+[Menu_ALL_CHALLENGE_17_TITLE]
+Text="Opération BELUGA"
+[Menu_ALL_CHALLENGE_18_TITLE]
+Text="Opération SHARK"
+[Menu_ALL_CHALLENGE_19_TITLE]
+Text="Opération TYR"
+[Menu_ALL_CHALLENGE_20_TITLE]
+Text="Opération HEIMDALL"
+[Menu_ALL_CHALLENGE_21_TITLE]
+Text="Opération BALDER"
+[Menu_ALL_CHALLENGE_22_TITLE]
+Text="Opération LOKI"
+[Menu_ALL_CHALLENGE_23_TITLE]
+Text="Opération THOR"
+[Menu_ALL_CHALLENGE_24_TITLE]
+Text="Opération ODIN"
+[Menu_ALL_CHALLENGE_25_TITLE]
+Text="Opération CALLIOPE"
+[Menu_ALL_CHALLENGE_26_TITLE]
+Text="Opération URANIE"
+[Menu_ALL_CHALLENGE_27_TITLE]
+Text="Opération ERATO"
+[Menu_ALL_CHALLENGE_28_TITLE]
+Text="Opération MELPOMENE"
+[Menu_ALL_CHALLENGE_29_TITLE]
+Text="Opération THALIE"
+[Menu_ALL_CHALLENGE_30_TITLE]
+Text="Opération POLYMNIA"
+[Menu_ALL_CHALLENGE_31_TITLE]
+Text="Opération HORUS"
+[Menu_ALL_CHALLENGE_32_TITLE]
+Text="Opération ISIS"
+[Menu_ALL_CHALLENGE_33_TITLE]
+Text="Opération ANUBIS"
+[Menu_ALL_CHALLENGE_34_TITLE]
+Text="Opération OSIRIS"
+[Menu_ALL_CHALLENGE_35_TITLE]
+Text="Opération AMUN"
+[Menu_ALL_CHALLENGE_36_TITLE]
+Text="Opération RA"
+[Menu_ALL_CHALLENGE_37_TITLE]
+Text="Opération JASON"
+[Menu_ALL_CHALLENGE_38_TITLE]
+Text="Opération HERCULES"
+[Menu_ALL_CHALLENGE_39_TITLE]
+Text="Opération THESEUS"
+[Menu_ALL_CHALLENGE_40_TITLE]
+Text="Opération ODYSSEUS"
+[Menu_ALL_CHALLENGE_41_TITLE]
+Text="Opération PERSEUS"
+[Menu_ALL_CHALLENGE_42_TITLE]
+Text="Opération ACHILLES"
+[Menu_ALL_CHALLENGE_01_DESCRIPTION]
+Text="Infiltrez-vous jusqu'à un des terminaux de la mission JAGUAR pour télécharger un fichier, puis ramenez-le au drone de contrôle."
+[Menu_ALL_CHALLENGE_02_DESCRIPTION]
+Text="Infiltrez-vous, localisez un des objectifs de la mission PANTHER et téléchargez un fichier. Ramenez-le à ce drone de contrôle."
+[Menu_ALL_CHALLENGE_04_DESCRIPTION]
+Text="Vous disposez du temps de la mission COUGAR pour être le premier espion à voler et sécuriser deux fichiers."
+[Menu_ALL_CHALLENGE_05_DESCRIPTION]
+Text="Vous disposez du temps de la mission PUMA pour télécharger un maximum de données. La coopération sera la clef du succès."
+[Menu_ALL_CHALLENGE_03_DESCRIPTION]
+Text="Vous disposez du temps de la mission TIGER pour télécharger le maximum de fichiers. La coopération sera la clef du succès."
+[Menu_ALL_CHALLENGE_07_DESCRIPTION]
+Text="Vous disposez du temps de la mission UNICORN pour voler et sécuriser deux fichiers."
+[Menu_ALL_CHALLENGE_06_DESCRIPTION]
+Text="Vous disposez du temps de la mission LION pour être l'espion ayant téléchargé le plus de données."
+[Menu_ALL_CHALLENGE_08_DESCRIPTION]
+Text="Vous disposez du temps de la mission SPHYNX pour télécharger un maximum de données. La coopération sera la clef du succès."
+[Menu_ALL_CHALLENGE_09_DESCRIPTION]
+Text="Vous disposez du temps de la mission TIGER pour télécharger un maximum de fichiers. La coopération sera la clef du succès."
+[Menu_ALL_CHALLENGE_10_DESCRIPTION]
+Text="Vous disposez du temps de la mission MINOTAUR pour être le premier espion à voler et sécuriser deux fichiers."
+[Menu_ALL_CHALLENGE_11_DESCRIPTION]
+Text="Vous disposez du temps de la mission MANTICORE pour être l'espion qui a  téléchargé le plus de données."
+[Menu_ALL_CHALLENGE_12_DESCRIPTION]
+Text="Vous disposez du temps de la mission PHENIX pour voler et sécuriser deux fichiers."
+[Menu_ALL_CHALLENGE_13_DESCRIPTION]
+Text="Vous disposez du temps de la mission POLAR BEAR pour être le premier espion à voler et sécuriser deux fichiers."
+[Menu_ALL_CHALLENGE_14_DESCRIPTION]
+Text="Vous disposez du temps de la mission MISUMERA pour télécharger un maximum de données. La coopération sera la clef du succès."
+[Menu_ALL_CHALLENGE_15_DESCRIPTION]
+Text="Vous disposez du temps de la mission ARCTIC WOLF pour télécharger un maximum de fichiers. La coopération sera la clef du succès."
+[Menu_ALL_CHALLENGE_16_DESCRIPTION]
+Text="Vous disposez du temps de la mission NAJA pour être l'espion qui a téléchargé le plus de données."
+[Menu_ALL_CHALLENGE_17_DESCRIPTION]
+Text="Vous disposez du temps de la mission BELUGA pour être le premier espion à voler et sécuriser deux fichiers."
+[Menu_ALL_CHALLENGE_18_DESCRIPTION]
+Text="Vous disposez du temps de la mission LION pour être l'espion ayant téléchargé le plus de données."
+[Menu_ALL_CHALLENGE_19_DESCRIPTION]
+Text="Vous disposez du temps de la mission TIR pour télécharger le maximum de données. La coopération sera la clef du succès."
+[Menu_ALL_CHALLENGE_20_DESCRIPTION]
+Text="Vous disposez du temps de la mission HEIMDALL pour télécharger le maximum de fichiers. La coopération sera la clef du succès."
+[Menu_ALL_CHALLENGE_21_DESCRIPTION]
+Text="Vous disposez du temps de la mission BALDER pour être le premier espion à voler et sécuriser deux fichiers."
+[Menu_ALL_CHALLENGE_22_DESCRIPTION]
+Text="Vous disposez du temps de la mission LOKI pour être l'espion qui a téléchargé le plus de données."
+[Menu_ALL_CHALLENGE_23_DESCRIPTION]
+Text="Vous disposez du temps de la mission THOR pour voler et sécuriser deux fichiers."
+[Menu_ALL_CHALLENGE_24_DESCRIPTION]
+Text="Vous disposez du temps de la mission ODIN pour télécharger un maximum de fichiers. La coopération sera la clef du succès."
+[Menu_ALL_CHALLENGE_25_DESCRIPTION]
+Text="Vous disposez du temps de la mission CALLIOPE pour être l'espion qui a téléchargé le plus de données."
+[Menu_ALL_CHALLENGE_26_DESCRIPTION]
+Text="Vous disposez du temps de la mission URANIE pour télécharger le maximum de fichiers. La coopération sera la clef du succès."
+[Menu_ALL_CHALLENGE_27_DESCRIPTION]
+Text="Vous disposez du temps de la mission ERATO pour télécharger le maximum de données. La coopération sera la clef du succès."
+[Menu_ALL_CHALLENGE_28_DESCRIPTION]
+Text="Vous disposez du temps de la mission MELPOMENE pour voler et sécuriser deux fichiers."
+[Menu_ALL_CHALLENGE_29_DESCRIPTION]
+Text="Vous disposez du temps de la mission THALIE pour être le premier espion à voler et sécuriser deux fichiers."
+[Menu_ALL_CHALLENGE_30_DESCRIPTION]
+Text="Vous disposez du temps de la mission POLYMNIA pour télécharger le maximum de données. La coopération sera la clef du succès."
+[Menu_ALL_CHALLENGE_31_DESCRIPTION]
+Text="Description Mission 31"
+[Menu_ALL_CHALLENGE_32_DESCRIPTION]
+Text="Description Mission 32"
+[Menu_ALL_CHALLENGE_33_DESCRIPTION]
+Text="Description Mission 33"
+[Menu_ALL_CHALLENGE_34_DESCRIPTION]
+Text="Description Mission 34"
+[Menu_ALL_CHALLENGE_35_DESCRIPTION]
+Text="Description Mission 35"
+[Menu_ALL_CHALLENGE_36_DESCRIPTION]
+Text="Description Mission 36"
+[Menu_ALL_CHALLENGE_37_DESCRIPTION]
+Text="Description Mission 37"
+[Menu_ALL_CHALLENGE_38_DESCRIPTION]
+Text="Description Mission 38"
+[Menu_ALL_CHALLENGE_39_DESCRIPTION]
+Text="Description Mission 39"
+[Menu_ALL_CHALLENGE_40_DESCRIPTION]
+Text="Description Mission 40"
+[Menu_ALL_CHALLENGE_41_DESCRIPTION]
+Text="Description Mission 41"
+[Menu_ALL_CHALLENGE_42_DESCRIPTION]
+Text="Description Mission 42"
+[Menu_ALL_CONTINUE]
+Text="Suivant"
+[Menu_ALL_BONUS_ZONE_NEW_DESCRIPTION]
+Text="Bravo ! Vous avez débloqué un nouveau bonus!"
+[Menu_XBLIVE_END_SESSION_NEW_ACHIEVEMENT_DESCRIPTION]
+Text="Bravo ! Vous avez débloqué un nouveau succès !"
+[Menu_XBLIVE_LEVEL]
+Text="Bravo ! Vous avez débloqué un nouveau succès !"
+[Menu_XBLIVE_SEND_FEEDBACK]
+Text="Bravo ! Vous avez débloqué un nouveau succès !"
+[Menu_XBLIVE_NEXT_PAGE]
+Text="Bravo ! Vous avez débloqué un nouveau succès !"
+[Menu_XBLIVE_END_GAME_ANOTHER_SESSION]
+Text="Voulez-vous chercher une autre session de jeu ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[Menu_XBLIVE_END_SESSION_SQUAD_LOOSE]
+Text="Votre CLAN|a perdu..."
+[Menu_XBLIVE_CHALLENGE_DETAIL_01]
+Text="% de données téléchargées"
+[Menu_XBLIVE_CHALLENGE_DETAIL_02]
+Text="fichier(s) complet(s) téléchargé(s)"
+[Menu_XBLIVE_CHALLENGE_DETAIL_03]
+Text="fichier(s) sécurisé(s)"
+[Menu_XBLIVE_CHALLENGE_DETAIL_04]
+Text="équipier(s) tué(s)"
+[Menu_XBLIVE_CHALLENGE_DETAIL_05]
+Text="100 % atteints"
+[Menu_XBLIVE_CHALLENGE_DETAIL_06]
+Text="250 % atteints"
+[Menu_XBLIVE_CHALLENGE_DETAIL_07]
+Text="Temps restant"
+[Menu_XBLIVE_CHALLENGE_DETAIL_08]
+Text="Victoire"
+[Menu_XBLIVE_CHALLENGE_DETAIL_09]
+Text="Nombre de morts"
+[Menu_XBLIVE_CHALLENGE_DETAIL_10]
+Text="durée de la session (en secondes)"
+[Menu_XBLIVE_CHALLENGE_DETAIL_11]
+Text="Détection(s)"
+[Menu_XBLIVE_CHALLENGE_DETAIL_12]
+Text="Défaite"
+[Menu_XBLIVE_CHALLENGE_DETAIL_13]
+Text="Score actuel :"
+[Menu_XBLIVE_CHALLENGE_OK_GOLD_MEDAL]
+Text="Vous avez remporté la médaille d'OR !"
+[Menu_XBLIVE_CHALLENGE_OK_SILVER_MEDAL]
+Text="Vous avez remporté la médaille d'ARGENT !"
+[Menu_XBLIVE_CHALLENGE_OK_BRONZE_MEDAL]
+Text="Vous avez remporté la médaille de BRONZE !"
+[Menu_XBLIVE_QUIT_SESSION_RK_SOLO]
+Text="Quitter cette session ? En quittant cette session, vous perdez 500 points de score. Quitter ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[Menu_XBLIVE_QUIT_SESSION_RK_SQUAD]
+Text="Quitter cette session ? En quittant cette session, votre CLAN perd 500 points de score. Quitter ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[Menu_XBLIVE_QUIT_SESSION_HOST]
+Text="Tous les autres joueurs seront exclus de votre session. Quitter ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[Menu_XBLIVE_QUIT_SESSION_RK_SOLO_HOST]
+Text="Tous les autres joueurs seront exclus de votre session. En quittant cette session, vous perdez 500 points de score. Quitter ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[Menu_XBLIVE_QUIT_SESSION_RK_SQUAD_HOST]
+Text="Tous les autres joueurs seront exclus de votre session. En quittant cette session, votre CLAN perd 500 points de score. Quitter ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[MENU_ALL_GAME_PROGR_GRADE_AND_CAPACITIES]
+Text="Grade et compétences"
+[MENU_ALL_GAME_PROGR_GRADE_CAPA_HELP]
+Text="Vérifier votre progression et votre connaissance globale du jeu."
+[MENU_ALL_GAME_PROGR_CHALLENGES_SUM_UP]
+Text="Résumé Challenge"
+[MENU_ALL_GAME_PROGR_CHALLENGES_SUM_UP_HELP]
+Text="Vérifier vos performances et récompenses sur les différents challenges."
+[MENU_ALL_GAME_PROGR_ACHIEVEMENTS]
+Text="Succès"
+[MENU_XBLIVE_CHAL_SUM_BEST_MEDAL]
+Text="Meilleure médaille :"
+[MENU_XBLIVE_CHAL_BEST_SCORE]
+Text="Votre meilleur score :"
+[MENU_XBLIVE_CHAL_N1_SCORE]
+Text="Record mondial :"
+[MENU_XBLIVE_CHAL_SUM_NEXT]
+Text="Page Down: Suivant"
+[MENU_XBLIVE_CHAL_SUM_PREVIOUS]
+Text="Page Up: Précédent"
+[MENU_XBLIVE_CHAL_GLOBAL_SUM_UP]
+Text="Résumé global"
+[MENU_XBLIVE_CHAL_DETAILS_CHAL]
+Text="Détails de chaque challenge"
+[MENU_XBLIVE_CHAL_COMPLETED]
+Text="Challenges terminés :"
+[MENU_XBLIVE_CHAL_OUT_OF]
+Text="sur"
+[MENU_ALL_BONUS_01]
+Text="Bonus 1"
+[MENU_ALL_BONUS_02]
+Text="Bonus 2"
+[MENU_ALL_BONUS_03]
+Text="Bonus 3"
+[MENU_ALL_BONUS_04]
+Text="Bonus 4"
+[MENU_ALL_BONUS_05]
+Text="Bonus 5"
+[MENU_ALL_BONUS_06]
+Text="Bonus 6"
+[MENU_ALL_BONUS_07]
+Text="Bonus 7"
+[MENU_ALL_BONUS_08]
+Text="Bonus 8"
+[MENU_ALL_BONUS_09]
+Text="Bonus 9"
+[MENU_ALL_BONUS_10]
+Text="Bonus 10"
+[MENU_ALL_BONUS_11]
+Text="Bonus 11"
+[MENU_ALL_BONUS_12]
+Text="Bonus 12"
+[MENU_ALL_BONUS_13]
+Text="Bonus 13"
+[MENU_ALL_BONUS_14]
+Text="Bonus 14"
+[MENU_ALL_BONUS_15]
+Text="Bonus 15"
+[MENU_ALL_BONUS_16]
+Text="Bonus 16"
+[MENU_ALL_BONUS_17]
+Text="Bonus 17"
+[MENU_ALL_BONUS_18]
+Text="Bonus 18"
+[MENU_ALL_BONUS_19]
+Text="Bonus 19"
+[MENU_ALL_BONUS_20]
+Text="Bonus 20"
+[MENU_ALL_BONUS_21]
+Text="Bonus 21"
+[MENU_ALL_BONUS_22]
+Text="Bonus 22"
+[MENU_ALL_BONUS_23]
+Text="Bonus 23"
+[MENU_ALL_BONUS_24]
+Text="Bonus 24"
+[MENU_ALL_BONUS_25]
+Text="Bonus 25"
+[MENU_ALL_BONUS_26]
+Text="Bonus 26"
+[MENU_ALL_BONUS_27]
+Text="Bonus 27"
+[MENU_ALL_BONUS_28]
+Text="Bonus 28"
+[MENU_ALL_BONUS_29]
+Text="Bonus 29"
+[MENU_ALL_BONUS_30]
+Text="Bonus 30"
+[MENU_ALL_BONUS_31]
+Text="Bonus 31"
+[MENU_ALL_BONUS_32]
+Text="Bonus 32"
+[MENU_ALL_BONUS_33]
+Text="Bonus 33"
+[MENU_ALL_BONUS_DESCRIPTION_01]
+Text="Une deuxième skin ESPION est disponible !|Choisissez une skin dans la section ACCUEIL du menu principal. "
+[MENU_ALL_BONUS_DESCRIPTION_02]
+Text="La vidéo de LA CRÉATION DES ESPIONS est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_03]
+Text="Une deuxième skin pour FORCES UPSILON est disponible !|Choisissez votre skin dans la section ACCUEIL du menu principal. "
+[MENU_ALL_BONUS_DESCRIPTION_04]
+Text="Une troisième skin pour ESPION est disponible !|Choisissez votre skin dans la section ACCUEIL du menu principal. "
+[MENU_ALL_BONUS_DESCRIPTION_05]
+Text="La vidéo de LA CRÉATION|DES FORCES UPSILON est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_06]
+Text="Une troisième skin pour les FORCES UPSILON est disponible !|Choisissez votre skin dans la section ACCUEIL du menu principal. "
+[MENU_ALL_BONUS_DESCRIPTION_07]
+Text="La vidéo du MEILLEUR UPSILON est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_08]
+Text="La vidéo du MEILLEUR ESPION est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_09]
+Text="La vidéo du TOURNAGE est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_10]
+Text="La vidéo de la plus belle performance|sur BLACKWING est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_11]
+Text="La vidéo de la plus belle performance|sur MOTORWAY 90 est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_12]
+Text="La vidéo de la plus belle performance|sur TERMINUS est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_13]
+Text="La vidéo de la plus belle performance|sur SLAUGHTERHOUSE est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_14]
+Text="La vidéo de la plus belle performance|sur RED DIAMOND est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_15]
+Text="La vidéo de la plus belle performance|sur BOSS HOUSE est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_16]
+Text="La vidéo de la plus belle performance|sur DAWN WAVES est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL"
+[MENU_ALL_BONUS_DESCRIPTION_17]
+Text="La vidéo de la plus belle performance|sur USS WISDOM est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_18]
+Text="La vidéo de LA CRÉATION|DES CARTES - Partie 1 est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_19]
+Text="La vidéo des RECHERCHES|DES ESPIONS - Partie 1 est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_20]
+Text="La vidéo des RECHERCHES|DES FORCES UPSILON - Partie 1 est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_21]
+Text="La vidéo des RECHERCHES|DES ESPIONS - Partie 2 est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_22]
+Text="La vidéo des RECHERCHES DES|FORCES UPSILON - Partie 2 est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_23]
+Text="La vidéo des PHOTOS DE L'EQUIPE est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_24]
+Text="La vidéo de LA CRÉATION DES|GADGETS ET DES ARMES est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_25]
+Text="La vidéo de LA CRÉATION DES ÉLÉMENTS|DES DIFFÉRENTS NIVEAUX est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_26]
+Text="La vidéo de|LA CRÉATION DES CARTES - Partie 2 est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_27]
+Text="La vidéo des PAPIERS PEINTS ET|DES CRÉPIS DE SCDA est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_28]
+Text="La vidéo des|RECHERCHES DES ESPIONS - Partie 3 est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_29]
+Text="La vidéo des RECHERCHES DES FORCES|UPSILON - Partie 3 est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_30]
+Text="La vidéo des CRÉATIONS DIVERSES est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_31]
+Text="La vidéo des IDÉES NON EXPLOITÉES est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_32]
+Text="La BANDE-ANNONCE DE SCDA est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_BONUS_DESCRIPTION_33]
+Text="La vidéo de LA CRÉATION DES|CARTES - Partie 3 est disponible !|Visionnez-la dans le menu BONUS de la section ACCUEIL."
+[MENU_ALL_MISSION_LIST]
+Text="Liste des missions"
+[MENU_ALL_MISSION_01]
+Text="Mission 01"
+[MENU_ALL_MISSION_02]
+Text="Mission 02"
+[MENU_ALL_MISSION_03]
+Text="Mission 03"
+[MENU_ALL_MISSION_04]
+Text="Mission 04"
+[MENU_ALL_MISSION_05]
+Text="Mission 05"
+[MENU_ALL_MISSION_06]
+Text="Mission 06"
+[MENU_ALL_MISSION_07]
+Text="Mission 07"
+[MENU_ALL_MISSION_08]
+Text="Mission 08"
+[MENU_ALL_MISSION_09]
+Text="Mission 09"
+[MENU_ALL_MISSION_10]
+Text="Mission 10"
+[MENU_ALL_MISSION_11]
+Text="Mission 11"
+[MENU_ALL_MISSION_12]
+Text="Mission 12"
+[MENU_ALL_MISSION_13]
+Text="Mission 13"
+[MENU_ALL_MISSION_14]
+Text="Mission 14"
+[MENU_ALL_MISSION_15]
+Text="Mission 15"
+[MENU_ALL_MISSION_16]
+Text="Mission 16"
+[MENU_ALL_MISSION_17]
+Text="Mission 17"
+[MENU_ALL_MISSION_18]
+Text="Mission 18"
+[MENU_ALL_MISSION_19]
+Text="Mission 19"
+[MENU_ALL_MISSION_20]
+Text="Mission 20"
+[MENU_ALL_MISSION_21]
+Text="Mission 21"
+[MENU_ALL_MISSION_22]
+Text="Mission 22"
+[MENU_ALL_MISSION_23]
+Text="Mission 23"
+[MENU_ALL_MISSION_24]
+Text="Mission 24"
+[MENU_ALL_MISSION_25]
+Text="Mission 25"
+[MENU_ALL_MISSION_26]
+Text="Mission 26"
+[MENU_ALL_MISSION_27]
+Text="Mission 27"
+[MENU_ALL_MISSION_28]
+Text="Mission 28"
+[MENU_ALL_MISSION_29]
+Text="Mission 29"
+[MENU_ALL_MISSION_30]
+Text="Mission 30"
+[MENU_ALL_MISSION_31]
+Text="Mission 31"
+[MENU_ALL_MISSION_32]
+Text="Mission 32"
+[MENU_ALL_MISSION_33]
+Text="Mission 33"
+[MENU_ALL_MISSION_34]
+Text="Mission 34"
+[MENU_ALL_MISSION_35]
+Text="Mission 35"
+[MENU_ALL_MISSION_36]
+Text="Mission 36"
+[MENU_ALL_MISSION_37]
+Text="Mission 37"
+[MENU_ALL_MISSION_38]
+Text="Mission 38"
+[MENU_ALL_MISSION_39]
+Text="Mission 39"
+[MENU_ALL_MISSION_40]
+Text="Mission 40"
+[MENU_ALL_MISSION_41]
+Text="Mission 41"
+[MENU_ALL_MISSION_42]
+Text="Mission 42"
+[MENU_ALL_MISSION_DESCRIPTION_01]
+Text="Zone d'intervention : BLACKWING.||Pour cette mission, vous serez SEUL. Vous disposez d'un temps limité pour télécharger et sécuriser un fichier complet.||||Conditions de victoire : Ramener un fichier au drone.|Précisions : mission solitaire, 30 minutes.||Pas de médailles ni de score pour cette mission."
+[MENU_ALL_MISSION_DESCRIPTION_02]
+Text="Zone d'intervention : BOSS HOUSE.||Pour cette seconde et dernière mission en solo, vous devez là aussi télécharger et sécuriser un fichier en un temps limité.||||Conditions de victoire : Ramener un fichier au drone.|Précisions : mission solitaire, 25 minutes.||Pas de médailles ni de score pour cette mission."
+[MENU_ALL_MISSION_DESCRIPTION_03]
+Text="Zone d'intervention : BLACKWING.||Vous disposez du temps de la mission pour télécharger et sécuriser le maximum de fichiers complets.||||Conditions de victoire : 1 fichier sécurisé.|Précisions : 5 vies par espion, 16 minutes.||Score pour obtenir les médailles :|Bronze : 600 pts|Argent : 1100 pts|Or : 1800 pts"
+[MENU_ALL_MISSION_DESCRIPTION_04]
+Text="Zone d'intervention : RED DIAMOND.||Vous disposez du temps de la mission pour être le premier à voler et sécuriser deux fichiers. Soyez le meilleur !||||Conditions de victoire : Être le 1er à sécuriser 2 fichiers.|Précisions : 4 vies par espion, 25 minutes.||Score pour obtenir les médailles :|Bronze : 1000 pts|Argent : 1200 pts|Or : 1450 pts"
+[MENU_ALL_MISSION_DESCRIPTION_05]
+Text="Zone d'intervention : DAWN WAVES.||Vous disposez du temps de la mission pour télécharger le maximum d'information depuis les terminaux.|Soyez soudés et unis !|||Conditions de victoire : 1% téléchargé.|Précisions : 3 vies par espion, 12 minutes.||Score pour obtenir les médailles :|Bronze : 550 pts|Argent : 750 pts|Or : 1000 pts"
+[MENU_ALL_MISSION_DESCRIPTION_06]
+Text="Zone d'intervention : MOTORWAY 90.||Le but de cette mission est de déterminer le meilleur espion : vous devez tout faire pour télécharger le maximum d'information et devancer les autres espions !|||Conditions de victoire : être l'espion qui a le plus grand %.|Précisions : 4 vies par espions, 15 minutes.||Score pour obtenir les médailles :|Bronze : 450 pts|Argent : 750 pts|Or : 1100 pts"
+[MENU_ALL_MISSION_DESCRIPTION_07]
+Text="Zone d'intervention : BOSS HOUSE.||Le but de cette mission est de télécharger et sécuriser 2 fichiers. Attention ! Les terminaux ne peuvent donner que 25% d'information chacun.  Il faudra être malin!|||Conditions de victoire : 2 fichiers sécurisés.|Précisions : 5 vies par espions, 20 minutes.||Score pour obtenir les médailles :|Bronze : 750 pts|Argent : 1000 pts|Or : 1300 pts"
+[MENU_ALL_MISSION_DESCRIPTION_08]
+Text="Zone d'intervention : SLAUGHTERHOUSE.||Vous disposez du temps de la mission pour télécharger le maximum d'information depuis les terminaux. Soyez soudés et unis !|||Conditions de victoire : 1% téléchargé.|Précisions : 4 vies par espion, 11.5 minutes.||Score pour obtenir les médailles :|Bronze : 550 pts|Argent : 750 pts|Or : 1000 pts"
+[MENU_ALL_MISSION_DESCRIPTION_09]
+Text="Zone d'intervention : MOTORWAY 90.||Vous disposez du temps de la mission pour télécharger et sécuriser le maximum de fichiers complets.||||Conditions de victoire : 1 fichier sécurisé.|Précisions : 3 vies par espion, 15 minutes.||Score pour obtenir les médailles :|Bronze : 600 pts|Argent : 1100 pts|Or : 1800 pts"
+[MENU_ALL_MISSION_DESCRIPTION_10]
+Text="Zone d'intervention : TERMINUS.||Vous disposez du temps de la mission pour être le premier à voler et sécuriser deux fichiers. Soyez le meilleur !||||Conditions de victoire : Être le 1er à sécuriser 2 fichiers.|Précisions : 5 vies par espion, 20 minutes.||Score pour obtenir les médailles :|Bronze : 1000 pts|Argent : 1200 pts|Or : 1450 pts"
+[MENU_ALL_MISSION_DESCRIPTION_11]
+Text="Zone d'intervention : RED DIAMOND.||Le but de cette mission est de télécharger et sécuriser 2 fichiers. Attention ! Les terminaux ne peuvent donner que 25% d'information chacun. Il faut faudra être malin|||Conditions de victoire : 2 fichiers sécurisés.|Précisions : 4 vies par espions, 20 minutes.||Score pour obtenir les médailles :|Bronze : 750 pts|Argent : 1000 pts|Or : 1300 pts"
+[MENU_ALL_MISSION_DESCRIPTION_12]
+Text="Zone d'intervention : USS WISDOM.||Le but de cette mission est de déterminer le meilleur espion : vous devez tout faire pour télécharger le maximum d'information et devancer les autres espions !|||Conditions de victoire : être l'espion qui a le plus grand %.|Précisions : 3 vies par espions, 14.5 minutes.||Score pour obtenir les médailles :|Bronze : 450 pts|Argent : 750 pts|Or : 1100 pts"
+[MENU_ALL_MISSION_DESCRIPTION_13]
+Text="Zone d'intervention : DAWN WAVES.||Vous disposez du temps de la mission pour être le premier à voler et sécuriser deux fichiers. Soyez le meilleur !||||Conditions de victoire : Être le 1er à sécuriser 2 fichiers.|Précisions : 4 vies par espion, 20 minutes.||Score pour obtenir les médailles :|Bronze : 1000 pts|Argent : 1200 pts|Or : 1450 pts"
+[MENU_ALL_MISSION_DESCRIPTION_14]
+Text="Zone d'intervention : MOTORWAY 90.||Vous disposez du temps de la mission pour télécharger le maximum d'information depuis les terminaux. Soyez soudés et unis !|||Conditions de victoire : 1% téléchargé.|Précisions : 3 vies par espion, 11 minutes.||Score pour obtenir les médailles :|Bronze : 550 pts|Argent : 750 pts|Or : 1000 pts"
+[MENU_ALL_MISSION_DESCRIPTION_15]
+Text="Zone d'intervention : BOSS HOUSE.||Vous disposez du temps de la mission pour télécharger et sécuriser le maximum de fichiers complets.||||Conditions de victoire : 1 fichier sécurisé.|Précisions : 3 vies par espion, 15 minutes.||Score pour obtenir les médailles :|Bronze : 600 pts|Argent : 1100 pts|Or : 1800 pts"
+[MENU_ALL_MISSION_DESCRIPTION_16]
+Text="Zone d'intervention : SLAUGHTERHOUSE.||Le but de cette mission est de déterminer le meilleur espion : vous devez tout faire pour télécharger le maximum d'information et devancer les autres espions !|||Conditions de victoire : être l'espion qui a le plus grand %.|Précisions : 2 vies par espions, 14 minutes.||Score pour obtenir les médailles :|Bronze : 450 pts|Argent : 750 pts|Or : 1100 pts"
+[MENU_ALL_MISSION_DESCRIPTION_17]
+Text="Zone d'intervention : BLACKWING.||Vous disposez du temps de la mission pour être le premier à voler et sécuriser deux fichiers. Soyez le meilleur !||||Conditions de victoire : Être le 1er à sécuriser 2 fichiers.|Précisions : 2 vies par espion, 18 minutes.||Score pour obtenir les médailles :|Bronze : 1000 pts|Argent : 1200 pts|Or : 1450 pts"
+[MENU_ALL_MISSION_DESCRIPTION_18]
+Text="Zone d'intervention : TERMINUS.||Le but de cette mission est de télécharger et sécuriser 2 fichiers. Attention ! Les terminaux ne peuvent donner que 25% d'information chacun. Il faut faudra être malin|||Conditions de victoire : 2 fichiers sécurisés.|Précisions : 2 vies par espions, 18 minutes.||Score pour obtenir les médailles :|Bronze : 750 pts|Argent : 1000 pts|Or : 1300 pts"
+[MENU_ALL_MISSION_DESCRIPTION_19]
+Text="Zone d'intervention : USS WISDOM.||Vous disposez du temps de la mission pour télécharger le maximum d'information depuis les terminaux. Soyez soudés et unis !|||Conditions de victoire : 1% téléchargé.|Précisions : 3 vies par espion, 10.5 minutes.||Score pour obtenir les médailles :|Bronze : 450 pts|Argent : 750 pts|Or : 1300 pts"
+[MENU_ALL_MISSION_DESCRIPTION_20]
+Text="Zone d'intervention : RED DIAMOND.||Vous disposez du temps de la mission pour télécharger et sécuriser le maximum de fichiers complets.||||Conditions de victoire : 1 fichier sécurisé.|Précisions : 2 vies par espion, 14 minutes.||Score pour obtenir les médailles :|Bronze : 600 pts|Argent : 1100 pts|Or : 1800 pts"
+[MENU_ALL_MISSION_DESCRIPTION_21]
+Text="Zone d'intervention : SLAUGHTERHOUSE.||Vous disposez du temps de la mission pour être le premier à voler et sécuriser deux fichiers. Soyez le meilleur !||||Conditions de victoire : Être le 1er à sécuriser 2 fichiers.|Précisions : 3 vies par espion, 20 minutes.||Score pour obtenir les médailles :|Bronze : 1000 pts|Argent : 1200 pts|Or : 1450 pts"
+[MENU_ALL_MISSION_DESCRIPTION_22]
+Text="Zone d'intervention : DAWN WAVES.||Le but de cette mission est de télécharger et sécuriser 2 fichiers. Attention ! Les terminaux ne peuvent donner que 25% d'information chacun. Il faut faudra être malin|||Conditions de victoire : 2 fichiers sécurisés.|Précisions : 3 vies par espions, 20 minutes.||Score pour obtenir les médailles :|Bronze : 750 pts|Argent : 1000 pts|Or : 1300 pts"
+[MENU_ALL_MISSION_DESCRIPTION_23]
+Text="Zone d'intervention : BOSS HOUSE.||Le but de cette mission est de déterminer le meilleur espion : vous devez tout faire pour télécharger le maximum d'information et devancer les autres espions !|||Conditions de victoire : être l'espion qui a le plus grand %.|Précisions : 3 vies par espions, 14.5 minutes.||Score pour obtenir les médailles :|Bronze : 450 pts|Argent : 750 pts|Or : 1100 pts"
+[MENU_ALL_MISSION_DESCRIPTION_24]
+Text="Zone d'intervention : TERMINUS.||Vous disposez du temps de la mission pour télécharger et sécuriser le maximum de fichiers complets.||||Conditions de victoire : 1 fichier sécurisé.|Précisions : 3 vies par espion, 15 minutes.||Score pour obtenir les médailles :|Bronze : 600 pts|Argent : 1100 pts|Or : 1800 pts"
+[MENU_ALL_MISSION_DESCRIPTION_25]
+Text="Zone d'intervention : MOTOWAY 90.||Le but de cette mission est de télécharger et sécuriser 2 fichiers. Attention ! Les terminaux ne peuvent donner que 25% d'information chacun. Il faut faudra être malin|||Conditions de victoire : 2 fichiers sécurisés.|Précisions : 3 vies par espions, 20 minutes.||Score pour obtenir les médailles :|Bronze : 750 pts|Argent : 1000 pts|Or : 1300 pts"
+[MENU_ALL_MISSION_DESCRIPTION_26]
+Text="Zone d'intervention : DAWN WAVES.||Vous disposez du temps de la mission pour télécharger et sécuriser le maximum de fichiers complets.||||Conditions de victoire : 1 fichier sécurisé.|Précisions : 3 vies par espion, 15 minutes.||Score pour obtenir les médailles :|Bronze : 600 pts|Argent : 1100 pts|Or : 1600 pts"
+[MENU_ALL_MISSION_DESCRIPTION_27]
+Text="Zone d'intervention : RED DIAMOND.||Vous disposez du temps de la mission pour télécharger le maximum d'information depuis les terminaux. Soyez soudés et unis !|||Conditions de victoire : 1% téléchargé.|Précisions : 2 vies par espion, 11 minutes.||Score pour obtenir les médailles :|Bronze : 550 pts|Argent : 750 pts|Or : 1000 pts"
+[MENU_ALL_MISSION_DESCRIPTION_28]
+Text="Zone d'intervention : BLACKWING.||Le but de cette mission est de déterminer le meilleur espion : vous devez tout faire pour télécharger le maximum d'information et devancer les autres espions !|||Conditions de victoire : être l'espion qui a le plus grand %.|Précisions : 2 vies par espions, 13.5 minutes.||Score pour obtenir les médailles :|Bronze : 450 pts|Argent : 750 pts|Or : 1100 pts"
+[MENU_ALL_MISSION_DESCRIPTION_29]
+Text="Zone d'intervention : BOSS HOUSE.||Vous disposez du temps de la mission pour être le premier à voler et sécuriser deux fichiers. Soyez le meilleur !||||Conditions de victoire : Être le 1er à sécuriser 2 fichiers.|Précisions : 1 vie par espion, 18.5 minutes.||Score pour obtenir les médailles :|Bronze : 1000 pts|Argent : 1200 pts|Or : 1450 pts"
+[MENU_ALL_MISSION_DESCRIPTION_30]
+Text="Zone d'intervention : TERMINUS.||Vous disposez du temps de la mission pour télécharger le maximum d'information depuis les terminaux. Soyez soudés et unis !|||Conditions de victoire : 1% téléchargé.|Précisions : 1 vie par espion, 10 minutes.||Score pour obtenir les médailles :|Bronze : 550 pts|Argent : 750 pts|Or : 1000 pts"
+[MENU_ALL_MISSION_DESCRIPTION_31]
+Text="Description mission 31"
+[MENU_ALL_MISSION_DESCRIPTION_32]
+Text="Description mission 32"
+[MENU_ALL_MISSION_DESCRIPTION_33]
+Text="Description mission 33"
+[MENU_ALL_MISSION_DESCRIPTION_34]
+Text="Description mission 34"
+[MENU_ALL_MISSION_DESCRIPTION_35]
+Text="Description mission 35"
+[MENU_ALL_MISSION_DESCRIPTION_36]
+Text="Description mission 36"
+[MENU_ALL_MISSION_DESCRIPTION_37]
+Text="Description mission 37"
+[MENU_ALL_MISSION_DESCRIPTION_38]
+Text="Description mission 38"
+[MENU_ALL_MISSION_DESCRIPTION_39]
+Text="Description mission 39"
+[MENU_ALL_MISSION_DESCRIPTION_40]
+Text="Description mission 40"
+[MENU_ALL_MISSION_DESCRIPTION_41]
+Text="Description mission 41"
+[MENU_ALL_MISSION_DESCRIPTION_42]
+Text="Description mission 42"
+[MENU_ALL_OPTIONS_02]
+Text="Inverser l'axe vertical  "
+[MENU_ALL_OPTIONS_03]
+Text="Inverser l'axe horizontal  "
+[MENU_ALL_OPTIONS_04]
+Text="Vibration  "
+[MENU_ALL_OPTIONS_05]
+Text="Mini-carte en cours de jeu  "
+[MENU_ALL_OPTIONS_06]
+Text="Score des joueurs en cours de jeu  "
+[MENU_ALL_OPTIONS_07]
+Text="Messages en cours de jeu  "
+[MENU_ALL_OPTIONS_08]
+Text="Gadget en cours de jeu  "
+[MENU_ALL_OPTIONS_09]
+Text="Afficher les fantômes dans les cartes  "
+[MENU_ALL_OPTIONS_ACCEPT]
+Text="Accepter modifications"
+[MENU_ALL_OPTIONS_CANCEL_CHANGES]
+Text="Sauvegarder les modifications ?\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[MENU_ALL_RK_TITLE_SOLO]
+Text="Classement Versus - Solo"
+[MENU_ALL_RK_TITLE_SQUAD]
+Text="Classement Versus - Clan"
+[MENU_ALL_RK_SHOW_FRIENDS]
+Text="Classement amis"
+[MENU_ALL_RK_SHOW_ME]
+Text="Mes résultats"
+[MENU_ALL_RK_SHOW_GLOBAL]
+Text="Classements globaux"
+[MENU_ALL_RK_SHOW_TOP_10]
+Text="Top 10"
+[MENU_ALL_RK_SHOW_GAMERTAG]
+Text="Carte du joueur"
+[MENU_ALL_RK_BUTTON_SQUAD]
+Text="Afficher classement CLAN"
+[MENU_ALL_RK_BUTTON_SOLO]
+Text="Afficher classement SOLO"
+[MENU_ALL_SQUAD_CREATE_HELP]
+Text="Créer un Clan et recruter des joueurs ou des amis."
+[MENU_ALL_SQUAD_NAME]
+Text="Nom"
+[MENU_ALL_CREATE]
+Text="Créer"
+[MENU_ALL_SQUAD_NAME_NOT_OK]
+Text="L'information de Clan saisie contient un langage offensant qui n'est pas autorisé. Vous devez la modifier.||Appuyez sur \Z1 ou \Zl pour continuer."
+[MENU_ALL_SQUAD_MOTTO_NOT_OK]
+Text="L'information de Clan saisie contient un langage offensant qui n'est pas autorisé. Vous devez la modifier.||Appuyez sur \Z1 ou \Zl pour continuer."
+[MENU_ALL_SQUAD_INVITE_CONSULT]
+Text="Voir"
+[MENU_ALL_SQUAD_INVITE_DETAIL_01]
+Text="Vous êtes invité à rejoindre ce CLAN :"
+[MENU_ALL_SQUAD_INVITE_DETAIL_02]
+Text="Classement :"
+[MENU_ALL_SQUAD_INVITE_DETAIL_03]
+Text="Nombre de membres :"
+[MENU_ALL_SQUAD_INVITE_DETAIL_04]
+Text="Parties jouées :"
+[MENU_ALL_SQUAD_INVITE_DETAIL_05]
+Text="Victoires :"
+[MENU_ALL_SQUAD_INVITE_DETAIL_06]
+Text="Pénalités atteintes :"
+[MENU_ALL_STATS_01]
+Text="Sessions jouées en tant qu'espion"
+[MENU_ALL_STATS_02]
+Text="Sessions jouées en tant que membre des Forces Upsilon"
+[MENU_ALL_STATS_03]
+Text="Temps de jeu"
+[MENU_ALL_STATS_04]
+Text="Carte préférée"
+[MENU_XBLIVE_LIVE_ZONE_KNOW_MORE]
+Text="Pour en savoir plus"
+[MENU_XBLIVE_LIVE_ZONE_BACK]
+Text="Retour au menu multijoueur"
+[MENU_XBLIVE_LIVE_ZONE_KNOW_MORE_HELP]
+Text="En savoir plus sur cette actualité"
+[MENU_XBLIVE_LIVE_ZONE_M_NEWS_TITLE]
+Text="Actualités principales - TITRE"
+[MENU_XBLIVE_LIVE_ZONE_M_NEWS_SHORT_DESC]
+Text="Actualités principales - brève description"
+[MENU_XBLIVE_LIVE_ZONE_M_NEWS_DESC_P_1]
+Text="Actualités principales - détails, partie 1"
+[MENU_XBLIVE_LIVE_ZONE_M_NEWS_DESC_P_2]
+Text="Actualités principales - détails, partie 2"
+[MENU_XBLIVE_LIVE_ZONE_BUTTON_1]
+Text="Space: Participer au challenge"
+[MENU_XBLIVE_LIVE_ZONE_BUTTON_2]
+Text="Space: S'inscrire au tournoi"
+[MENU_XBLIVE_LIVE_ZONE_BUTTON_3]
+Text="Space: Jouer le match de tournoi"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_1_TITLE]
+Text="Actualités secondaires - TITRE"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_1_SHORT_DESC]
+Text="Actualités secondaires - brève description"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_1_DESC_P_1]
+Text="Actualités secondaires - détails, partie 1"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_1_DESC_P_2]
+Text="Actualités secondaires - détails, partie 2"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_2_TITLE]
+Text="Actualités secondaires 2 - TITRE"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_2_SHORT_DESC]
+Text="Actualités secondaires 2 - brève description"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_2_DESC_P_1]
+Text="Actualités secondaires 2 - détails, partie 1"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_2_DESC_P_2]
+Text="Actualités secondaires 2 - détails, partie 2"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_3_TITLE]
+Text="Actualités secondaires 3 - TITRE"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_3_SHORT_DESC]
+Text="Actualités secondaires 3 - brève description"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_3_DESC_P_1]
+Text="Actualités secondaires 3 - détails, partie 1"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_3_DESC_P_2]
+Text="Actualités secondaires 3 - détails, partie 2"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_4_TITLE]
+Text="Actualités secondaires 4 - TITRE"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_4_SHORT_DESC]
+Text="Actualités secondaires 4 - brève description"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_4_DESC_P_1]
+Text="Actualités secondaires 4 - détails, partie 1"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_4_DESC_P_2]
+Text="Actualités secondaires 4 - détails, partie 2"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_5_TITLE]
+Text="Actualités secondaires 5 - TITRE"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_5_SHORT_DESC]
+Text="Actualités secondaires 5 - brève description"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_5_DESC_P_1]
+Text="Actualités secondaires 5 - détails, partie 1"
+[MENU_XBLIVE_LIVE_ZONE_S_NEWS_5_DESC_P_2]
+Text="Actualités secondaires 5 - détails, partie 2"
+[MENU_XBLIVE_LIVE_ZONE_TOURN_01]
+Text="Impossible de se connecter à ce tournoi.|Veuillez réessayer. ||Appuyez sur \Z1 ou \Zl pour continuer."
+[MENU_XBLIVE_LIVE_ZONE_TOURN_02]
+Text="Félicitations ! Le tournoi va bientôt commencer.||Appuyez sur \Z1 ou \Zl pour continuer."
+[MENU_XBLIVE_LIVE_ZONE_TOURN_03]
+Text="Connexion au tournoi impossible, vous ne remplissez pas les conditions requises.|Consultez les détails pour plus de renseignements.||Appuyez sur \Z1 ou \Zl pour continuer."
+[MENU_SCROLL_BAR_PLAYERS_CONNECTED]
+Text=" joueurs sont connectés"
+[MENU_SCROLL_BAR_PLAYERS_RANKED]
+Text=" joueurs sont classés"
+[MENU_SCROLL_BAR_CHALL_TOP_5_MODIF]
+Text="Le TOP 5 au tableau <nom challenge> a changé."
+[MENU_SCROLL_BAR_CHALL_N_1_MODIF]
+Text="Le meilleur score au tableau <challenge name> a changé."
+[MENU_SCROLL_BAR_LIVE_NEWS_UPDATE]
+Text="Les actualités LIVE ont été mises à jour."
+[MENU_SCROLL_BAR_NEW_TOURNA_AVAILABLE]
+Text="Un nouveau tournoi est disponible ! Consultez la ZONE LIVE pour plus de détails."
+[MENU_SCROLL_BAR_NEW_DEFI_AVAILABLE]
+Text="Un nouveau Challenge est disponible ! Consultez la ZONE LIVE pour plus de détails."
+[MENU_SCROLL_BAR_RK_SQUAD]
+Text="Astuce : pour jouer des sessions CLAN, vous devez être membre d'un CLAN ou en créer un dans la section CLAN des paramètres de votre profil."
+[MENU_SCROLL_BAR_RK_SQUAD_CONNECTED]
+Text=" CLANS sont connectés"
+[MENU_SCROLL_BAR_RK_SQUAD_RANKED]
+Text=" CLANS sont classés"
+[MENU_SCROLL_BAR_RK_TOP_LONE_UPDATE]
+Text="Le TOP 5 du tableau SOLO a changé."
+[MENU_SCROLL_BAR_RK_TOP_SQUAD_UPDATE]
+Text="Le TOP 5 au tableau CLAN a changé."
+[MENU_SCROLL_BAR_LOBBY_LONE]
+Text=" victoires sur les 5 dernières sessions."
+[MENU_SCROLL_BAR_LOBBY_RK_SQUAD_01]
+Text="Les enjeux sont les suivants :"
+[MENU_SCROLL_BAR_LOBBY_RK_SQUAD_02]
+Text="Pour <nom CLAN>, la victoire vous rapporte <NB points> et la défaite vous fait perdre <NB points 2>."
+[MENU_SCROLL_BAR_CHALLENGE_N_1]
+Text="<Nom joueur> est le premier au classement pour ce challenge avec un score de <AAA> points."
+[MENU_SCROLL_BAR_CHALLENGE_PLAYER_BEST_SCORE]
+Text="<Nom joueur> : meilleur score pour ce challenge : <AAA> points."
+[MENU_SCROLL_BAR_PROFILE_01]
+Text="Vous avez le grade de "
+[MENU_SCROLL_BAR_PROFILE_02]
+Text=" challenges terminés sur 24."
+[MENU_SCROLL_BAR_PROFILE_03]
+Text="médailles d'or"
+[MENU_SCROLL_BAR_PROFILE_04]
+Text="médailles d'argent"
+[MENU_SCROLL_BAR_PROFILE_05]
+Text="médailles de bronze"
+[MENU_SCROLL_BAR_PROFILE_TIP_01]
+Text="Terminez tous les challenges avec une médaille d'or pour débloquer des bonus."
+[MENU_SCROLL_BAR_PROFILE_TIP_02]
+Text="Améliorez vos compétences pour atteindre un grade plus élevé et gagner de nouveaux visuels pour vos personnages."
+[Menu_ALL_VIDEOS_EXPERT]
+Text="Expert"
+[Menu_ALL_VIDEOS_EXPERT_HELP]
+Text="Découvrez des règles du jeu particulières pour devenir un expert."
+[Menu_ALL_VIDEOS_ASK_FOR_HELP]
+Text="Demander de l'aide."
+[Menu_ALL_VIDEOS_ASK_FOR_HELP_AIDE]
+Text="Demander à un joueur expérimenté de vous aider."
+[Menu_ALL_VIDEOS_PROPOSE_HELP]
+Text="Proposer votre aide."
+[Menu_ALL_VIDEOS_PROPOSE_HELP_AIDE]
+Text="Proposer votre aide à un joueur inexpérimenté."
+[Menu_ALL_ASK_WHAT_WANT]
+Text="Que souhaitez-vous savoir ?"
+[Menu_ALL_ASK_SPY_RULES]
+Text="Règles espion"
+[Menu_ALL_ASK_SPY_RULES_HELP]
+Text="Demander comment jouer un espion."
+[Menu_ALL_ASK_UF_RULES_HELP]
+Text="Demander comment jouer un membre des Forces Upsilon."
+[Menu_ALL_ASK_UF_RULES]
+Text="Règles Forces Upsilon"
+[Menu_ALL_ASK_MAP]
+Text="Carte"
+[Menu_ALL_ASK_MAP_HELP]
+Text="Demander comment découvrir les secrets d'une carte."
+[Menu_ALL_ASK_BASIC_HELP]
+Text="Demander de l'aide sur des points de base."
+[Menu_ALL_ASK_ADV_HELP]
+Text="Demander des réponses plus spécifiques."
+[Menu_ALL_ASK_EXP_HELP]
+Text="Poser des questions complexes."
+[Menu_ALL_TEACH_WHAT_WANT]
+Text="Que souhaitez-vous expliquer ?"
+[Menu_ALL_TEACH_SPY_RULES_HELP]
+Text="Expliquer comment jouer un espion."
+[Menu_ALL_TEACH_UF_RULES_HELP]
+Text="Expliquer comment jouer un membre des Forces Upsilon."
+[Menu_ALL_TEACH_MAP_HELP]
+Text="Expliquer comment découvrir les secrets d'une carte."
+[Menu_ALL_TEACH_BASIC_HELP]
+Text="Expliquer des points de base."
+[Menu_ALL_TEACH_ADV_HELP]
+Text="Donner des réponses plus spécifiques."
+[Menu_ALL_TEACH_EXP_HELP]
+Text="Donner des réponses à des questions complexes."
+[Menu_XBLIVE_LIVE_ZONE_UNAVAILABLE]
+Text="Vous ne pouvez pas accéder à la ZONE LIVE depuis le LAN.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_MAP_NOT_DOWNLOADED]
+Text="Vous devez télécharger la carte pour y jouer. Rendez-vous sur www.splintercell.com pour la télécharger.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_HOST_SESSION]
+Text="Héberger une session"
+[Menu_XBLIVE_UNABLE_CREATE_GROUP]
+Text="Impossible de créer un groupe de joueurs.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_DISCON_FROM_LIVE]
+Text="Vous avez été déconnecté de Demonware.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_ERROR]
+Text="Une erreur s'est produite.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_INVITED_PLAY_SQUAD]
+Text="Vous êtes invité à jouer une session clan contre clan dans SPLINTER CELL DOUBLE AGENT."
+[Menu_ALL_CHALLENGE_GROUPE_1]
+Text="NOM DE CODE : ONYX"
+[Menu_ALL_CHALLENGE_GROUPE_2]
+Text="NOM DE CODE : ZIRCON"
+[Menu_ALL_CHALLENGE_GROUPE_3]
+Text="NOM DE CODE : DIAMOND"
+[Menu_ALL_CHALLENGE_GROUPE_4]
+Text="NOM DE CODE : AMETHYST"
+[Menu_ALL_CHALLENGE_GROUPE_5]
+Text="NOM DE CODE : TOPAZ"
+[Menu_ALL_CHALLENGE_GROUPE_6]
+Text="NOM DE CODE : EMERALD"
+[Menu_ALL_CHALLENGE_GROUPE_7]
+Text="NOM DE CODE : SAPPHIRE"
+[Menu_ALL_CHALLENGE_01_SCORE_DETAIL]
+Text="Pas de score ni de médaille pour cette mission (Opération JAGUAR)"
+[Menu_ALL_CHALLENGE_02_SCORE_DETAIL]
+Text="Pas de score ni de médaille pour cette mission (Opération PANTHER)"
+[Menu_ALL_CHALLENGE_04_SCORE_DETAIL]
+Text="1 fich. volé: +100; 1 fich. sécu.: +250|1 s rest.: +1|1 esp. tué: -25; tué av. fich.: -50|0 esp. tué pendant mission: +100||Mission COUGAR:|Bronze: 1000 pts|Argent: 1200 pts|Or: 1450 pts"
+[Menu_ALL_CHALLENGE_05_SCORE_DETAIL]
+Text="Chaque %: +1; 200%: +50|500%: +150; 1000%: +250|Chaque segment de 500%: +250|1 esp. tué: -25; pdt pirat.: -50||Mission PUMA:|Bronze: 550 pts|Argent: 750 pts|Or: 1000 pts"
+[Menu_ALL_CHALLENGE_03_SCORE_DETAIL]
+Text="1 fich. volé: +50; 1 sécu.: +150|3 fich. sécu.: +100|5 fich. sécu. et bloc 5 fich.: +150|1 esp. tué: -25; tué av. fich.: -50|0 esp. tué pendant mission: +100||Mission TIGER:|Bronze: 600 pts|Argent: 1100 pts|Or: 1800 pts"
+[Menu_ALL_CHALLENGE_06_SCORE_DETAIL]
+Text="0-149: 1% = +1; 150-299: 1% = +2|300-499: 1% = +3; 500+: 1% = +4|200%: +125; 500%: +300|Chaque segment de 250%: +300|1 esp. tué: -25; pdt pirat.: -50|0 esp. tué pendant mission: +150|Mission LION:|Bronze: 450 pts|Argent: 750 pts|Or: 1100 pts"
+[Menu_ALL_CHALLENGE_07_SCORE_DETAIL]
+Text="25% piraté: +10; 50%: +15; 75%: +25|1 fich. volé: +50; 1 sécu.: +150|1 s rest.: +1|1 esp. tué: -25; tué av. fich.: -50|0 esp. tué pendant mission: +150||Mission UNICORN:|Bronze: 750 pts|Argent: 1000 pts|Or: 1300 pts"
+[Menu_ALL_CHALLENGE_08_SCORE_DETAIL]
+Text="Chaque %: +1; 200%: +50|500%: +150; 1000%: +250|Chaque segment de 500%: +250|1 esp. tué: -25; pdt pirat.: -50||Mission SPHINX:|Bronze: 550 pts|Argent: 750 pts|Or: 1000 pts"
+[Menu_ALL_CHALLENGE_09_SCORE_DETAIL]
+Text="1 fich. volé: +100; 1 sécu.: +150|3 fich. sécu.: +100|5 fich. sécu. et bloc 5 fich.: +150|1 esp. tué: -25; tué av. fich.: -50|0 esp. tué pendant mission: +100||Mission GRIFFIN:|Bronze: 600 pts|Argent: 1100 pts|Or: 1800 pts"
+[Menu_ALL_CHALLENGE_10_SCORE_DETAIL]
+Text="1 fich. volé: +100; 1 fich. sécu.: +250|1 s rest.: +1|1 esp. tué: -25; tué av. fich.: -50|0 esp. tué pendant mission: +100||Mission MINOTAUR:|Bronze: 1000 pts|Argent: 1200 pts|Or: 1450 pts"
+[Menu_ALL_CHALLENGE_11_SCORE_DETAIL]
+Text="25% piraté: +10; 50%: +15; 75%: +25|1 fich. volé: +50; 1 sécu.: +150|1 s rest.: +1|1 esp. tué: -25; tué av. fich.: -50|0 esp. tué pendant mission: +150||Mission MANTICORE:|Bronze: 750 pts|Argent: 1000 pts|Or: 1300 pts"
+[Menu_ALL_CHALLENGE_12_SCORE_DETAIL]
+Text="0-149: 1% = +1; 150-299: 1% = +2|300-499: 1% = +3; 500+: 1% = +4|200%: +125; 500%: +300|Chaque segment de 250%: +300|1 esp. tué: -25; pdt pirat.: -50|0 esp. tué pendant mission: +150|Mission PHOENIX:|Bronze: 450 pts|Argent: 750 pts|Or: 1100 pts"
+[Menu_ALL_CHALLENGE_13_SCORE_DETAIL]
+Text="1 fich. volé: +100; 1 fich. sécu.: +250|1 s rest.: +1|1 esp. tué: -25; tué av. fich.: -50|0 esp. tué pendant mission: +100||Mission POLAR BEAR:|Bronze: 1000 pts|Argent: 1200 pts|Or: 1450 pts"
+[Menu_ALL_CHALLENGE_14_SCORE_DETAIL]
+Text="Chaque %: +1; 200%: +50|500%: +150; 1000%: +250|Chaque segment de 500%: +250|1 esp. tué: -25; pdt pirat.: -50||Mission MISUMERA:|Bronze: 550 pts|Argent: 750 pts|Or: 1000 pts"
+[Menu_ALL_CHALLENGE_15_SCORE_DETAIL]
+Text="1 fich. volé: +50; 1 sécu.: +150|3 fich. sécu.: +100|5 fich. sécu. et bloc 5 fich.: +150|1 esp. tué: -25; tué av. fich.: -50|0 esp. tué pendant mission: +100||Mission ARCTIC WOLF:|Bronze: 600 pts|Argent: 1100 pts|Or: 1800 pts"
+[Menu_ALL_CHALLENGE_16_SCORE_DETAIL]
+Text="0-149: 1% = +1; 150-299: 1% = +2|300-499: 1% = +3; 500+: 1% = +4|200%: +125; 500%: +300|Chaque segment de 250%: +300|1 esp. tué: -25; pdt pirat.: -50|0 esp. tué pendant mission: +150|Mission NAJA:|Bronze: 450 pts|Argent: 750 pts|Or: 1100 pts"
+[Menu_ALL_CHALLENGE_17_SCORE_DETAIL]
+Text="1 fich. volé: +100; 1 fich. sécu.: +250|1 s rest.: +1|1 esp. tué: -25; tué av. fich.: -50|0 esp. tué pendant mission: +100||Mission BELUGA:|Bronze: 1000 pts|Argent: 1200 pts|Or: 1450 pts"
+[Menu_ALL_CHALLENGE_18_SCORE_DETAIL]
+Text="25% piraté: +10; 50%: +15; 75%: +25|1 fich. volé: +50; 1 sécu.: +150|1 s rest.: +1|1 esp. tué: -25; tué av. fich.: -50|0 esp. tué pendant mission: +150||Mission SHARK:|Bronze: 750 pts|Argent: 1000 pts|Or: 1300 pts"
+[Menu_ALL_CHALLENGE_19_SCORE_DETAIL]
+Text="Chaque %: +1; 200%: +50|500%: +150; 1000%: +250|Chaque segment de 500%: +250|1 esp. tué: -25; pdt pirat.: -50||Mission TYR:|Bronze: 550 pts|Argent: 750 pts|Or: 1000 pts"
+[Menu_ALL_CHALLENGE_20_SCORE_DETAIL]
+Text="1 fich. volé: +50; 1 sécu.: +150|3 fich. sécu.: +100|5 fich. sécu. et bloc 5 fich.: +150|1 esp. tué: -25; tué av. fich.: -50|0 esp. tué pendant mission: +100||Mission HEIMDALL:|Bronze: 600 pts|Argent: 1100 pts|Or: 1800 pts"
+[Menu_ALL_CHALLENGE_21_SCORE_DETAIL]
+Text="1 fich. volé: +100; 1 fich. sécu.: +250|1 s rest.: +1|1 esp. tué: -25; tué av. fich.: -50|0 esp. tué pendant mission: +100||Mission BALDER:|Bronze: 850 pts|Argent: 1100 pts|Or: 1300 pts"
+[Menu_ALL_CHALLENGE_22_SCORE_DETAIL]
+Text="25% piraté: +10; 50%: +15; 75%: +25|1 fich. volé: +50; 1 sécu.: +150|1 s rest.: +1|1 esp. tué: -25; tué av. fich.: -50|0 esp. tué pendant mission: +150||Mission LOKI:|Bronze: 750 pts|Argent: 1000 pts|Or: 1300 pts"
+[Menu_ALL_CHALLENGE_23_SCORE_DETAIL]
+Text="0-149: 1% = +1; 150-299: 1% = +2|300-499: 1% = +3; 500+: 1% = +4|200%: +125; 500%: +300|Chaque segment de 250%: +300|1 esp. tué: -25; pdt pirat.: -50|0 esp. tué pendant mission: +150|Mission THOR:|Bronze: 450 pts|Argent: 750 pts|Or: 1100 pts"
+[Menu_ALL_CHALLENGE_24_SCORE_DETAIL]
+Text="1 fich. volé: +50; 1 sécu.: +150|3 fich. sécu.: +100|5 fich. sécu. et bloc 5 fich.: +150|1 esp. tué: -25; tué av. fich.: -50|0 esp. tué pendant mission: +100||Mission ODIN:|Bronze: 600 pts|Argent: 1100 pts|Or: 1800 pts"
+[Menu_ALL_CHALLENGE_25_SCORE_DETAIL]
+Text="25% piraté: +10; 50%: +15; 75%: +25|1 fich. volé: +50; 1 sécu.: +250|1 s rest.: +1|1 esp. tué: -25; tué av. fich.: -50|0 esp. tué pendant mission: +100||Mission CALLIOPE:|Bronze: 750 pts|Argent: 1000 pts|Or: 1300 pts"
+[Menu_ALL_CHALLENGE_26_SCORE_DETAIL]
+Text="1 fich. volé: +50; 1 sécu.: +150|3 fich. sécu.: +100|5 fich. sécu. et bloc 5 fich.: +150|1 esp. tué: -25; tué av. fich.: -50|0 esp. tué pendant mission: +100||Mission URANIA:|Bronze: 600 pts|Argent: 1100 pts|Or: 1800 pts"
+[Menu_ALL_CHALLENGE_27_SCORE_DETAIL]
+Text="Chaque %: +1; 200%: +50|500%: +150; 1000%: +250|Chaque segment de 500%: +250|1 esp. tué: -25; pdt pirat.: -50||Mission ERATO:|Bronze: 550 pts|Argent: 750 pts|Or: 1000 pts"
+[Menu_ALL_CHALLENGE_28_SCORE_DETAIL]
+Text="0-149: 1% = +1; 150-299: 1% = +2|300-499: 1% = +3; 500+: 1% = +4|200%: +125; 500%: +300|Chaque segment de 250%: +300|1 esp. tué: -25; pdt pirat.: -50|0 esp. tué pendant mission: +150|Mission MELPOMENE:|Bronze: 450 pts|Argent: 750 pts|Or: 1100 pts"
+[Menu_ALL_CHALLENGE_29_SCORE_DETAIL]
+Text="1 fich. volé: +100; 1 fich. sécu.: +250|1 s rest.: +1|1 esp. tué: -25; tué av. fich.: -50|0 esp. tué pendant mission: +100||Mission THALIA:|Bronze: 850 pts|Argent: 1100 pts|Or: 1300 pts"
+[Menu_ALL_CHALLENGE_30_SCORE_DETAIL]
+Text="25% piraté: +10; 50%: +15; 75%: +25|1 fich. volé: +50; 1 sécu.: +150|1 s rest.: +1|1 esp. tué: -25; tué av. fich.: -50|0 esp. tué pendant mission: +150||Mission POLYMNIA:|Bronze: 750 pts|Argent: 1000 pts|Or: 1300 pts"
+[Menu_ALL_CHALLENGE_31_SCORE_DETAIL]
+Text="Détail score 31"
+[Menu_ALL_CHALLENGE_32_SCORE_DETAIL]
+Text="Détail score 32"
+[Menu_ALL_CHALLENGE_33_SCORE_DETAIL]
+Text="Détail score 33"
+[Menu_ALL_CHALLENGE_34_SCORE_DETAIL]
+Text="Détail score 34"
+[Menu_ALL_CHALLENGE_35_SCORE_DETAIL]
+Text="Détail score 35"
+[Menu_ALL_CHALLENGE_36_SCORE_DETAIL]
+Text="Détail score 36"
+[Menu_ALL_CHALLENGE_37_SCORE_DETAIL]
+Text="Détail score 37"
+[Menu_ALL_CHALLENGE_38_SCORE_DETAIL]
+Text="Détail score 38"
+[Menu_ALL_CHALLENGE_39_SCORE_DETAIL]
+Text="Détail score 39"
+[Menu_ALL_CHALLENGE_40_SCORE_DETAIL]
+Text="Détail score 40"
+[Menu_ALL_CHALLENGE_41_SCORE_DETAIL]
+Text="Détail score 41"
+[Menu_ALL_CHALLENGE_42_SCORE_DETAIL]
+Text="Détail score 42"
+[Menu_XBLIVE_ALREADY_IN_SQUAD]
+Text="Impossible de créer un Clan car vous êtes déjà dans un Clan.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_SQUAD_NAME_ALREADY_EXIST]
+Text="Ce nom de Clan a déjà été utilisé.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_SQUAD_MAX_CAPACITY_REACHED]
+Text="Votre CLAN est au complet : impossible d'envoyer des invitations supplémentaires.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_SQUAD_PL_DONT_WT_BE_INV]
+Text="Ce joueur a décliné l'invitation à rejoindre votre CLAN.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_CHALLENGE_GROUPE_2_LOCKED]
+Text="Terminez des missions du groupe ONYX et obtenez 2 médailles pour déverrouiller de nouvelles missions.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_CHALLENGE_GROUPE_3_LOCKED]
+Text="Terminez des missions dans les groupes ONYX et ZIRCON et obtenez 6 médailles pour déverrouiller de nouvelles missions.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_CHALLENGE_DIFFICULTY]
+Text="Difficulté"
+[Menu_ALL_CHALLENGE_COMPLETED_TEXT]
+Text="Challenge terminé :"
+[Menu_XBLIVE_SQUAD_SEND_RECRUIT_BUTTON]
+Text="Recruter dans mon CLAN"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_TITLE_01]
+Text="Contrôles de base"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_01]
+Text="Vous pouvez effectuer des déplacements variés et parfois acrobatiques avec votre personnage, sauter, vous accroupir, effectuer une roulade... Orientez la caméra librement afin d'observer au mieux votre environnement.  ||Se déplacer : \\q, \\r, \\s, \\t|Sauter : \\a|S'accroupir / se relever / Effectuer une roulade : \\b|Orienter la caméra : souris"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_TITLE_02]
+Text="Unité de piratage"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_02]
+Text="Votre avant-bras est équipé d'une unité de piratage à distance. Ce dispositif vous permet de télécharger des informations depuis un terminal. Une fois à proximité, visez et débutez le téléchargement. Cet accessoire permet également d'éteindre les lumières ou de détruire des vitres.||Utiliser l'unité de piratage : \\k|Actionner l'unité de piratage : \\i"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_TITLE_03]
+Text="But de vos missions"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_03]
+Text="Le but de votre mission est de télécharger deux fichiers complets depuis un des terminaux et de les sécuriser via votre drone de contrôle. Pour ce faire, infiltrez-vous dans la zone, repérez un objectif et approchez-vous. Utilisez ensuite votre unité de piratage pour télécharger les infos et récupérer un fichier complet. Amenez ensuite ce fichier à votre drone de contrôle."
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_TITLE_04]
+Text="Capteur de présence"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_04]
+Text="ATTENTION ! Vos ennemis disposent d'un capteur de présence très efficace : dès que vous êtes à moins de 10 mètres d'eux, un écho apparaît sur leur HUD et leur signale votre présence. Plus vous êtes proche d'eux, plus cet écho est puissant alors pas d'imprudence ! Pour vous aider, vous serez averti de cette détection par un écho similaire à un battement cardiaque."
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_TITLE_05]
+Text="Mouvements de fuite"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_05]
+Text="Votre entraînement fait de vous un athlète de haut niveau et un acrobate hors pair. Vous disposez de mouvements de fuite spécifiques pour sortir de certaines situations. Vous pourrez par exemple passer au travers d'une fenêtre, grimper dans un faux plafond, glisser dans un conduit ou sous une grille entrouverte.||Effectuer un mouvement de fuite acrobatique : \\g"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_TITLE_06]
+Text="Actions de proximité"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_06]
+Text="N'essayez pas d'affronter un membre des Forces Upsilon de face : leur puissance de feu aurait vite raison de vous... Par contre, vous pouvez tenter de les immobiliser en leur tombant dessus. Vous pouvez aussi vous approcher d'eux par derrière afin de les attraper pour leur briser la nuque. Il est également possible d'éliminer un ennemi lorsque vous êtes accroché à une rambarde. Mais attention de ne pas vous faire repérer !||Attraper un ennemi par derrière : \\i|Briser la nuque : \\i|Attaquer à partir d'une rambarde : \\i"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_TITLE_07]
+Text="Configuration de l'affichage"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_07]
+Text="L'écran de jeu est divisé en 4 parties distinctes :|- En haut à gauche se trouve la carte de la zone de jeu et le nom de la zone dans laquelle vous êtes.[F5]|- En bas à gauche s'affichent tous les messages du jeu.[F6]|- En bas à droite se trouvent votre jauge de vie et le gadget dont vous êtes équipé.[F7]|- En haut à droite se trouvent les noms et scores des joueurs, ainsi que le score global.[F8]"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_TITLE_08]
+Text="Gadgets des espions"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_08]
+Text="Vous ne pouvez utiliser qu'un seul gadget à la fois. Si vous choisissez le gadget que vous avez déjà, vous le rechargez. Les différents gadgets disponibles sont :|- la seringue, qui permet de vous soigner ou de soigner un équipier ; |- le brouilleur, qui permet de créer un écho factice pour vos ennemis ; |- la grenade flash, qui permet de fuir une situation dangereuse en aveuglant vos ennemis ;|- La grenade fumigène, qui permet de créer un nuage de fumée pour masquer votre fuite.||Utiliser un gadget : \\j|Utiliser l'armoire : \\i"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_TITLE_09]
+Text="Astuces"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_09]
+Text="Le but de votre mission est de récupérer deux fichiers et de les sécuriser via votre drone de contrôle. Vous devez pour cela télécharger des informations depuis un des terminaux. Cette mission étant périlleuse, voilà quelques stratégies à mettre en place :|- Ne téléchargez pas à découvert. Essayez de rester caché, cela vous permettra de fuir plus facilement.|- Ne soyez pas trop gourmand : il est préférable de télécharger les informations par morceaux, en vous déplaçant entre les différents objectifs, vous serez plus difficile à traquer qu'en restant près d'un seul objectif.|- Pensez à jouer en équipe : en coordonnant vos attaques, vous multiplierez vos forces et vos chances de réussir.|- Lors des phases d'exfiltration du fichier complet, soyez calmes, ne courez pas ! Vous réussirez mieux en restant caché et en variant vos itinéraires. "
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_TITLE_10]
+Text="Générateur électrique principal"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_SPY_10]
+Text="Certaines cartes comportent un générateur principal : les lumières et les boîtiers de verrouillage des portes sont reliés à ce générateur. Vous pouvez pirater ce système grâce à votre unité de piratage. Une fois le piratage effectué, vous couperez en UNE SEULE FOIS l'ensemble des systèmes, dont ceux reliés à ce générateur. Mais attention, les Forces Upsilon peuvent réinitialiser et redémarrer ce générateur."
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_UF_01]
+Text="Vous pouvez effectuer des déplacements variés avec votre personnage, sauter, vous accroupir... et également tirer des balles ou des grenades avec votre arme. Le nombre de balles dans un chargeur est limité mais pas le nombre de chargeurs. Pensez à recharger en temps voulu.||Se déplacer : \\q, \\r, \\s, \\t|Sauter : \\A|S'accroupir / se relever : \\B|Tirer une balle : \\K|Tirer une grenade : \\L|Recharger l'arme : \\M|Orienter l'arme (et la caméra) : souris"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_UF_02]
+Text="Vous disposez d'un capteur de présence très puissant : dès qu'un intrus est à moins de 10 mètres de vous, un écho apparaît sur votre HUD (au bas de l'écran, au centre), accompagné d'un écho sonore. Plus l'intrus est proche de vous, plus l'écho est puissant. Utilisez cet écho pour trouver et traquer l'ennemi. Attention : les intrus savent lorsqu'ils sont détectés, soyez vigilant, rapide et surtout efficace."
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_UF_03]
+Text="Votre mission consiste à empêcher que les intrus ne dérobent deux des fichiers contenus dans les terminaux. Ces espions disposent de technologies de piratage à distance : si un terminal est attaqué, fouillez la zone autour de ce terminal pour localiser l'intrus avant qu'il ne télécharge un fichier. Si un intrus met la main sur un fichier complet, traquez-le et neutralisez-le avant qu'il ne fuie."
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_UF_TITLE_04]
+Text="Instruments de traque"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_UF_04]
+Text="Afin de vous aider à trouver et à éliminer vos ennemis, vous disposez d'outils complémentaires à votre capteur de présence :|- Un intrus se déplaçant rapidement apparaîtra dans votre HUD sous forme d'une ombre blanche.|- Vous disposez d'un mode de vision particulier : la vision EMF. Cette vision permet de repérer les sources électromagnétiques en provenance d'appareils électroniques, mais surtout de repérer les intrus qui utilisent une vision ou qui sont en train de télécharger des informations.|- Enfin, votre torche sera votre meilleure alliée pour traquer les intrus pensant être à l'abri dans l'obscurité."
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_UF_05]
+Text="En plus de votre arme et de vos gadgets, vous disposez d'un certain nombre d'actions de proximité permettant de nuire aux intrus. Ainsi, si un espion s'approche d'un peu trop près, vous pouvez tenter de le mettre au sol par un mouvement rotatif imparable. Vous pouvez ensuite achever l'intrus en lui tirant dessus ou en l'attrapant.|Vous pouvez également effectuer un sprint pendant un court laps de temps. Enfin, vous pouvez utiliser votre grappin sur une rambarde afin de vous rendre plus rapidement à un étage inférieur.||Mettre au sol un espion : \\N|Attraper et achever un espion au sol : \\I deux fois de suite|Effectuer un sprint : \\G|Utiliser le grappin : \\I à proximité d'une rambarde"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_UF_06]
+Text="L'écran de jeu est divisé en 4 parties distinctes :|- En haut à gauche se trouve la carte de la zone de jeu et le nom de la zone dans laquelle vous êtes.|- En bas à gauche s'affichent tous les messages du jeu.|- En bas à droite se trouvent votre jauge de vie et le gadget dont vous êtes équipé.|- En haut à droite se trouvent les noms et scores des joueurs, ainsi que le score global."
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_UF_TITLE_07]
+Text="Gadgets des Forces Upsilon"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_UF_07]
+Text="Vous ne pouvez utiliser qu'un seul gadget à la fois lors d'une session. Pour changer de gadget, utilisez l'armoire située sur votre point d'apparition dans la carte. Si vous choisissez le gadget que vous avez déjà, vous le rechargez. Les différents gadgets disponibles sont :|- Le drone qui vous permet de voir ce qui se passe dans des endroits inaccessibles pour vous. Vous pouvez faire exploser ce drone pour tenter de neutraliser un intrus.|- Les caméras de surveillance qui permettent de vérifier certains passages et de traquer vos ennemis.||Utiliser l'armoire : \\I|Faire exploser le drone : \\I"
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_UF_08]
+Text="Le but de votre mission est de protéger les terminaux et d'empêcher que les intrus ne téléchargent et ne sécurisent deux fichiers complets. Cette mission étant délicate, voilà quelques stratégies que vous pouvez mettre en place :|- Répartissez-vous dans la carte et communiquez : la coopération est un élément primordial de la victoire.|- Lorsqu'un objectif est attaqué, pensez à utiliser vos outils de traque à proximité de l'objectif pour localiser les intrus.|- Lorsqu'un fichier complet est capturé, pensez à vous replier et à vérifier les chemins d'extraction."
+[Menu_XBLIVE_NEW_VIDEOS_AIDE_UF_09]
+Text="Certaines cartes comportent un générateur principal : toutes les lumières et les boîtiers de verrouillage des portes sont reliés à ce générateur. ATTENTION : les intrus peuvent pirater ce système grâce à leur unité de piratage. Une fois le piratage effectué, l'ensemble des systèmes reliés à ce générateur est coupé. Si cela arrive, rejoignez le générateur pour le redémarrer.||Redémarrer le générateur : \\I"
+[MENU_XBLIVE_TITRE_ACH_01]
+Text="Grade RECRUIT atteint !"
+[MENU_XBLIVE_TITRE_ACH_02]
+Text="Grade OPERATIVE atteint !"
+[MENU_XBLIVE_TITRE_ACH_03]
+Text="Grade FIELD AGENT atteint !"
+[MENU_XBLIVE_TITRE_ACH_04]
+Text="Grade SPECIAL AGENT atteint !"
+[MENU_XBLIVE_TITRE_ACH_05]
+Text="Grade OFFICER atteint !"
+[MENU_XBLIVE_TITRE_ACH_06]
+Text="Grade COMMANDER atteint !"
+[MENU_XBLIVE_TITRE_ACH_07]
+Text="Trophée de bronze remporté !"
+[MENU_XBLIVE_TITRE_ACH_08]
+Text="Trophée d'argent remporté !"
+[MENU_XBLIVE_TITRE_ACH_09]
+Text="Trophée d'or remporté !"
+[MENU_XBLIVE_TITRE_ACH_10]
+Text="Vous êtes devenu un Expert sur BLACKWING !"
+[MENU_XBLIVE_TITRE_ACH_11]
+Text="Vous êtes devenu un Expert sur MOTORWAY 90 !"
+[MENU_XBLIVE_TITRE_ACH_12]
+Text="Vous êtes devenu un Expert sur TERMINUS !"
+[MENU_XBLIVE_TITRE_ACH_13]
+Text="Vous êtes devenu un Expert sur SLAUGHTERHOUSE !"
+[MENU_XBLIVE_TITRE_ACH_14]
+Text="Vous êtes devenu un Expert sur RED DIAMOND !"
+[MENU_XBLIVE_TITRE_ACH_15]
+Text="Vous êtes devenu un Expert sur BOSS HOUSE !"
+[MENU_XBLIVE_TITRE_ACH_16]
+Text="Vous êtes devenu un Expert sur DAWN WAVES !"
+[MENU_XBLIVE_TITRE_ACH_17]
+Text="Vous êtes devenu un Expert sur USS WISDOM !"
+[MENU_XBLIVE_DESC_ACH_01]
+Text="Vos aptitudes vous ont permis d'obtenir le grade RECRUIT"
+[MENU_XBLIVE_DESC_ACH_02]
+Text="Vos aptitudes vous ont permis d'obtenir le grade OPERATIVE"
+[MENU_XBLIVE_DESC_ACH_03]
+Text="Vos aptitudes vous ont permis d'obtenir le grade FIELD AGENT"
+[MENU_XBLIVE_DESC_ACH_04]
+Text="Vos aptitudes vous ont permis d'obtenir le grade SPECIAL AGENT"
+[MENU_XBLIVE_DESC_ACH_05]
+Text="Vos aptitudes vous ont permis d'obtenir le grade OFFICER"
+[MENU_XBLIVE_DESC_ACH_06]
+Text="Vos aptitudes vous ont permis d'obtenir le grade COMMANDER"
+[MENU_XBLIVE_DESC_ACH_07]
+Text="Vous avez terminé tous les challenges|avec au moins la médaille de bronze."
+[MENU_XBLIVE_DESC_ACH_08]
+Text="Vous avez terminé tous les challenges|avec au moins la médaille d'argent."
+[MENU_XBLIVE_DESC_ACH_09]
+Text="Vous avez terminé tous les challenges en obtenant la médaille d'or."
+[MENU_XBLIVE_DESC_ACH_10]
+Text="Vous êtes passé expert dans la|reconnaissance de la carte BLACKWING"
+[MENU_XBLIVE_DESC_ACH_11]
+Text="Vous êtes passé expert dans la|reconnaissance de la carte MOTORWAY 90"
+[MENU_XBLIVE_DESC_ACH_12]
+Text="Vous êtes passé expert dans la|reconnaissance de la carte TERMINUS"
+[MENU_XBLIVE_DESC_ACH_13]
+Text="Vous êtes passé expert dans la|reconnaissance de la carte SLAUGHTERHOUSE"
+[MENU_XBLIVE_DESC_ACH_14]
+Text="Vous êtes passé expert dans la|reconnaissance de la carte RED DIAMOND"
+[MENU_XBLIVE_DESC_ACH_15]
+Text="Vous êtes passé expert dans la|reconnaissance de la carte BOSS HOUSE"
+[MENU_XBLIVE_DESC_ACH_16]
+Text="Vous êtes passé expert dans la|reconnaissance de la carte DAWN WAVES"
+[MENU_XBLIVE_DESC_ACH_17]
+Text="Vous êtes passé expert dans la|reconnaissance de la carte USS WISDOM"
+[MENU_ALL_BONUS_TITLE_01]
+Text="Espion - deuxième skin"
+[MENU_ALL_BONUS_TITLE_02]
+Text="Vidéo de la création des Espions"
+[MENU_ALL_BONUS_TITLE_03]
+Text="Forces Upsilon - seconde skin"
+[MENU_ALL_BONUS_TITLE_04]
+Text="Espion - troisième skin"
+[MENU_ALL_BONUS_TITLE_05]
+Text="Vidéo de la création des Forces Upsilon"
+[MENU_ALL_BONUS_TITLE_06]
+Text="Forces Upsilon - troisième skin"
+[MENU_ALL_BONUS_TITLE_07]
+Text="Le meilleur d'Upsilon"
+[MENU_ALL_BONUS_TITLE_08]
+Text="Le meilleur des missions d'espionnage"
+[MENU_ALL_BONUS_TITLE_09]
+Text="Making of"
+[MENU_ALL_BONUS_TITLE_10]
+Text="Vidéo de BLACKWING"
+[MENU_ALL_BONUS_TITLE_11]
+Text="Vidéo de MOTORWAY 90"
+[MENU_ALL_BONUS_TITLE_12]
+Text="Vidéo de TERMINUS"
+[MENU_ALL_BONUS_TITLE_13]
+Text="Vidéo de SLAUGHTERHOUSE"
+[MENU_ALL_BONUS_TITLE_14]
+Text="Vidéo de RED DIAMOND"
+[MENU_ALL_BONUS_TITLE_15]
+Text="Vidéo de BOSS HOUSE"
+[MENU_ALL_BONUS_TITLE_16]
+Text="Vidéo de DAWN WAVES"
+[MENU_ALL_BONUS_TITLE_17]
+Text="Vidéo de USS WISDOM"
+[MENU_ALL_BONUS_TITLE_18]
+Text="Création des cartes - Partie 1"
+[MENU_ALL_BONUS_TITLE_19]
+Text="Recherche des Espions - Partie 1"
+[MENU_ALL_BONUS_TITLE_20]
+Text="Recherche des Forces Upsilon - Partie 1"
+[MENU_ALL_BONUS_TITLE_21]
+Text="Recherche des Espions - Partie 2"
+[MENU_ALL_BONUS_TITLE_22]
+Text="Recherche des Forces Upsilon - Partie 2"
+[MENU_ALL_BONUS_TITLE_23]
+Text="Photos de l'équipe"
+[MENU_ALL_BONUS_TITLE_24]
+Text="Gadgets et armes"
+[MENU_ALL_BONUS_TITLE_25]
+Text="Éléments des différents niveaux"
+[MENU_ALL_BONUS_TITLE_26]
+Text="Création des cartes - Partie 2"
+[MENU_ALL_BONUS_TITLE_27]
+Text="Les papiers peints et crépis de SCDA"
+[MENU_ALL_BONUS_TITLE_28]
+Text="Recherche des Espions - Partie 3"
+[MENU_ALL_BONUS_TITLE_29]
+Text="Recherche des Forces Upsilon - Partie 3"
+[MENU_ALL_BONUS_TITLE_30]
+Text="Planches diverses"
+[MENU_ALL_BONUS_TITLE_31]
+Text="Idées non exploitées"
+[MENU_ALL_BONUS_TITLE_32]
+Text="Bandes-annonces de SCDA"
+[MENU_ALL_BONUS_TITLE_33]
+Text="Création des cartes - Partie 3"
+[MENU_ALL_NOT_AVAILABLE_IN_THE_DEMO]
+Text="Cette option n'est pas disponible dans cette démo.||Appuyez sur \Z1 ou \Zl pour continuer."
+[MENU_ALL_PROFILE_CHOOSE_SKIN]
+Text="Skins"
+[MENU_XBLIVE_QUICKMATCH_LAN]
+Text="Recherche rapide"
+[MENU_XBLIVE_CUSTOM_MATCH_LAN]
+Text="Recherche personnalisée"
+[MENU_XBLIVE_BUTTON_A_LOBBIES]
+Text="Interactions possibles"
+[MENU_ALL_BONUSES_GROUPE_1]
+Text="Partie 1"
+[MENU_ALL_BONUSES_GROUPE_2]
+Text="Partie 2"
+[MENU_ALL_BONUSES_GROUPE_3]
+Text="Partie 3"
+[MENU_ALL_UNLOCK_MAP_GROUP_2]
+Text="Vous devez remporter 4 sessions (2 en tant qu'espion et 2 en tant que membre des Forces Upsilon), ou bien terminer 6 sessions pour déverrouiller cette nouvelle carte. ||Appuyez sur \Z1 ou \Zl pour continuer."
+[MENU_ALL_UNLOCK_MAP_GROUP_3]
+Text="Vous devez remporter 8 sessions (4 en tant qu'espion et 4 en tant que membre des Forces Upsilon), ou bien terminer 12 sessions pour déverrouiller cette nouvelle carte. ||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_CUBE_OPEN_HELP_MENTOR_FACE]
+Text="Accéder aux possibilités de TUTEUR et ÉLÈVE."
+[MENU_ALL_OPTIONS_01]
+Text="Utiliser le système métrique"
+[MENU_ALL_SQUAD_LOGO]
+Text="Logo"
+[MENU_ALL_SQUAD_LOGO_HELP]
+Text="Créer un logo pour votre Clan"
+[MENU_ALL_SQUAD_LOGO_EDIT]
+Text="Éditer votre logo."
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_01]
+Text="Vidéo Espion Bases 01"
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_02]
+Text="Vidéo Espion Bases 02"
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_03]
+Text="Vidéo Espion Bases 03"
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_04]
+Text="Vidéo Espion Bases 04"
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_05]
+Text="Vidéo Espion Bases 05"
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_06]
+Text="Vidéo Espion Bases 06"
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_07]
+Text="Vidéo Espion Bases 07"
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_08]
+Text="Vidéo Espion Bases 08"
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_09]
+Text="Vidéo Espion Bases 09"
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_10]
+Text="Vidéo Espion Bases 10"
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_DESC_01]
+Text="Description Vidéo Espion Bases 01"
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_DESC_02]
+Text="Description Vidéo Espion Bases 02"
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_DESC_03]
+Text="Description Vidéo Espion Bases 03"
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_DESC_04]
+Text="Description Vidéo Espion Bases 04"
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_DESC_05]
+Text="Description Vidéo Espion Bases 05"
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_DESC_06]
+Text="Description Vidéo Espion Bases 06"
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_DESC_07]
+Text="Description Vidéo Espion Bases 07"
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_DESC_08]
+Text="Description Vidéo Espion Bases 08"
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_DESC_09]
+Text="Description Vidéo Espion Bases 09"
+[Menu_ALL_VIDEOS_SPY_BASIC_VIDEO_DESC_10]
+Text="Description Vidéo Espion Bases 10"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_01]
+Text="Vidéo Espion Avancé 01"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_02]
+Text="Vidéo Espion Avancé 02"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_03]
+Text="Vidéo Espion Avancé 03"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_04]
+Text="Vidéo Espion Avancé 04"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_05]
+Text="Vidéo Espion Avancé 05"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_06]
+Text="Vidéo Espion Avancé 06"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_07]
+Text="Vidéo Espion Avancé 07"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_08]
+Text="Vidéo Espion Avancé 08"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_09]
+Text="Vidéo Espion Avancé 09"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_10]
+Text="Vidéo Espion Avancé 10"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_DESC_01]
+Text="Description Vidéo Espion Avancé 01"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_DESC_02]
+Text="Description Vidéo Espion Avancé 02"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_DESC_03]
+Text="Description Vidéo Espion Avancé 03"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_DESC_04]
+Text="Description Vidéo Espion Avancé 04"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_DESC_05]
+Text="Description Vidéo Espion Avancé 05"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_DESC_06]
+Text="Description Vidéo Espion Avancé 06"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_DESC_07]
+Text="Description Vidéo Espion Avancé 07"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_DESC_08]
+Text="Description Vidéo Espion Avancé 08"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_DESC_09]
+Text="Description Vidéo Espion Avancé 09"
+[Menu_ALL_VIDEOS_SPY_ADV_VIDEO_DESC_10]
+Text="Description Vidéo Espion Avancé 10"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_01]
+Text="Vidéo Espion Expert 01"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_02]
+Text="Vidéo Espion Expert 02"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_03]
+Text="Vidéo Espion Expert 03"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_04]
+Text="Vidéo Espion Expert 04"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_05]
+Text="Vidéo Espion Expert 05"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_06]
+Text="Vidéo Espion Expert 06"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_07]
+Text="Vidéo Espion Expert 07"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_08]
+Text="Vidéo Espion Expert 08"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_09]
+Text="Vidéo Espion Expert 09"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_10]
+Text="Vidéo Espion Expert 10"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_DESC_01]
+Text="Description Vidéo Espion Expert 01"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_DESC_02]
+Text="Description Vidéo Espion Expert 02"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_DESC_03]
+Text="Description Vidéo Espion Expert 03"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_DESC_04]
+Text="Description Vidéo Espion Expert 04"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_DESC_05]
+Text="Description Vidéo Espion Expert 05"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_DESC_06]
+Text="Description Vidéo Espion Expert 06"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_DESC_07]
+Text="Description Vidéo Espion Expert 07"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_DESC_08]
+Text="Description Vidéo Espion Expert 08"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_DESC_09]
+Text="Description Vidéo Espion Expert 09"
+[Menu_ALL_VIDEOS_SPY_EXP_VIDEO_DESC_10]
+Text="Description Vidéo Espion Expert 10"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_01]
+Text="Vidéo UF Bases 01"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_02]
+Text="Vidéo UF Bases 02"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_03]
+Text="Vidéo UF Bases 03"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_04]
+Text="Vidéo UF Bases 04"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_05]
+Text="Vidéo UF Bases 05"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_06]
+Text="Vidéo UF Bases 06"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_07]
+Text="Vidéo UF Bases 07"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_08]
+Text="Vidéo UF Bases 08"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_09]
+Text="Vidéo UF Bases 09"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_10]
+Text="Vidéo UF Bases 10"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_DESC_01]
+Text="Description Vidéo UF Bases 01"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_DESC_02]
+Text="Description Vidéo UF Bases 02"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_DESC_03]
+Text="Description Vidéo UF Bases 03"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_DESC_04]
+Text="Description Vidéo UF Bases 04"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_DESC_05]
+Text="Description Vidéo UF Bases 05"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_DESC_06]
+Text="Description Vidéo UF Bases 06"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_DESC_07]
+Text="Description Vidéo UF Bases 07"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_DESC_08]
+Text="Description Vidéo UF Bases 08"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_DESC_09]
+Text="Description Vidéo UF Bases 09"
+[Menu_ALL_VIDEOS_UF_BASIC_VIDEO_DESC_10]
+Text="Description Vidéo UF Bases 10"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_01]
+Text="Vidéo UF Avancé 01"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_02]
+Text="Vidéo UF Avancé 02"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_03]
+Text="Vidéo UF Avancé 03"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_04]
+Text="Vidéo UF Avancé 04"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_05]
+Text="Vidéo UF Avancé 05"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_06]
+Text="Vidéo UF Avancé 06"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_07]
+Text="Vidéo UF Avancé 07"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_08]
+Text="Vidéo UF Avancé 08"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_09]
+Text="Vidéo UF Avancé 09"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_10]
+Text="Vidéo UF Avancé 10"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_DESC_01]
+Text="Description Vidéo UF Avancé 01"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_DESC_02]
+Text="Description Vidéo UF Avancé 02"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_DESC_03]
+Text="Description Vidéo UF Avancé 03"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_DESC_04]
+Text="Description Vidéo UF Avancé 04"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_DESC_05]
+Text="Description Vidéo UF Avancé 05"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_DESC_06]
+Text="Description Vidéo UF Avancé 06"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_DESC_07]
+Text="Description Vidéo UF Avancé 07"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_DESC_08]
+Text="Description Vidéo UF Avancé 08"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_DESC_09]
+Text="Description Vidéo UF Avancé 09"
+[Menu_ALL_VIDEOS_UF_ADV_VIDEO_DESC_10]
+Text="Description Vidéo UF Avancé 10"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_01]
+Text="Vidéo UF Expert 01"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_02]
+Text="Vidéo UF Expert 02"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_03]
+Text="Vidéo UF Expert 03"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_04]
+Text="Vidéo UF Expert 04"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_05]
+Text="Vidéo UF Expert 05"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_06]
+Text="Vidéo UF Expert 06"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_07]
+Text="Vidéo UF Expert 07"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_08]
+Text="Vidéo UF Expert 08"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_09]
+Text="Vidéo UF Expert 09"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_10]
+Text="Vidéo UF Expert 10"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_DESC_01]
+Text="Description Vidéo UF Expert 01"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_DESC_02]
+Text="Description Vidéo UF Expert 02"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_DESC_03]
+Text="Description Vidéo UF Expert 03"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_DESC_04]
+Text="Description Vidéo UF Expert 04"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_DESC_05]
+Text="Description Vidéo UF Expert 05"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_DESC_06]
+Text="Description Vidéo UF Expert 06"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_DESC_07]
+Text="Description Vidéo UF Expert 07"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_DESC_08]
+Text="Description Vidéo UF Expert 08"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_DESC_09]
+Text="Description Vidéo UF Expert 09"
+[Menu_ALL_VIDEOS_UF_EXP_VIDEO_DESC_10]
+Text="Description Vidéo UF Expert 10"
+[MENU_ALL_BONUS_ZONE_TYPE_02_HELP]
+Text="Consulter les missions spéciales que vous pouvez effectuer et les bonus correspondants."
+[Menu_XBLIVE_UNLOCK_CONDITIONS]
+Text="Cette carte est verrouillée. Condition de déverrouillage : ||- Jouer 1 session sur la première carte"
+[Menu_XBLIVE_UNLOCK_CONDITIONS_2]
+Text="Cette carte est verrouillée. Conditions de déverrouillage : ||- Jouer 3 sessions en tant qu'espion sur la carte précédente.|- Jouer 3 sessions en tant que membre des Forces Upsilon sur la carte précédente.|- Gagnez 3 sessions sur la carte précédente."
+[Menu_ALL_AIDE_CHALLENGE_ULTIMATE]
+Text="Terminer la mission sans qu'aucun espion ne soit tué ou détecté."
+[Menu_ALL_AIDE_CHALLENGE_QUEST]
+Text="Terminer la mission en atteignant tous les points de contrôle."
+[Menu_XBLIVE_END_SESSION_FAILED_NAME_CH_01]
+Text="Vous n'avez pas terminé le challenge INFILTRATION !"
+[Menu_XBLIVE_END_SESSION_FAILED_NAME_CH_02]
+Text="Vous n'avez pas terminé le challenge EXFILTRATION !"
+[Menu_XBLIVE_END_SESSION_FAILED_NAME_CH_03]
+Text="Vous n'avez pas terminé le challenge SCORE !"
+[Menu_XBLIVE_END_SESSION_FAILED_NAME_CH_04]
+Text="Vous n'avez pas terminé le challenge TOUS LES TUER !"
+[Menu_XBLIVE_END_SESSION_FAILED_NAME_CH_05]
+Text="Vous n'avez pas terminé le challenge ULTIME !"
+[Menu_XBLIVE_END_SESSION_SCORE_DETAIL_03]
+Text="Nombre de détections"
+[Menu_XBLIVE_END_SESSION_SCORE_DETAIL_04]
+Text="Forces UPSILON encore en vie"
+[Menu_XBLIVE_END_SESSION_COMPLETE_NAME_CH_01]
+Text="Vous avez terminé le challenge INFILTRATION !"
+[Menu_XBLIVE_END_SESSION_COMPLETE_NAME_CH_02]
+Text="Vous avez terminé le challenge EXFILTRATION !"
+[Menu_XBLIVE_END_SESSION_COMPLETE_NAME_CH_03]
+Text="Vous avez terminé le challenge SCORE !"
+[Menu_XBLIVE_END_SESSION_COMPLETE_NAME_CH_04]
+Text="Vous avez terminé le challenge TOUS LES TUER !"
+[Menu_XBLIVE_END_SESSION_COMPLETE_NAME_CH_05]
+Text="Vous avez terminé le challenge ULTIME !"
+[Menu_ALL_MENTOR_PLAY_SESSION_MENTOR]
+Text="Jouer une cession en tant que TUTEUR."
+[Menu_ALL_MENTOR_PLAY_SESSION_STUDENT]
+Text="Jouer une cession en tant qu'ÉTUDIANT."
+[Menu_ALL_BONUS_ZONE_ERR_CODE]
+Text="Code non valide ! Appuyez sur \\2 pour continuer"
+[Menu_ALL_BONUS_ZONE_TYPE_01]
+Text="Entrez le code web."
+[Menu_ALL_GAME_PROGR_MAP_CODES]
+Text="Codes carte"
+[Menu_ALL_GAME_PROGR_VS_CODE_SPY]
+Text="Code VERSUS (ESPION)"
+[Menu_ALL_GAME_PROGR_VS_CODE_UF]
+Text="Code VERSUS (F.U.)"
+[Menu_ALL_GAME_PROGR_CH_CODE]
+Text="Code CHALLENGE"
+[Menu_ALL_GAME_PROGR_VERSUS_INVENT]
+Text="Inventaire - Plein"
+[Menu_ALL_GAME_PROGR_CH_COMPL_MEDALS]
+Text="Mode Challenge terminé : BRONZE"
+[Menu_ALL_GAME_PROGR_CH_COMPL_MEDALS_02]
+Text="Mode Challenge terminé : ARGENT"
+[Menu_ALL_GAME_PROGR_CH_COMPL_MEDALS_03]
+Text="Mode Challenge terminé : OR"
+[Menu_ALL_CUBE_PROFILE_EQUIP_SPY]
+Text="Choisir équipement ESPION"
+[Menu_ALL_CUBE_PROFILE_EQUIP_UF]
+Text="Choisir équipement F.U."
+[Menu_ALL_VIDEOS_SPY_BASIC_01]
+Text="Déplacement et caméra"
+[Menu_ALL_VIDEOS_SPY_BASIC_02]
+Text="S'accroupir"
+[Menu_ALL_VIDEOS_SPY_BASIC_03]
+Text="Sauter"
+[Menu_ALL_VIDEOS_SPY_BASIC_04]
+Text="Arme de l'Espion"
+[Menu_ALL_VIDEOS_SPY_BASIC_05]
+Text="Vision de l'Espion"
+[Menu_ALL_VIDEOS_SPY_BASIC_06]
+Text="Sélection gadget"
+[Menu_ALL_VIDEOS_SPY_BASIC_07]
+Text="Interaction"
+[Menu_ALL_VIDEOS_SPY_ADVANCED_01]
+Text="Attraper"
+[Menu_ALL_VIDEOS_SPY_ADVANCED_02]
+Text="Mouvement de fuite"
+[Menu_ALL_VIDEOS_SPY_ADVANCED_03]
+Text="Grande roulade"
+[Menu_ALL_VIDEOS_SPY_ADVANCED_04]
+Text="Mouvement coopératif"
+[Menu_ALL_VIDEOS_SPY_ADVANCED_05]
+Text="Attaque du plafond"
+[Menu_ALL_VIDEOS_SPY_ADVANCED_06]
+Text="Jumelles"
+[Menu_ALL_VIDEOS_SPY_ADVANCED_07]
+Text="Lancer le processeur"
+[Menu_ALL_VIDEOS_SPY_ADVANCED_08]
+Text="Cochon pendu"
+[Menu_ALL_VIDEOS_SPY_GAME_01]
+Text="Infiltration"
+[Menu_ALL_VIDEOS_SPY_GAME_02]
+Text="Piratage"
+[Menu_ALL_VIDEOS_SPY_GAME_03]
+Text="Exfiltration"
+[Menu_ALL_VIDEOS_SPY_HUD_01]
+Text="Mini-carte"
+[Menu_ALL_VIDEOS_SPY_HUD_02]
+Text="Carte stratégique"
+[Menu_ALL_VIDEOS_SPY_HUD_03]
+Text="Boussole d'objectifs"
+[Menu_ALL_VIDEOS_SPY_HUD_04]
+Text="Objectif RA "
+[Menu_ALL_VIDEOS_SPY_HUD_05]
+Text="Processeur RA "
+[Menu_ALL_VIDEOS_SPY_HUD_06]
+Text="Boussole équipier"
+[Menu_ALL_VIDEOS_SPY_HUD_07]
+Text="Cube"
+[Menu_ALL_VIDEOS_SPY_GADGETS_01]
+Text="Grenade fumigène"
+[Menu_ALL_VIDEOS_SPY_GADGETS_02]
+Text="Balle espion"
+[Menu_ALL_VIDEOS_SPY_GADGETS_03]
+Text="Balle EMP"
+[Menu_ALL_VIDEOS_SPY_GADGETS_04]
+Text="Caméra-glu"
+[Menu_ALL_VIDEOS_SPY_GADGETS_05]
+Text="Tenue caméléon"
+[Menu_ALL_VIDEOS_SPY_GADGETS_06]
+Text="Balle poison"
+[Menu_ALL_VIDEOS_SPY_GADGETS_07]
+Text="Modem"
+[Menu_ALL_VIDEOS_UF_BASIC_01]
+Text="Déplacements"
+[Menu_ALL_VIDEOS_UF_BASIC_02]
+Text="Arme"
+[Menu_ALL_VIDEOS_UF_BASIC_03]
+Text="Action de proximité"
+[Menu_ALL_VIDEOS_UF_BASIC_04]
+Text="Vision des Forces UPSILON"
+[Menu_ALL_VIDEOS_UF_BASIC_05]
+Text="Torche"
+[Menu_ALL_VIDEOS_UF_BASIC_06]
+Text="Course"
+[Menu_ALL_VIDEOS_UF_BASIC_07]
+Text="Saut et grappin"
+[Menu_ALL_VIDEOS_UF_HUD_01]
+Text="Boussole"
+[Menu_ALL_VIDEOS_UF_HUD_02]
+Text="Triangle"
+[Menu_ALL_VIDEOS_UF_HUD_03]
+Text="Fil d'Ariane"
+[Menu_ALL_VIDEOS_UF_HUD_04]
+Text="Détecteur sonore"
+[Menu_ALL_VIDEOS_UF_GADGETS_01]
+Text="Drone"
+[Menu_ALL_VIDEOS_UF_GADGETS_02]
+Text="Grenade flash"
+[Menu_ALL_VIDEOS_UF_GADGETS_03]
+Text="Grenade"
+[Menu_ALL_VIDEOS_UF_GADGETS_04]
+Text="Mine"
+[Menu_ALL_VIDEOS_UF_GADGETS_05]
+Text="Minidrone"
+[Menu_ALL_VIDEOS_CH_SPY]
+Text="Vidéos pour Espions"
+[Menu_ALL_VIDEOS_CH_UF]
+Text="Vidéos pour Forces UPSILON"
+[Menu_ALL_VIDEOS_CH_SPY_AIDE]
+Text="Découvrir le côté ESPION du jeu à l'aide des vidéos."
+[Menu_ALL_VIDEOS_CH_UF_AIDE]
+Text="Découvrir le côté Forces UPSILON du jeu à l'aide des vidéos."
+[Menu_ALL_VIDEOS_CH_TYPE_01]
+Text="Bases"
+[Menu_ALL_VIDEOS_CH_TYPE_01_AIDE]
+Text="Découvrir les bases du jeu."
+[Menu_ALL_VIDEOS_CH_TYPE_02]
+Text="Avancé"
+[Menu_ALL_VIDEOS_CH_TYPE_02_AIDE]
+Text="Découvrir des astuces et des stratégies avancées"
+[Menu_ALL_VIDEOS_CH_TYPE_03]
+Text="Jeu"
+[Menu_ALL_VIDEOS_CH_TYPE_03_AIDE]
+Text="Découvrir les règles du jeu et les objectifs."
+[Menu_ALL_VIDEOS_CH_TYPE_04]
+Text="HUD"
+[Menu_ALL_VIDEOS_CH_TYPE_04_AIDE]
+Text="Découvrir les éléments de l'affichage."
+[Menu_ALL_VIDEOS_CH_TYPE_05]
+Text="Gadgets"
+[Menu_ALL_VIDEOS_CH_TYPE_05_AIDE]
+Text="Apprendre à utiliser les gadgets du jeu."
+[Menu_ALL_VID_BAS_DEP]
+Text="Utilisez le stick analogique droit \\R pour déplacer la caméra|Utilisez le stick analogique gauche \\L pour vous déplacer|Inclinez légèrement le stick analogique gauche \\L pour vous déplacer discrètement."
+[Menu_ALL_VID_BAS_CROUNCH]
+Text="Appuyez sur la touche \\6 pour vous accroupir.|Une fois accroupi, appuyez sur la touche \\6 pour vous redresser."
+[Menu_ALL_VID_BAS_SAUT]
+Text="Appuyez sur la touche \\8 pour sauter."
+[Menu_ALL_VID_BAS_ARME]
+Text="Appuyez sur la touche \\4 pour sortir et ranger votre arme.|Appuyez sur la gâchette droite \\9 pour envoyer une décharge électrique.|Votre arme n'est pas létale : elle permet de ralentir vos ennemis, d'éteindre les lumières ou |de désactiver les défenses passives. La plupart de vos gadgets sont utilisables avec |votre arme et la gâchette gauche \\7"
+[Menu_ALL_VID_BAS_VISION]
+Text="Appuyez à droite sur le bouton multidirectionnel \\S pour activer ou désactiver la vision thermique.|Appuyez à gauche sur le bouton multidirectionnel \\Q pour activer ou désactiver la vision nocturne."
+[Menu_ALL_VID_BAS_SEL_GADGET]
+Text="Appuyez longuement sur la gâchette haute gauche \\1 pour ouvrir la sélection de gadgets.|Orientez le stick analogique droit dans les différentes directions pour sélectionner un gadget.|Une fois le gadget sélectionné, relâchez la gâchette haute gauche \\1"
+[Menu_ALL_VID_BAS_INTERACTION]
+Text="Appuyez sur la touche \\2 pour interagir avec certains dispositifs de sécurité ou les pirater, |pour soigner vos équipiers ou échanger des gadgets avec vos équipiers proches ou encore |désactiver ou récupérer des défenses ou des gadgets."
+[Menu_ALL_VID_ADV_HYP_CROUNCH]
+Text="Une fois accroupi avec la touche \\6, orientez le stick analogique gauche \\L |dans la direction souhaitée pour vous dissimuler sous certains éléments."
+[Menu_ALL_VID_ADV_GRAB]
+Text="Quand vos adversaires vous tournent le dos, appuyez sur la touche \\2 pour les |neutraliser en les attrapant. Ensuite, appuyez sur la gâchette droite \\9 pour les éliminer."
+[Menu_ALL_VID_ADV_MOUV_FUITE]
+Text="Utilisez vos capacités physiques et les particularités de l'environnement pour vous tirer |de situations périlleuses. En mode Course, appuyez longuement sur la touche \\8 pour |réaliser un mouvement de fuite haute, ou appuyez longuement sur la touche \\6 pour |réaliser un mouvement de fuite basse."
+[Menu_ALL_VID_ADV_GDE_ROULADE]
+Text="En mode Course, appuyez longuement sur la touche \\6 pour réaliser une roulade."
+[Menu_ALL_VID_ADV_MOUV_COOP]
+Text="En utilisant les spécificités de l'environnement, réalisez des actions coopératives pour vous |infiltrer. Appuyez sur la gâchette haute droite \\3 pour vous mettre en position et diriger le |mouvement. Quand votre équipier est en position, appuyez sur la gâchette haute droite \\3 |pour accomplir le mouvement coopératif."
+[Menu_ALL_VID_ADV_DROP_TEC]
+Text="Lâchez-vous sur vos adversaires pour les assommer."
+[Menu_ALL_VID_ADV_BINOCULAR]
+Text="Appuyez sur le stick analogique droit \\R pour utiliser vos jumelles ou les ranger."
+[Menu_ALL_VID_ADV_PASSE]
+Text="Si vous détenez un processeur, appuyez sur la gâchette gauche \\7 pour vous préparer à le lancer.|Pour le lancer, appuyez sur la gâchette droite \\9"
+[Menu_ALL_VID_ADV_COCH_PENDU]
+Text="Une fois suspendu horizontalement, appuyez sur la touche \\4 pour |lâcher les mains et sortir votre arme."
+[Menu_ALL_VID_GAME_INFILTRATION]
+Text="Discrétion, visibilité, bruit."
+[Menu_ALL_VID_GAME_HACKING]
+Text="Objectif : piratage|Voler le processeur"
+[Menu_ALL_VID_GAME_EXFILTRATION]
+Text="Processeur (propriétés du processeur : durée de vie, repérage)|Zone de largage|Passe"
+[Menu_ALL_VID_HUD_CARTE_STRAT]
+Text="Appuyez sur \\0 pour ouvrir ou fermer la carte stratégique."
+[Menu_ALL_VID_HUD_BOUSS_OBJ]
+Text="La boussole d'objectifs vous donne la direction des objectifs."
+[Menu_ALL_VID_HUD_CUBE]
+Text="Vie |Sélection du gadget |Visibilité, marquage"
+[Menu_ALL_VID_GADG_SPY_SMOKE_GND]
+Text="La grenade fumigène crée un nuage de fumée qui permet de vous dissimuler. |Elle ralentit les adversaires qui tentent de le traverser.|Pour faire exploser la grenade à proximité, appuyez sur la gâchette gauche \\7|Pour projeter la grenade fumigène, basculez en Mode Arme puis appuyez sur la gâchette gauche \\7"
+[Menu_ALL_VID_GADG_SPY_BULLET_SPY]
+Text="En mode Arme, visez et utilisez une balle espion avec la gâchette gauche \\7 pour marquer |durant un temps vos ennemis et suivre leur progression dans votre interface et votre carte |stratégique."
+[Menu_ALL_VID_GADG_SPY_EMP_BULLET]
+Text="En mode Arme, visez et utilisez une balle EMP avec la gâchette gauche \\7 pour |désactiver tous les appareils électriques proches de l'impact."
+[Menu_ALL_VID_GADG_SPY_STICKY_CAM]
+Text="En mode Arme, visez et utilisez la gâchette gauche \\7 pour coller une caméra glu.|Zoomez en avant ou en arrière avec le stick analogique gauche \\L|Orientez la caméra à l'aide du stick analogique droit \\R|Utilisez la gâchette droite \\9 pour libérer un gaz qui assommera vos ennemis.|Si vous posez plusieurs caméras, changez de caméra en appuyant en haut sur le |bouton multidirectionnel \\U"
+[Menu_ALL_VID_GADG_SPY_CAMO_SUIT]
+Text="Appuyez sur la gâchette gauche \\7 pour activer votre tenue caméléon. |Fondez-vous dans le décor pour disparaître de la vue de vos ennemis quelques secondes."
+[Menu_ALL_VID_GADG_SPY_BAL_POISON]
+Text="Appuyez sur la gâchette gauche \\7 pour tirer une balle poison sur vos ennemis. |Selon le nombre de balles reçues, il aura la vue troublée pour quelques secondes, |puis des réflexes ralentis, puis il perdra des points de vie au troisième impact."
+[Menu_ALL_VID_GADG_SPY_MODEM]
+Text="En mode Arme, appuyez sur la gâchette gauche \\7 pour pirater à |distance un objectif ou un système de sécurité."
+[Menu_ALL_VID_UF_BAS_DEP]
+Text="Utilisez le stick analogique droit \\R pour déplacer la caméra.|Utilisez le stick analogique gauche \\L pour vous déplacer."
+[Menu_ALL_VID_UF_BAS_ARME]
+Text="Appuyez sur la gâchette droite \\9 pour tirer.|Appuyez sur la touche \\4 pour recharger votre arme.|Vous disposez de deux modes de tir, automatique et rafale. |Appuyez longuement sur la touche \\4 pour changer de mode."
+[Menu_ALL_VID_UF_BAS_BERZEK]
+Text="Appuyez sur la gâchette haute droite \\3 pour réaliser un puissant |coup de corps à corps à 360° afin d'assommer vos ennemis."
+[Menu_ALL_VID_UF_BAS_VISION]
+Text="Appuyez à droite sur le bouton multidirectionnel \\S pour activer ou désactiver votre |vision du mouvement. Plus efficace à l'arrêt, elle vous permet, à partir d'une vitesse minimum, |de déceler les mouvements des intrus. Appuyez à gauche sur le bouton multidirectionnel \\Q |pour activer ou désactiver votre vision EMF. Elle vous permet de voir toute l'activité électrique, |y compris celle de vos ennemis lorsqu'ils utilisent leurs armes ou visions."
+[Menu_ALL_VID_UF_BAS_SELECT_GADGET]
+Text="Maintenez appuyée la gâchette haute gauche \\1 pour ouvrir la sélection de gadgets.|Orientez le stick analogique droit \\R dans la direction souhaitée pour sélectionner |un gadget. Une fois le gadget sélectionné, relâchez la gâchette haute gauche \\1"
+[Menu_ALL_VID_UF_BAS_TORCHE]
+Text="Appuyez en haut sur le bouton multidirectionnel \\U pour allumer ou éteindre la torche."
+[Menu_ALL_VID_UF_BAS_CROUNCH]
+Text="Appuyer sur la touche \\6 pour vous accroupir. |Une fois accroupi, appuyez sur la touche \\6 pour vous redresser."
+[Menu_ALL_VID_UF_BAS_SPRINT]
+Text="Quand votre jauge de course est pleine, appuyez sur le stick analogique gauche pour courir."
+[Menu_ALL_VID_UF_BAS_SAUT_GRAPPIN]
+Text="Pour franchir certaines barrières et utiliser votre grappin, appuyez sur la touche \\8"
+[Menu_ALL_VID_UF_BAS_INTER]
+Text="Appuyez sur la touche \\2 pour interagir avec certains éléments de la carte, comme l'ECC |ou les recharges de munitions. Vous pouvez également soigner vos équipiers proches ou |échanger des gadgets avec eux ou encore désactiver ou récupérer des gadgets."
+[Menu_ALL_HELP_GADGET_SPY_1]
+Text="Les balles poison sont une sorte de fléchettes empoisonnées qui peuvent troubler la vision |de votre ennemi, le ralentir ou le tuer, en fonction du nombre de balles ayant touché la cible :|- Après une balle, la vision sera altérée. |- Après la seconde, les mouvements sont ralentis.|- Après la troisième, il sera blessé et il mourra s'il ne se soigne pas."
+[Menu_ALL_HELP_GADGET_SPY_2]
+Text="La balle EMP crée une impulsion électromagnétique en explosant, perturbant n'importe |quel appareillage électronique ou n'importe quelle lumière se trouvant dans le rayon de l'explosion."
+[Menu_ALL_HELP_GADGET_SPY_3]
+Text="La grenade fumigène crée un nuage très sombre et très opaque en explosant. |Parce que la substance utilisée est chargée de petites particules magnétiques chaudes, |ce nuage engendre un obstacle visuel dans tous les modes de vision."
+[Menu_ALL_HELP_GADGET_SPY_4]
+Text="Le modem Wi-Fi est un modem à très haute bande passante qui permet d'interagir avec |certains éléments (serrures, ECC, ennemis) sans être physiquement en face d'eux."
+[Menu_ALL_HELP_GADGET_SPY_5]
+Text="Les balles espion permettent de placer un marqueur sur un ennemi et |de le rendre visible sur la Réalité augmentée des membres de l'équipe."
+[Menu_ALL_HELP_GADGET_SPY_6]
+Text="La caméra-glu est le summum de la technologie en matière de caméra de surveillance, |permettant de vérifier une zone avant de s'y rendre. Elle est également capable de libérer |un puissant nuage de gaz empoisonné qui va plus ou moins affecter les Forces UPSILON |selon le temps passé dans le nuage (les effets varient de la perturbation visuelle à la |contamination sanguine puis à la mort)."
+[Menu_ALL_HELP_GADGET_SPY_7]
+Text="La tenue caméléon est un prototype de tenue de camouflage qui copie l'environnement et qui |rend son porteur quasiment invisible. Cette tenue ne fonctionne que si le porteur se place dos |à un mur. La technologie utilisée étant basée sur la réfraction de la lumière, elle doit être |utilisée dans les zones très éclairées : plus la lumière est intense, plus la tenue sera efficace |et moins le porteur sera visible."
+[Menu_ALL_HELP_GADGET_UF_1]
+Text="Ce dispositif est une puissance mine murale. Lorsqu'elle est déclenchée, elle projette |sa charge explosive en direction de celui qui l'a déclenchée, lui infligeant un maximum de dégâts."
+[Menu_ALL_HELP_GADGET_UF_2]
+Text="Cette arme est une puissante grenade à fragmentation, tuant quiconque, |ami ou ennemi, se trouvant dans son rayon d'explosion."
+[Menu_ALL_HELP_GADGET_UF_3]
+Text="Ce gadget est un bâton jetable qui génère une source de lumière supplémentaire |à l'endroit où il est déposé. Il est également possible de tenir ce bâton à la main."
+[Menu_ALL_HELP_GADGET_UF_4]
+Text="Ce puissant module pour la lampe torche permet de mettre en évidence |les traces de pas et les traces de sang de vos ennemis."
+[Menu_ALL_HELP_GADGET_UF_5]
+Text="Ce drone est en quelque sorte une caméra de surveillance volante contrôlable, permettant |de repérer les chemins inaccessibles. Il contient également une charge de C4 déclenchable |à n'importe quel moment."
+[Menu_ALL_HELP_GADGET_UF_6]
+Text="Ces drones sont de petites boules d'acier. Ensemble, ils créent une surface de détection. |Dès qu'un ennemi entre dans leur zone d'action, les drones se ruent sur lui pour essayer |de le marquer sur la Réalité augmentée des Forces UPSILON."
+[Menu_ALL_HELP_MENTOR_FOR_FR]
+Text="Créer une partie TUTEUR pour vos amis."
+[Menu_ALL_HELP_MENTOR_FOR_SQ]
+Text="Créer une partie TUTEUR pour votre CLAN."
+[Menu_ALL_HELP_MENTOR_FOR_PU]
+Text="Créer une partie TUTEUR pour quiconque."
+[Menu_ALL_CHALLENGE_INFILTRATION]
+Text="Challenge INFILTRATION"
+[Menu_ALL_CHALLENGE_EXFILTRATION]
+Text="Challenge EXFILTRATION"
+[Menu_ALL_CHALLENGE_SCORE]
+Text="Challenge SCORE"
+[Menu_ALL_CHALLENGE_TOTAL_KILL]
+Text="Challenge TOUS LES TUER"
+[Menu_ALL_HELP_PROFILE_EQUIPMENT]
+Text="Modifier l'équipement de l'ESPION et des FORCES UPSILON."
+[Menu_XBLIVE_HELP_CHALLENGE_SCORE]
+Text="Terminer la carte avec le plus petit score possible."
+[Menu_XBLIVE_HELP_CHALLENGE_INFILTRATION]
+Text="Infiltrer la carte pour déverrouiller les terminaux."
+[Menu_XBLIVE_HELP_CHALLENGE_EXFILTRATION]
+Text="Exfiltrer les processeurs vers le drone de contrôle."
+[Menu_XBLIVE_HELP_CHALLENGE_NO_DEATH]
+Text="Terminer la mission sans qu'un espion ne meure."
+[Menu_XBLIVE_HELP_CHALLENGE_TIME_ATTACK]
+Text="Terminer la mission le plus rapidement possible."
+[Menu_XBLIVE_HELP_CHALLENGE_TOTAL_KILL]
+Text="Terminer la mission et éliminer TOUTES les FORCES USPILON."
+[Menu_XBLIVE_HELP_CHALLENGE_NO_DETECTION]
+Text="Terminer la mission sans qu'un espion ne soit détecté."
+[MENU_ALL_BONUS_34]
+Text="Bonus 34"
+[MENU_ALL_BONUS_35]
+Text="Bonus 35"
+[MENU_ALL_BONUS_36]
+Text="Bonus 36"
+[MENU_ALL_BONUS_37]
+Text="Bonus 37"
+[MENU_ALL_BONUS_38]
+Text="Bonus 38"
+[MENU_ALL_BONUS_39]
+Text="Bonus 39"
+[MENU_ALL_BONUS_40]
+Text="Bonus 40"
+[MENU_ALL_BONUS_41]
+Text="Bonus 41"
+[MENU_ALL_BONUS_42]
+Text="Bonus 42"
+[MENU_ALL_BONUS_43]
+Text="Bonus 43"
+[MENU_ALL_BONUS_44]
+Text="Bonus 44"
+[MENU_ALL_BONUS_45]
+Text="Bonus 45"
+[MENU_ALL_BONUS_46]
+Text="Bonus 46"
+[MENU_ALL_BONUS_47]
+Text="Bonus 47"
+[MENU_ALL_BONUS_48]
+Text="Bonus 48"
+[MENU_ALL_BONUS_49]
+Text="Bonus 49"
+[MENU_ALL_BONUS_50]
+Text="Bonus 50"
+[MENU_ALL_BONUS_51]
+Text="Bonus 51"
+[MENU_ALL_BONUS_52]
+Text="Bonus 52"
+[MENU_ALL_BONUS_53]
+Text="Bonus 53"
+[MENU_ALL_BONUS_54]
+Text="Bonus 54"
+[MENU_ALL_BONUS_55]
+Text="Bonus 55"
+[MENU_ALL_BONUS_56]
+Text="Bonus 56"
+[MENU_ALL_BONUS_57]
+Text="Bonus 57"
+[MENU_ALL_BONUS_58]
+Text="Bonus 58"
+[MENU_ALL_BONUS_59]
+Text="Bonus 59"
+[MENU_ALL_BONUS_60]
+Text="Bonus 60"
+[MENU_ALL_BONUS_61]
+Text="Bonus 61"
+[MENU_ALL_BONUS_62]
+Text="Bonus 62"
+[MENU_ALL_BONUS_63]
+Text="Bonus 63"
+[MENU_ALL_BONUS_64]
+Text="Bonus 64"
+[MENU_ALL_BONUS_65]
+Text="Bonus 65"
+[MENU_ALL_BONUS_66]
+Text="Bonus 66"
+[MENU_ALL_BONUS_67]
+Text="Bonus 67"
+[MENU_ALL_BONUS_68]
+Text="Bonus 68"
+[MENU_ALL_BONUS_69]
+Text="Bonus 69"
+[MENU_ALL_BONUS_70]
+Text="Bonus 70"
+[MENU_ALL_BONUS_71]
+Text="Bonus 71"
+[MENU_ALL_BONUS_72]
+Text="Bonus 72"
+[MENU_ALL_BONUS_73]
+Text="Bonus 73"
+[MENU_ALL_BONUS_74]
+Text="Bonus 74"
+[MENU_ALL_BONUS_75]
+Text="Bonus 75"
+[MENU_ALL_BONUS_76]
+Text="Bonus 76"
+[MENU_ALL_BONUS_77]
+Text="Bonus 77"
+[MENU_ALL_BONUS_78]
+Text="Bonus 78"
+[MENU_ALL_BONUS_79]
+Text="Bonus 79"
+[MENU_ALL_BONUS_80]
+Text="Bonus 80"
+[MENU_ALL_BONUS_81]
+Text="Bonus 81"
+[MENU_ALL_BONUS_82]
+Text="Bonus 82"
+[MENU_ALL_BONUS_83]
+Text="Bonus 83"
+[MENU_ALL_BONUS_84]
+Text="Bonus 84"
+[MENU_ALL_BONUS_85]
+Text="Bonus 85"
+[MENU_ALL_BONUS_86]
+Text="Bonus 86"
+[MENU_ALL_BONUS_87]
+Text="Bonus 87"
+[MENU_ALL_BONUS_88]
+Text="Bonus 88"
+[MENU_ALL_BONUS_89]
+Text="Bonus 89"
+[MENU_ALL_BONUS_90]
+Text="Bonus 90"
+[MENU_ALL_BONUS_91]
+Text="Bonus 91"
+[MENU_ALL_BONUS_92]
+Text="Bonus 92"
+[MENU_ALL_BONUS_93]
+Text="Bonus 93"
+[MENU_ALL_BONUS_94]
+Text="Bonus 94"
+[MENU_ALL_BONUS_95]
+Text="Bonus 95"
+[MENU_ALL_BONUS_96]
+Text="Bonus 96"
+[MENU_ALL_BONUS_97]
+Text="Bonus 97"
+[MENU_ALL_BONUS_98]
+Text="Bonus 98"
+[MENU_ALL_BONUS_99]
+Text="Bonus 99"
+[MENU_ALL_BONUS_100]
+Text="Bonus 100"
+[MENU_ALL_BONUS_DESCRIPTION_34]
+Text="Description bonus 34"
+[MENU_ALL_BONUS_DESCRIPTION_35]
+Text="Description bonus 35"
+[MENU_ALL_BONUS_DESCRIPTION_36]
+Text="Description bonus 36"
+[MENU_ALL_BONUS_DESCRIPTION_37]
+Text="Description bonus 37"
+[MENU_ALL_BONUS_DESCRIPTION_38]
+Text="Description bonus 38"
+[MENU_ALL_BONUS_DESCRIPTION_39]
+Text="Description bonus 39"
+[MENU_ALL_BONUS_DESCRIPTION_40]
+Text="Description bonus 40"
+[MENU_ALL_BONUS_DESCRIPTION_41]
+Text="Description bonus 41"
+[MENU_ALL_BONUS_DESCRIPTION_42]
+Text="Description bonus 42"
+[MENU_ALL_BONUS_DESCRIPTION_43]
+Text="Description bonus 43"
+[MENU_ALL_BONUS_DESCRIPTION_44]
+Text="Description bonus 44"
+[MENU_ALL_BONUS_DESCRIPTION_45]
+Text="Description bonus 45"
+[MENU_ALL_BONUS_DESCRIPTION_46]
+Text="Description bonus 46"
+[MENU_ALL_BONUS_DESCRIPTION_47]
+Text="Description bonus 47"
+[MENU_ALL_BONUS_DESCRIPTION_48]
+Text="Description bonus 48"
+[MENU_ALL_BONUS_DESCRIPTION_49]
+Text="Description bonus 49"
+[MENU_ALL_BONUS_DESCRIPTION_50]
+Text="Description bonus 50"
+[MENU_ALL_BONUS_DESCRIPTION_51]
+Text="Description bonus 51"
+[MENU_ALL_BONUS_DESCRIPTION_52]
+Text="Description bonus 52"
+[MENU_ALL_BONUS_DESCRIPTION_53]
+Text="Description bonus 53"
+[MENU_ALL_BONUS_DESCRIPTION_54]
+Text="Description bonus 54"
+[MENU_ALL_BONUS_DESCRIPTION_55]
+Text="Description bonus 55"
+[MENU_ALL_BONUS_DESCRIPTION_56]
+Text="Description bonus 56"
+[MENU_ALL_BONUS_DESCRIPTION_57]
+Text="Description bonus 57"
+[MENU_ALL_BONUS_DESCRIPTION_58]
+Text="Description bonus 58"
+[MENU_ALL_BONUS_DESCRIPTION_59]
+Text="Description bonus 59"
+[MENU_ALL_BONUS_DESCRIPTION_60]
+Text="Description bonus 60"
+[MENU_ALL_BONUS_DESCRIPTION_61]
+Text="Description bonus 61"
+[MENU_ALL_BONUS_DESCRIPTION_62]
+Text="Description bonus 62"
+[MENU_ALL_BONUS_DESCRIPTION_63]
+Text="Description bonus 63"
+[MENU_ALL_BONUS_DESCRIPTION_64]
+Text="Description bonus 64"
+[MENU_ALL_BONUS_DESCRIPTION_65]
+Text="Description bonus 65"
+[MENU_ALL_BONUS_DESCRIPTION_66]
+Text="Description bonus 66"
+[MENU_ALL_BONUS_DESCRIPTION_67]
+Text="Description bonus 67"
+[MENU_ALL_BONUS_DESCRIPTION_68]
+Text="Description bonus 68"
+[MENU_ALL_BONUS_DESCRIPTION_69]
+Text="Description bonus 69"
+[MENU_ALL_BONUS_DESCRIPTION_70]
+Text="Description bonus 70"
+[MENU_ALL_BONUS_DESCRIPTION_71]
+Text="Description bonus 71"
+[MENU_ALL_BONUS_DESCRIPTION_72]
+Text="Description bonus 72"
+[MENU_ALL_BONUS_DESCRIPTION_73]
+Text="Description bonus 73"
+[MENU_ALL_BONUS_DESCRIPTION_74]
+Text="Description bonus 74"
+[MENU_ALL_BONUS_DESCRIPTION_75]
+Text="Description bonus 75"
+[MENU_ALL_BONUS_DESCRIPTION_76]
+Text="Description bonus 76"
+[MENU_ALL_BONUS_DESCRIPTION_77]
+Text="Description bonus 77"
+[MENU_ALL_BONUS_DESCRIPTION_78]
+Text="Description bonus 78"
+[MENU_ALL_BONUS_DESCRIPTION_79]
+Text="Description bonus 79"
+[MENU_ALL_BONUS_DESCRIPTION_80]
+Text="Description bonus 80"
+[MENU_ALL_BONUS_DESCRIPTION_81]
+Text="Description bonus 81"
+[MENU_ALL_BONUS_DESCRIPTION_82]
+Text="Description bonus 82"
+[MENU_ALL_BONUS_DESCRIPTION_83]
+Text="Description bonus 83"
+[MENU_ALL_BONUS_DESCRIPTION_84]
+Text="Description bonus 84"
+[MENU_ALL_BONUS_DESCRIPTION_85]
+Text="Description bonus 85"
+[MENU_ALL_BONUS_DESCRIPTION_86]
+Text="Description bonus 86"
+[MENU_ALL_BONUS_DESCRIPTION_87]
+Text="Description bonus 87"
+[MENU_ALL_BONUS_DESCRIPTION_88]
+Text="Description bonus 88"
+[MENU_ALL_BONUS_DESCRIPTION_89]
+Text="Description bonus 89"
+[MENU_ALL_BONUS_DESCRIPTION_90]
+Text="Description bonus 90"
+[MENU_ALL_BONUS_DESCRIPTION_91]
+Text="Description bonus 91"
+[MENU_ALL_BONUS_DESCRIPTION_92]
+Text="Description bonus 92"
+[MENU_ALL_BONUS_DESCRIPTION_93]
+Text="Description bonus 93"
+[MENU_ALL_BONUS_DESCRIPTION_94]
+Text="Description bonus 94"
+[MENU_ALL_BONUS_DESCRIPTION_95]
+Text="Description bonus 95"
+[MENU_ALL_BONUS_DESCRIPTION_96]
+Text="Description bonus 96"
+[MENU_ALL_BONUS_DESCRIPTION_97]
+Text="Description bonus 97"
+[MENU_ALL_BONUS_DESCRIPTION_98]
+Text="Description bonus 98"
+[MENU_ALL_BONUS_DESCRIPTION_99]
+Text="Description bonus 99"
+[MENU_ALL_BONUS_DESCRIPTION_100]
+Text="Description bonus 100"
+[Menu_ALL_ENGSWITCH_LOADSOLO]
+Text="Chargement du mode solo..."
+[Menu_ALL_ENGSWITCH_LOADMULTI]
+Text="Chargement du menu principal"
+[Menu_ALL_CABLE_DISCONNECT]
+Text="Votre câble réseau est déconnecté.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_DEMONWARE_OUTOFORDER]
+Text="Attention : certaines fonctions en ligne ne sont pas disponibles.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_UNABLE_START_NOT_6_PLAYERS_READY]
+Text="Impossible de créer une session : il faut 6 joueurs connectés et prêts.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_DISCONNECT]
+Text="Vous avez été déconnecté.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_SQUAD_ERROR_CREATE]
+Text="Erreur lors de la création du clan||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_SQUAD_ERROR_UPDATE]
+Text="Erreur lors de la mise à jour du clan||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_SQUAD_ERROR_KICK]
+Text="Erreur lors de l'expulsion d'un membre. Il a déjà dû quitter le clan.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_SQUAD_ERROR_LEAVE]
+Text="Erreur en quittant le clan||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_SQUAD_ERROR_LEAVE_HOST]
+Text="Erreur en quittant le clan (hôte)||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_SQUAD_ERROR_INVITE_YES]
+Text="Erreur lors d'une réponse à une invitation||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_SQUAD_ERROR_INVITE_NO]
+Text="Erreur lors du refus d'une invitation||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_SQUAD_BUSY_RETRY]
+Text="Le service est très sollicité, veuillez patienter et réessayer||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_SQUAD_WAIT_CREATE]
+Text="Création d'un nouveau clan, veuillez patienter..."
+[Menu_ALL_SQUAD_NO_INVITE]
+Text="Aucun CLAN ne vous a invité à le rejoindre.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_SQUAD_NO_BLOCKED]
+Text="Aucun CLAN ne bloque ses invitations de recrutement.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_SQUAD_ERROR_DELETE]
+Text="Erreur lors de la suppression du clan.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_SQUAD_WAIT_DELETE]
+Text="Clan en cours de suppression, veuillez patienter..."
+[Menu_ALL_SQUAD_WAIT_LEAVE]
+Text="En train de quitter le clan, veuillez patienter..."
+[Menu_ALL_SQUAD_WAIT_KICK]
+Text="Expulsion d'un membre en cours, veuillez patienter..."
+[Menu_ALL_SQUAD_WAIT_INVITE_YES]
+Text="Acceptation de l'invitation, veuillez patienter..."
+[Menu_ALL_SQUAD_WAIT_INVITE_NO]
+Text="Refus de l'invitation, veuillez patienter..."
+[Menu_ALL_SQUAD_CONSULT_BLOCKED_INVITE]
+Text="Invitations bloquées"
+[Menu_XBLIVE_DUPLICATED_LOGON]
+Text="Vous avez été déconnecté à cause d'une connexion dédoublée||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_SHOW_GAMERCARD]
+Text="Afficher la carte du joueur"
+[Menu_ALL_SHOW_PLAYER_REVIEW]
+Text="Evaluer joueur"
+[Menu_ALL_SQUAD_WAIT_UPDATE]
+Text="Mise à jour de l'équipe..."
+[Menu_XBLIVE_DISCON_FROM_LAN]
+Text="Vous avez été déconnecté du LAN.||Appuyer \Z1 ou \Zl pour continuer."
+[Menu_ALL_NO_ACTION_ON_PLAYER]
+Text="Aucune action n'est disponible.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_NO_ACTION_ON_SQUAD]
+Text="Seul le chef de clan peut changer le nom et la devise.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_UNABLE_START_PLAYERS_NOT_READY]
+Text="Impossible de lancer la session du jeu, tous les joueurs ne sont pas prêts.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_NO_CABLE_ALONE_ONLY]
+Text="Votre câble réseau est déconnecté : vous ne pourrez jouer que seul. |Voulez-vous quand même accéder au mode LAN ?||\Z1, \Zl : Oui ||\Z2, \Zr : Non"
+[Menu_ALL_SQUAD_NO_MEMBERS]
+Text="Votre clan n'a aucun autre membre.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_NO_MULTIPLAYER_PRIVILEGE]
+Text="Une limitation du compte en ligne ne permet pas d'utiliser cette option.|Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_SQUAD_CONSULT_SENT_INVITE]
+Text="Invitations envoyées"
+[Menu_ALL_SQUAD_ERROR_UNBLOCK]
+Text="Erreur lors du déblocage des invitations envoyées.||Appuyez sur \Z1 or \Zl pour continuer"
+[Menu_ALL_SQUAD_ERROR_CANCEL_SENT]
+Text="Erreur lors de l'annulation de l'invitation (l'invitation a peut-être déjà été détruite ou acceptée).||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_SQUAD_WAIT_UNBLOCK]
+Text="Déblocage des invitations du joueur, veuillez patienter..."
+[Menu_ALL_SQUAD_WAIT_CANCEL_SENT]
+Text="Annulation de l'invitation, veuillez patienter..."
+[Menu_ALL_SQUAD_NO_SENT_INVITE]
+Text="Aucune demande de recrutement |pour votre CLAN n'a été envoyée.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_RANKING_BUSY_RETRY]
+Text="Le service est très sollicité, veuillez patienter et réessayer||\Z1, \Zl : Réessayer||\Z2, \Zr : Annuler"
+[Menu_XBLIVE_RANKING_WAIT_FIRST_PAGE]
+Text="Récupération première page, veuillez patienter..."
+[Menu_XBLIVE_RANKING_WAIT_NEXT_PAGE]
+Text="Récupération page suivante, veuillez patienter..."
+[Menu_XBLIVE_RANKING_WAIT_PREV_PAGE]
+Text="Récupération page précédente, veuillez patienter..."
+[Menu_XBLIVE_RANKING_ERROR_FIRST_PAGE]
+Text="Erreur lors de la récupération de la première page||Appuyez sur \Z1 or \Zl pour continuer"
+[Menu_XBLIVE_RANKING_ERROR_PREV_PAGE]
+Text="Erreur lors de la récupération de la page précédente.||Appuyez sur \Z1 or \Zl pour continuer"
+[Menu_XBLIVE_RANKING_LEGEND_NEXT_PAGE]
+Text="Page Down: Page suivante"
+[Menu_XBLIVE_RANKING_LEGEND_PREV_PAGE]
+Text="Page Up: Page précédente"
+[Menu_XBLIVE_RANKING_LEGEND_TOGGLE_SOLO_SQUAD]
+Text="Solo/Clan"
+[Menu_XBLIVE_RANKING_LEGEND_TOGGLE_TOP_FIND]
+Text="Top 10 / Me trouver"
+[Menu_XBLIVE_RANKING_LEGEND_TOGGLE_GLOBAL_FRIEND]
+Text="Global/Amis"
+[Menu_XBLIVE_RANKING_LEGEND_NEXT_CHALLENGE]
+Text="Page Down: Challenge suivant"
+[Menu_XBLIVE_RANKING_LEGEND_PREV_CHALLENGE]
+Text="Page Up:Challenge précédent"
+[Menu_XBLIVE_RANKING_ERROR_NEXT_PAGE]
+Text="Erreur lors de la récupération de la page suivante.||Appuyez sur \Z1 ou \Zl pour continuer"
+[Menu_XBLIVE_CHALLENGE_CHOOSE_A_GROUP]
+Text="Sélectionner un groupe de missions"
+[Menu_XBLIVE_CHALLENGE_HELP_GROUP_1]
+Text="Le groupe ONYX contient 6 missions pour tous types de joueurs."
+[Menu_XBLIVE_CHALLENGE_HELP_GROUP_2]
+Text="Le groupe ZIRCON contient 6 missions pour joueurs avancés."
+[Menu_XBLIVE_CHALLENGE_HELP_GROUP_3]
+Text="Le groupe DIAMOND contient 6 missions pour joueurs experts."
+[Menu_XBLIVE_CHALLENGE_CHOOSE_MISSION]
+Text="Sélectionnez une mission"
+[Menu_XBLIVE_CHALLENGE_DOUBLE_AGENT_MISSION]
+Text="MISSION AGENT DOUBLE"
+[Menu_ALL_BONUS_CONDITION_01]
+Text="Devenez RECRUIT (moyenne globale supérieure à 1%)."
+[Menu_ALL_BONUS_CONDITION_02]
+Text="Devenez OPERATIVE (moyenne globale supérieure à 5%)."
+[Menu_ALL_BONUS_CONDITION_03]
+Text="Devenez FIELD AGENT (moyenne globale supérieure à 20%)."
+[Menu_ALL_BONUS_CONDITION_04]
+Text="Devenez SPECIAL AGENT (moyenne globale supérieure à 45%)."
+[Menu_ALL_BONUS_CONDITION_05]
+Text="Devenez OFFICER (moyenne globale supérieure à 75%)."
+[Menu_ALL_BONUS_CONDITION_06]
+Text="Devenez COMMANDER (moyenne globale supérieure à 95%)."
+[Menu_ALL_BONUS_CONDITION_07]
+Text="Gagnez le TROPHÉE DE BRONZE en remportant tous les challenges avec au moins la médaille de bronze."
+[Menu_ALL_BONUS_CONDITION_08]
+Text="Gagnez le TROPHÉE D'ARGENT en remportant tous les challenges avec au moins la médaille d'argent."
+[Menu_ALL_BONUS_CONDITION_09]
+Text="Gagnez le TROPHÉE D'OR en remportant tous les challenges avec au moins la médaille d'or."
+[Menu_ALL_BONUS_CONDITION_10]
+Text="Devenez expert BLACKWING : 10 victoires espion + 10 victoires UF"
+[Menu_ALL_BONUS_CONDITION_11]
+Text="Devenez expert MOTORWAY 90 : 10 victoires espion + 10 victoires UF"
+[Menu_ALL_BONUS_CONDITION_12]
+Text="Devenez expert TERMINUS : 10 victoires espion + 10 victoires UF"
+[Menu_ALL_BONUS_CONDITION_13]
+Text="Devenez expert SLAUGHTERHOUSE : 10 victoires espion + 10 victoires UF"
+[Menu_ALL_BONUS_CONDITION_14]
+Text="Devenez expert RED DIAMOND : 10 victoires espion + 10 victoires UF"
+[Menu_ALL_BONUS_CONDITION_15]
+Text="Devenez expert BOSS HOUSE : 10 victoires espion + 10 victoires UF"
+[Menu_ALL_BONUS_CONDITION_16]
+Text="Devenez expert DAWN WAVES : 10 victoires espion + 10 victoires UF"
+[Menu_ALL_BONUS_CONDITION_17]
+Text="Devenez expert USS WISDOM : 10 victoires espion + 10 victoires UF"
+[Menu_ALL_BONUS_CONDITION_18]
+Text="Remportez une médaille d'or dans la mission 03"
+[Menu_ALL_BONUS_CONDITION_19]
+Text="Remportez une médaille d'or dans la mission 04"
+[Menu_ALL_BONUS_CONDITION_20]
+Text="Remportez une médaille d'or dans la mission 05"
+[Menu_ALL_BONUS_CONDITION_21]
+Text="Remportez une médaille d'or dans la mission 06"
+[Menu_ALL_BONUS_CONDITION_22]
+Text="Remportez une médaille d'or dans la mission 07"
+[Menu_ALL_BONUS_CONDITION_23]
+Text="Remportez une médaille d'or dans la mission 08"
+[Menu_ALL_BONUS_CONDITION_24]
+Text="Remportez une médaille d'or dans la mission 09"
+[Menu_ALL_BONUS_CONDITION_25]
+Text="Remportez une médaille d'or dans la mission 10"
+[Menu_ALL_BONUS_CONDITION_26]
+Text="Remportez une médaille d'or dans la mission 11"
+[Menu_ALL_BONUS_CONDITION_27]
+Text="Remportez une médaille d'or dans la mission 12"
+[Menu_ALL_BONUS_CONDITION_28]
+Text="Remportez une médaille d'or dans la mission 13"
+[Menu_ALL_BONUS_CONDITION_29]
+Text="Remportez une médaille d'or dans la mission 14"
+[Menu_ALL_BONUS_CONDITION_30]
+Text="Remportez une médaille d'or dans la mission 15"
+[Menu_ALL_BONUS_CONDITION_31]
+Text="Remportez une médaille d'or dans la mission 16"
+[Menu_ALL_BONUS_CONDITION_32]
+Text="Remportez une médaille d'or dans la mission 17"
+[Menu_ALL_BONUS_CONDITION_33]
+Text="Remportez une médaille d'or dans la mission 18"
+[Menu_XBLIVE_LIVEZONE_ACTION_FAILED]
+Text="Cette action a échoué.||Appuyez sur \Z1 or \Zl pour continuer"
+[Menu_XBLIVE_LIVEZONE_CONFIRM_QUIT]
+Text="Quitter la Zone Live ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[Menu_ALL_PC_POPUP_CONNECTING_DEMONWARE]
+Text="Connexion au réseau en cours, veuillez patienter..."
+[Menu_ALL_PC_PROFILE_NAME_LIVE]
+Text="Nom de compte"
+[Menu_ALL_PC_PROFILE_PASSWORD_LIVE]
+Text="Mot de passe"
+[Menu_ALL_PC_PROFILE_PASSWORD_LIVE_CONFIRM]
+Text="Confirmer mot de passe"
+[Menu_ALL_PC_PROFILE_CD_KEY]
+Text="Clé CD"
+[MENU_ALL_SQUAD_CANCEL_SENT_INVITE]
+Text="Annuler l'invitation envoyée ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[MENU_ALL_SQUAD_UNBLOCK_RECRUIT]
+Text="Déverrouiller ce joueur ?||\Z1, \Zl :  Oui||\Z2, \Zr  Non"
+[Menu_XBLIVE_VS_ERR_SESSION_KICKED]
+Text="Vous avez été expulsé de la session.||Appuyez sur \Z1 or \Zl pour continuer"
+[Menu_ALL_BOTS_LEGEND]
+Text="“Sélectionner le mode Bot pour compléter l'équipe Upsilon”|"
+[Menu_ALL_BOTS_NONE]
+Text="“Aucun Bot”"
+[Menu_ALL_BOTS_FILL_EASY]
+Text="“Mettre des Bots faciles”"
+[Menu_ALL_BOTS_FILL_MEDIUM]
+Text="“Mettre des Bots moyens”"
+[Menu_ALL_BOTS_FILL_HARD]
+Text="“Mettre des Bots difficiles”"
+[Menu_XBLIVE_CONNECTING]
+Text="Connexion en cours..."
+[Menu_XBLIVE_CHALLENGES_GROUP_2_UNLOCKED]
+Text="Félicitations ! En obtenant 2 médailles dans le groupe ONYX, vous avez déverrouillé un nouveau groupe de 6 challenges : le groupe ZIRCON ! "
+[Menu_XBLIVE_CHALLENGES_GROUP_3_UNLOCKED]
+Text="Félicitations ! En obtenant 6 médailles dans les groupes ONYX et ZIRCON, vous avez déverrouillé un nouveau groupe de 6 challenges : le groupe DIAMOND ! "
+[MENU_XBLIVE_SQUAD_NAME_WRONG_CHARACTERS]
+Text="L'information de CLAN saisie est incorrecte. Veuillez la modifier.||Appuyez sur \Z1 ou \Zl pour continuer."
+[MENU_XBLIVE_LOBBY_HELP_ADD_BOT]
+Text="Appuyez sur Page Down: pour ajouter des Bots et remplir les emplacements vides Upsilon. Bots ajoutés en début de session."
+[MENU_XBLIVE_LOBBY_NO_BOT_ADDED]
+Text="Aucun Bot ajouté."
+[MENU_XBLIVE_LOBBY_EASY_BOT_ADDED]
+Text="Bots faciles ajoutés."
+[MENU_XBLIVE_LOBBY_MEDIUM_BOT_ADDED]
+Text="Bots moyens ajoutés."
+[MENU_XBLIVE_LOBBY_HARD_BOT_ADDED]
+Text="Bots difficiles ajoutés."
+[Menu_ALL_CONFIRM_AUTOPATCH]
+Text="Une mise à jour est disponible. Vous devez la télécharger pour jouer en ligne. Voulez-vous la télécharger maintenant ?||\Z1, \Zl :  Oui||\Z2, \Zr  Non"
+[Menu_ALL_CONFIRM_DOWNLOAD_AUTOPATCH]
+Text="Télécharger la mise à jour"
+[Menu_ALL_CONFIRM_PLAY_LAN]
+Text="Jouer en local"
+[Menu_ALL_PC_YES]
+Text="Oui"
+[Menu_ALL_PC_NO]
+Text="Non"
+[Menu_ALL_PC_NEW_PROFILE]
+Text="Créer un nouveau compte sur Ubi.com"
+[Menu_ALL_PC_SAY]
+Text="Dire : "
+[Menu_ALL_LEGEND_PC_GUIDE]
+Text="Gestionnaire de profils"
+[Menu_ALL_DISPLAY_HOST_WAITING]
+Text="En attente"
+[Menu_ALL_SPY_SKIN_01]
+Text="Tenue espion - Débutant"
+[Menu_ALL_SPY_SKIN_02]
+Text="Tenue espion - Confirmé"
+[Menu_ALL_SPY_SKIN_03]
+Text="Tenue espion - Pro"
+[Menu_ALL_SPY_SKIN_04]
+Text="Espionne - Débutante"
+[Menu_ALL_SPY_SKIN_05]
+Text="Espionne - Confirmée"
+[Menu_ALL_SPY_SKIN_06]
+Text="Espionne - Pro"
+[Menu_ALL_UF_SKIN_01]
+Text="Tenue Upsilon - Débutant"
+[Menu_ALL_UF_SKIN_02]
+Text="Tenue Upsilon - Confirmé"
+[Menu_ALL_UF_SKIN_03]
+Text="Tenue Upsilon - Pro"
+[Menu_ALL_UF_SKIN_04]
+Text="Tenue Upsilon - Rainbow 6 Spécial Vegas"
+[Menu_XBLIVE_SQUAD_INVITES_HELP]
+Text="Consulter les invitations envoyées par d'autres CLANS pour rejoindre l'un deux."
+[Menu_XBLIVE_SQUAD_BLOCKED_HELP]
+Text="Consulter la liste des chefs de CLANS  qui ne peuvent pas vous envoyer d'invitations pour rejoindre leur CLAN."
+[Menu_XBLIVE_SQUAD_SENT_INVITES_HELP]
+Text="Consulter la liste des invitations en attente que vous avez envoyées aux joueurs pour rejoindre votre CLAN."
+[Menu_XBLIVE_LAN_SERVERS_SESSION_DETAILS]
+Text="Détails de la session"
+[Menu_XBLIVE_LAN_SERVERS_MAP_PLAYED]
+Text="Carte de la session :"
+[Menu_XBLIVE_LAN_SERVERS_FREE_SLOTS]
+Text="Emplacements disponibles :"
+[Menu_XBLIVE_NOSCORE_CHAL_TRAIN]
+Text="Pas de score pour cette mission.|| Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_YOU_LOOSE]
+Text="Vous avez perdu."
+[Menu_XBLIVE_CONSULT_RANKINGS_VS_AIDE]
+Text="Page Up: Page précédente|Page Down: Page suivante|End:Classements Solo|Home: Classements Clan"
+[Menu_XBLIVE_CONSULT_RANKINGS_CH_AIDE]
+Text="Page Up: Page précédente|Page Down: Page suivante|Home:Challenge précédent|End: Challenge suivant"
+[Menu_XBLIVE_COMPARE_ABILITIES]
+Text="Comparer compétences"
+[Menu_XBLIVE_SQUAD_PRELOBBY_TITLE]
+Text="Sélectionner les membres de votre CLAN"
+[Menu_XBLIVE_SQUAD_PRELOBBY_AIDE]
+Text="Sélectionner deux membres de votre CLAN pour jouer avec vous contre un autre CLAN"
+[Menu_XBLIVE_RANKING_ERROR_NOT_RANKED]
+Text="Vous ne figurez pas dans le tableau.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_DEMOMISSION_01]
+Text="Mission 01"
+[Menu_ALL_DEMOMISSION_02]
+Text="Mission 02"
+[Menu_ALL_DEMOCHALLENGE_01_TITLE]
+Text="Opération ODYSSEUS"
+[Menu_ALL_DEMOCHALLENGE_02_TITLE]
+Text="Opération HERCULES"
+[Menu_ALL_DEMOMISSION_DESCRIPTION_01]
+Text="Zone d'intervention : MOTORWAY 90.||Vous disposez du temps de la mission pour télécharger le maximum d'information depuis les terminaux. Soyez soudés et unis !|||Conditions de victoire : 1% téléchargé.|Précisions : 4 vies par espion, 20 minutes."
+[Menu_ALL_DEMOMISSION_DESCRIPTION_02]
+Text="Zone d'intervention : MOTORWAY 90.||Vous disposez du temps de la mission pour télécharger le maximum d'information depuis les terminaux. Soyez soudés et unis !|||Conditions de victoire : 1% téléchargé.|Précisions : 3 vies par espion, 15 minutes."
+[Menu_XBLIVE_LIVE_SERVICE_NOT_AVAILABLE]
+Text="Impossible d'accéder aux infos en ligne : il y a peut-être un problème avec Demonware.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_ONLINE_SERVICE_NOT_AVAILABLE]
+Text="Impossible d'accéder aux infos en ligne : il y a peut-être un problème avec les CLANS.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_CHECK_R6_SKIN_ASK]
+Text="Voulez-vous voir votre classement Tom Clancy's Rainbow Six Vegas ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[Menu_XBLIVE_CHECK_R6_SKIN_LOOKING]
+Text="Vérification de votre classement Tom Clancy's Rainbow Six Vegas, veuillez patienter..."
+[Menu_XBLIVE_CHECK_R6_SKIN_ERROR]
+Text="Une erreur est survenue lors de l'accès à Tom Clancy's Rainbow Six Vegas. Impossible de lire votre classement.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_CHECK_R6_SKIN_RANK_OK]
+Text="Vous êtes un membre du TOP 1000 de Tom Clancy's Rainbow Six Vegas. Vous pouvez utiliser la skin.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_CHECK_R6_SKIN_RANK_NOT_OK]
+Text="Vous n'êtes pas membre du TOP 1000 de Tom Clancy's Rainbow Six Vegas. Vous ne pouvez pas utiliser la skin.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_Player_level]
+Text="Niveau"
+[Menu_ALL_XBLIVE_CONSULT_RK_VS_SOLO]
+Text="Consultez le classement total pour le mode VERSUS en jouant en SOLO."
+[Menu_ALL_XBLIVE_CONSULT_RK_VS_SQUAD]
+Text="Consultez le classement total pour le mode VERSUS en jouant avec votre CLAN."
+[Menu_XBLIVE_GRADE_AND_ABIL_HELP]
+Text="Consultez vos compétences et votre grade."
+[Menu_XBLIVE_CHALLENGE_SUM_HELP]
+Text="Consultez vos médailles et vos meilleurs scores sur les challenges."
+[Menu_XBLIVE_ACHIEVEMENTS_HELP]
+Text="Consultez les Succès remportés en jouant au jeu."
+[Menu_XBLIVE_SKINS_HELP]
+Text="Faites défiler les skins disponibles pour votre espion ou votre membre des Forces Upsilon."
+[Menu_XBLIVE_CHALLENGE_HELP_GROUP_4]
+Text="Le groupe AMETHYST contient de nouvelles missions téléchargées sur Xbox Live."
+[Menu_XBLIVE_CHALLENGE_HELP_GROUP_5]
+Text="Le groupe TOPAZ contient de nouvelles missions téléchargées sur Xbox Live."
+[Menu_XBLIVE_CHALLENGE_HELP_GROUP_6]
+Text="Le groupe EMERALD contient de nouvelles missions téléchargées sur Xbox Live."
+[Menu_XBLIVE_CHALLENGE_HELP_GROUP_7]
+Text="Le groupe SAPPHIRE contient de nouvelles missions téléchargées sur Xbox Live."
+[Menu_XBLIVE_LOBBY_OK_START_NOT_6]
+Text="6 joueurs ne se trouvent pas à l'accueil. Voulez-vous commencer la session avec cette configuration ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[Menu_XBLIVE_LAN_CANT_ACCESS_LEADER]
+Text="Vous devez être inscrit en ligne pour afficher le record mondial.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_JOIN_ERROR_ALREADY_IN_SESSION]
+Text="Vous vous trouvez déjà dans cette session.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_NOT_IN_SQUAD_CANT_ACC_LEADERB]
+Text="Vous ne faites partie d'aucun CLAN : vous n'êtes pas classé dans ce tableau.||Appuyez sur \Z1 ou \Zl pour continuer."
+[PC_BACK_MAIN_MENU]
+Text="Retour au menu principal"
+[Menu_XBLIVE_CHALLENGE_NOT_UNLCK_NO_SCORE]
+Text="Vous avez rejoint une session sur un challenge que vous n'avez pas déverrouillé. Vous pouvez jouer mais, en fin de session, vous n'aurez ni score ni médaille.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_PRELOBBY_NOT_THREE]
+Text="Vous avez besoin de trois joueurs prêts pour rechercher une session.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_LOBBY_OK_START_NOT_3]
+Text="3 joueurs ne se trouvent pas à l'accueil. Voulez-vous commencer la session avec cette configuration ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[Menu_XBLIVE_RANKING_LEGEND_TOGGLE_TOP_FIND_SQ]
+Text="Top 10 / Mon Clan"
+[Menu_ALL_EF_R6_TRAILER]
+Text="Bande-annonce de|Rainbow 6 Vegas"
+[Menu_XBLIVE_CHALLENGE_NEW_RECORD]
+Text="Félicitations ! C'est un nouveau record pour cette mission."
+[Menu_ALL_SAVING_WAIT]
+Text="Sauvegarde en cours. Ne pas éteindre la console ni retirer votre périphérique de stockage."
+[Menu_XBLIVE_SQUAD_MEMBER_KICKED]
+Text="Vous avez été expulsé de votre CLAN.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_ALL_DEMO_CHALLENGEGROUP]
+Text="Vous devez terminer 6 sessions pour débloquer des challenges COOP.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_SENDING_INVITE_COMPLETE]
+Text="Invitation envoyée avec succès.||Appuyez sur \Z1 ou \Zl pour continuer."
+[MENU_ALL_MU_DATAS_LOST]
+Text="La carte mémoire a été retirée.|Vous risquez de perdre toute progression non sauvegardée.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_CONSULT_RK_DEFI]
+Text="Page Up: Page précédente|Page Down: Page suivante"
+[Menu_ALL_BRIEF_CHAL_BEST_A]
+Text=" "
+[Menu_ALL_BRIEF_CHAL_MAX_P]
+Text=" "
+[Menu_ALL_BRIEF_CHAL_DOUBLE_A]
+Text=" "
+[Menu_ALL_BRIEF_CHAL_FILE_R]
+Text=" "
+[Menu_ALL_BRIEF_CHAL_25_P_MAX]
+Text=" "
+[Menu_XBLIVE_CHOOSE_MAP]
+Text="Choisir une carte"
+[Menu_XBLIVE_CHOOSE_TEAM]
+Text="Choisir une équipe"
+[Menu_XBLIVE_RANKING_ERROR_NO_FRIEND_RANKED]
+Text="Aucun ami ne figure dans le tableau.||Appuyez sur \\2 pour continuer."
+[Menu_XBLIVE_SQUAD_RECUIT_CANCELED]
+Text="Le recrutement a été annulé par le chef de clan.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_UNABLE_JOIN_SESSION_QMATCH]
+Text="Impossible de rejoindre une partie rapide.||Appuyez sur \\2 pour continuer."
+[Menu_ALL_PC_PLAYERS_ZONE]
+Text="Communauté"
+[MENU_ALL_NOT_AVAILABLE_IN_THE_DEMO_SHORT]
+Text="Cette option n'est pas disponible dans cette démo."
+[Menu_ALL_SHOW_YOUR_GAMERCARD]
+Text="Afficher votre carte du joueur"
+[Menu_ALL_SHOW_PLAYER_GAMERCARD]
+Text="Afficher la carte du joueur de l'autre joueur"
+[Menu_ALL_DEMO_QUIT]
+Text="Quitter la démo "
+[Menu_XBLIVE_END_SESSION_SQ_DW_OUT]
+Text="Vous avez été déconnecté du service des CLANS pendant la session : les résultats de la session seront incorrects et votre CLAN risque de recevoir une pénalité.||Appuyez sur \\2 pour continuer.|"
+[Menu_ALL_GAMER_PROFILE]
+Text="Profil du joueur"
+[Menu_XBLIVE_INVITED_PLAY_SQUAD_COOP]
+Text="Vous êtes invité à jouer un challenge clan contre clan dans SPLINTER CELL DOUBLE AGENT."
+[Menu_ALL_DEMOMISSION_DESCRIPTION_INGAME_01]
+Text="Vous disposez du temps de la mission ODYSSEUS pour télécharger le maximum de données. La coopération sera la clef du succès."
+[Menu_ALL_DEMOMISSION_DESCRIPTION_INGAME_02]
+Text="Vous disposez du temps de la mission HERCULES pour télécharger le maximum de données. La coopération sera la clef du succès."
+[Menu_ALL_DEMOMISSION_DESCRIPTION_INGAME_SCORE_01]
+Text="Chaque %: +1; 200%: +50|500%: +150; 1000%: +250|Chaque segment de 500%: +250|1 esp. tué: -25; pdt pirat.: -50"
+[Menu_ALL_DEMOMISSION_DESCRIPTION_INGAME_SCORE_02]
+Text="Chaque %: +1; 200%: +50|500%: +150; 1000%: +250|Chaque segment de 500%: +250|1 esp. tué: -25; pdt pirat.: -50"
+[Menu_ALL_DEMO_FIRST_PAGE]
+Text="Démo "
+[Menu_ALL_PC_PROFILE_MANAGEMENT]
+Text="Gestion des profils"
+[Menu_XBLIVE_ONLINE_SERVICE_NOT_AVAILABLE_CANT_ACCESS_LEADER]
+Text="Impossible d'accéder au tableau des CLANS : le serveur des CLANS de Splinter Cell: Double Agent n'est pas disponible pour le moment.||Appuyez sur \\2 pour continuer."
+[Menu_XBLIVE_LIVE_SERVICE_NOT_AVAILABLE_CANT_ACCESS_LEADER]
+Text="Impossible d'accéder à ce tableau : ce service n'est pas disponible pour le moment.||Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_SQUAD_INFOS_LOCKED_BY_PLAYERS]
+Text="<< VERROUILLE >>"
+[Menu_XBLIVE_SQUAD_INFOS_LOCKED_BY_PLAYERS_WHY]
+Text="Une limitation du compte Xbox Live ne vous permet pas d'accéder aux informations de CLAN.|Appuyez sur \\2 pour continuer."
+[Menu_XBLIVE_AFTERMATCH_RESULTS_FIRST_PAGE_01]
+Text="Résultats de la session"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_FIRST_PAGE_02]
+Text="Votre CLAN"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_FIRST_PAGE_03]
+Text="Autre CLAN"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_FIRST_PAGE_04]
+Text="Match(s) gagné(s)"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_FIRST_PAGE_05]
+Text="Fichier(s) sécurisé(s)"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_FIRST_PAGE_06]
+Text="Espion(s) tué(s) en tant qu'Upsilon"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_FIRST_PAGE_07]
+Text="Upsilon(s) tué(s) en tant qu'Espion"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_FIRST_PAGE_08]
+Text="Fichier(s) volé(s)"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_FIRST_PAGE_09]
+Text="Pourcentage d'informations volé"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_FIRST_PAGE_10]
+Text="Meilleure durée de match"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_FIRST_PAGE_11]
+Text="Votre ÉQUIPE"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_FIRST_PAGE_12]
+Text="L'autre ÉQUIPE"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_SECOND_PAGE_01]
+Text="Résumé score du CLAN"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_SECOND_PAGE_02]
+Text="Score de la session"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_01]
+Text="Vos performances dans cette session"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_02]
+Text="Match Espion"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_03]
+Text="Match Upsilon"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_04]
+Text="Fichier(s) volé(s)"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_05]
+Text="Informations volées (%)"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_06]
+Text="Upsilon(s) tué(s)"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_07]
+Text="Nombre de morts"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_08]
+Text="Morts avec fichiers"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_09]
+Text="Résultat du match"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_10]
+Text="Victoire"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_11]
+Text="Défaite"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_12]
+Text="Total"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_13]
+Text="Espion(s) tué(s)"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_14]
+Text="Espions tués (snipe)"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_15]
+Text="Espions tués (grenade)"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_16]
+Text="Espions tués (corps à corps)"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_17]
+Text="Espions tués (drone)"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_18]
+Text="Espion avec fichier tué"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_19]
+Text="Score final total"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_FIRST_PAGE_13]
+Text="Suicides ou équipiers tués"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_20]
+Text="Nombre de suicides"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_21]
+Text="Equipiers tués"
+[Menu_XBLIVE_DISCON_SIGN_OUT_SIGN_IN]
+Text="Vous avez été déconnecté parce que vous avez quitté Xbox Live.||Appuyez sur \\2 pour continuer."
+[Menu_XBLIVE_CANNOT_SIGN_IN_USE_ONLINE_PROFILE]
+Text="Vous ne pouvez pas vous connecter à Xbox Live avec un profil de joueur hors ligne."
+[Menu_XBLIVE_ACTIVATE_RK_CONSULT_VS_LEADRBOARDS]
+Text="Vous devez activer le mode Partie avec classement pour consulter les classements mondiaux du mode Versus.|| Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_AFTERMATCH_RESULTS_FIRST_PAGE_14]
+Text="Match nul"
+[Menu_XBLIVE_AFTERMATCH_RESULTS_THIRD_PAGE_22]
+Text="Égalité"
+[Menu_XBLIVE_MEMORY_UNIT_REMOVED]
+Text="Un problème s'est produit pendant la sauvegarde. Les modifications n'ont pas été enregistrées. Veuillez vérifier votre carte mémoire Xbox 360.||Appuyez sur \\2 pour continuer."
+[Menu_ALL_HELP_MODIFY_SQUAD_MOTTO]
+Text="Changer de slogan"
+[Menu_XBLIVE_FRIEND_REQUEST_SENT]
+Text="Requête en cours de traitement. Veuillez patienter..."
+[Menu_XBLIVE_AUTOPATCH_NOT_AVAILABLE]
+Text="Le serveur autopatch n'est pas disponible. Vous ne pouvez pas jouer en ligne.|| Appuyez sur \Z1 ou \Zl pour continuer."
+[Menu_XBLIVE_SEARCHING_AUTOPATCH]
+Text="Recherche d'une nouvelle version en cours,|veuillez patienter..."
+[Menu_XBLIVE_VERSION_NUMBER]
+Text=""

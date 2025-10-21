@@ -1,0 +1,126 @@
+[FRQ02_BRIEFING_PARTA_01]
+Text="The area you have to defend is a luxurious villa belonging to one of our leaders.| It is made up of two main zones: the GROUND FLOOR and the FIRST FLOOR |of the house, which give onto a huge outdoor courtyard."
+[FRQ02_BRIEFING_PARTA_02]
+Text="There are two terminals on the GROUND FLOOR."
+[FRQ02_BRIEFING_PARTA_03]
+Text="There are also two terminals on the FIRST FLOOR."
+[FRQ02_BRIEFING_PARTA_04]
+Text="The terminals you have to protect are powerful encrypted relays |used for our private communication network."
+[FRQ02_BRIEFING_PARTA_05]
+Text="There is one detail that might prove important: all the alarms, defense systems and lights |are linked up to a mobile device located in the OUTDOOR COURTYARD - the E.C.C.  |If the intruders deactivate this element, we will be plunged into darkness. Should this happen, |reactivate it to switch all the systems back on.  You can also restart the E.C.C. even if it has |not been switched off. Restarting it will make all the systems function again. Keep that in mind, |this is a strategic element that should not be underestimated..."
+[FRQ02_BRIEFING_PARTA_06]
+Text="Your mission is to defend our terminals! If the intruders unlock them, prevent them at all costs |from stealing their memory cells and exfiltrating them! Track them down and kill them!"
+[FRQ02_BRIEFING_PARTB_01]
+Text="Your mission is to patrol this complex, track down intruders and prevent them at all costs |from hacking into and unlocking the terminals holding the information that is vital to our |survival. If one of the terminals is hacked into, all of the terminals will then be unlocked."
+[FRQ02_BRIEFING_PARTB_02]
+Text="If the intruders succeed in unlocking the terminals, they will be able to steal the memory cells |they contain and attempt to secure them. Use all available means to prevent them from stealing |two memory cells, which is the number they need to decipher data about our double agents |contained in these cells."
+[FRQ02_BRIEFING_PARTB_03]
+Text="The memory cells are fragile and are only viable for a limited time once they are extracted |from their terminal. If you succeed in getting a stolen memory cell back (by killing an |intruder who's holding one of them or by picking up one of the cells on the ground), destroy it."
+[FRQ02_BRIEFING_VERSUS_01]
+Text="Let's go, men, and protect the terminals from the intruders. Show no mercy!"
+[FRQ02_BRIEFING_VERSUS_02]
+Text="Now that the terminals are unlocked, protect the memory cells from the intruders |and bring back any stolen memory cells."
+[FRQ02_BRIEFING_VERSUS_03]
+Text="Keep it up, boys! If one more memory cell is stolen, the intruders will have enough |information to uncover our double agents. Prevent this at all costs!"
+[FRQ02_BRIEFING_DM_PARTA_01]
+Text="There are three phase to your mission:|1. Infiltrate the zone,|2. Unlock one of the terminals,|3. Steal and bring back the memory cells."
+[FRQ02_BRIEFING_DM_PARTA_01BIS]
+Text="The area you have to infiltrate is a luxurious villa belonging to one of the enemy bosses.  |It is made up of two main zones: the GROUND FLOOR and the FIRST FLOOR of the house, |which look onto a huge outdoor courtyard."
+[FRQ02_BRIEFING_DM_PARTA_02]
+Text="There are two terminals on the GROUND FLOOR."
+[FRQ02_BRIEFING_DM_PARTA_03]
+Text="There are also two terminals on the FIRST FLOOR."
+[FRQ02_BRIEFING_DM_PARTA_04]
+Text="The terminals you have to deactivate are powerful encrypted relays |used for the private USPILON FORCE communication network."
+[FRQ02_BRIEFING_DM_PARTA_05]
+Text="There is one detail that might prove important: all the alarms, defence systems |and lights are linked up to a mobile device located in the MAIN COURTYARD - the E.C.C.| Deactivating this element will plunge Upsilon Force operatives into darkness, |making the zone more difficult to defend and forcing them to move to try and |reactivate the system. Keep this in mind..."
+[FRQ02_BRIEFING_DM_PARTB_01]
+Text="Your mission is to use stealth to infiltrate the complex in order to hack into and unlock the |terminals (this operation takes a few seconds). If you neutralize one terminal, it will unlock| ALL of the others."
+[FRQ02_BRIEFING_DM_PARTB_02]
+Text="Once neutralized, you should steal the memory cells they contain and bring at least |two of them to this control drone to secure them and complete your mission. Good luck."
+[FRQ02_BRIEFING_DM_PARTB_03]
+Text="Take care. The memory cells are fragile and are only viable for a limited time once they are |extracted from their terminal. Cooperation is your best ally. Lastly, watch out for the patrolling |Upsilon Forces who defend this place: they are strong, efficient and have orders to kill. Good luck."
+[FRQ02_BRIEFING_DM_PARTB_04]
+Text="Your mission is to use stealth to infiltrate the complex in order to hack into and unlock |the terminals (this operation takes a few seconds). If you neutralize one terminal, |it will unlock ALL of the others."
+[FRQ02_BRIEFING_DM_PARTB_05]
+Text="Once neutralized, you should steal the memory cells they contain and bring at least |two of them to this control drone to secure them and complete your mission. Good luck."
+[FRQ02_BRIEFING_DM_PARTB_06]
+Text="Take care. The memory cells are fragile and are only viable for a limited time once they are |extracted from their terminal. Cooperation is your best ally. Lastly, watch out for the patrolling |Upsilon Forces who defend this place: they are strong, efficient and have orders to kill. Good luck."
+[FRQ02_BRIEFING_DM_PARTB_07]
+Text="Your mission is to use stealth to infiltrate the complex in order to hack into and unlock |the terminals (this operation takes a few seconds). If you neutralize one terminal, |it will unlock ALL of the others."
+[FRQ02_BRIEFING_DM_PARTB_08]
+Text="Once neutralized, you should steal the memory cells they contain and bring at least |two of them to this control drone to secure them and complete your mission. Good luck."
+[FRQ02_BRIEFING_DM_PARTB_09]
+Text="Take care. The memory cells are fragile and are only viable for a limited time once they are |extracted from their terminal. Cooperation is your best ally. Lastly, watch out for the patrolling |Upsilon Forces who defend this place: they are strong, efficient and have orders to kill. Good luck."
+[FRQ02_BRIEFING_DM_PARTB_10]
+Text="Your mission is to use stealth to infiltrate the complex in order to hack into and unlock |the terminals (this operation takes a few seconds). If you neutralize one terminal, |it will unlock ALL of the others."
+[FRQ02_BRIEFING_DM_PARTB_11]
+Text="Once neutralized, you should steal the memory cells they contain and bring at least |two of them to this control drone to secure them and complete your mission. Good luck."
+[FRQ02_BRIEFING_DM_PARTB_12]
+Text="Take care. The memory cells are fragile and are only viable for a limited time once they are |extracted from their terminal. Cooperation is your best ally. Lastly, watch out for the patrolling |Upsilon Forces who defend this place: they are strong, efficient and have orders to kill. Good luck."
+[FRQ02_BRIEFING_DM_PARTB_13]
+Text="Your mission is to use stealth to infiltrate the complex in order to hack into and unlock |the terminals (this operation takes a few seconds). If you neutralize one terminal, |it will unlock ALL of the others."
+[FRQ02_BRIEFING_DM_PARTB_14]
+Text="Once neutralized, you should steal the memory cells they contain and bring at least |two of them to this control drone to secure them and complete your mission. Good luck."
+[FRQ02_BRIEFING_DM_PARTB_15]
+Text="Take care. The memory cells are fragile and are only viable for a limited time once they are |extracted from their terminal. Cooperation is your best ally. Lastly, watch out for the patrolling |Upsilon Forces who defend this place: they are strong, efficient and have orders to kill. Good luck."
+[FRQ02_BRIEFING_DM_PARTB_16]
+Text="For this operation to go completely undetected it should be executed with maximum speed |and effectiveness. You must do everything in your power to accomplish your mission as |quickly as possible."
+[FRQ02_BRIEFING_DM_PARTB_17]
+Text="Your mission is to use stealth to infiltrate the complex in order to hack into and unlock |the terminals (this operation takes a few seconds). If you neutralize one terminal, |it will unlock ALL of the others."
+[FRQ02_BRIEFING_DM_PARTB_18]
+Text="Once neutralized, you should steal the memory cells they contain and bring at least |two of them to this control drone to secure them and complete your mission. Good luck."
+[FRQ02_BRIEFING_DM_PARTB_19]
+Text="Take care. The memory cells are fragile and are only viable for a limited time once |they are extracted from their terminal. Cooperation is your best ally. Lastly, watch out |for the patrolling Upsilon Forces who defend this place: they are strong, efficient and |have orders to kill. Good luck."
+[FRQ02_BRIEFING_DM_PARTB_20]
+Text="For this operation to go completely undetected you must also eradicate all evidence |of your intervention. You should therefore eliminate all the defense forces on the map."
+[FRQ02_BRIEFING_DM_PARTB_21]
+Text="Your mission is to use stealth to infiltrate the complex in order to hack into and unlock |the terminals (this operation takes a few seconds). If you neutralize one terminal, |it will unlock ALL of the others."
+[FRQ02_BRIEFING_DM_PARTB_22]
+Text="Once neutralized, you should steal the memory cells they contain and bring at least |two of them to this control drone to secure them and complete your mission. Good luck."
+[FRQ02_BRIEFING_DM_PARTB_23]
+Text="Take care. The memory cells are fragile and are only viable for a limited time once they are |extracted from their terminal. Cooperation is your best ally. Lastly, watch out for the patrolling |Upsilon Forces who defend this place: they are strong, efficient and have orders to kill. Good luck."
+[FRQ02_BRIEFING_DM_PARTB_24]
+Text="This operation must remain highly confidential. If one of your team members is discovered during |the operation by a guard or a surveillance device, we will be forced to cancel the mission."
+[FRQ02_BRIEFING_DM_PARTB_25]
+Text="The more cells we have, the more information we'll obtain and the |more we'll find out about their double agents."
+[FRQ02_BRIEFING_DM_VERSUS_01]
+Text="Move out, gentlemen! Find the terminals and unlock them!"
+[FRQ02_BRIEFING_DM_VERSUS_02]
+Text="Now that the terminals are unlocked, go and steal the memory cells |and bring them to this drone to secure them."
+[FRQ02_BRIEFING_DM_VERSUS_03]
+Text="Keep it up, boys! One more memory cell, and the mission will be accomplished."
+[FRQ02_BRIEFING_DM_SCORE_01]
+Text="Move out, gentlemen! Find the terminals and unlock them!"
+[FRQ02_BRIEFING_DM_SCORE_02]
+Text="Now that the terminals are unlocked, go and steal the memory cells |and bring them to this drone to secure them."
+[FRQ02_BRIEFING_DM_SCORE_03]
+Text="Keep it up, boys! One more memory cell, and the mission will be accomplished."
+[FRQ02_BRIEFING_DM_INFILT]
+Text="Move out, gentlemen! Find the terminals and unlock them!"
+[FRQ02_BRIEFING_DM_EXFILT]
+Text="Go and steal the memory cells and bring them to this drone to secure them."
+[FRQ02_BRIEFING_DM_NOD_01]
+Text="Move out, gentlemen! Find the terminals and unlock them!"
+[FRQ02_BRIEFING_DM_NOD_02]
+Text="Now that the terminals are unlocked, go and steal the memory cells |and bring them to this drone to secure them."
+[FRQ02_BRIEFING_DM_NOD_03]
+Text="Keep it up, boys! One more memory cell, and the mission will be accomplished."
+[FRQ02_BRIEFING_DM_TA_01]
+Text="Move out, gentlemen! Find the terminals and unlock them!"
+[FRQ02_BRIEFING_DM_TA_02]
+Text="Now that the terminals are unlocked, go and steal the memory cells |and bring them to this drone to secure them."
+[FRQ02_BRIEFING_DM_TA_03]
+Text="Keep it up, boys! One more memory cell, and the mission will be accomplished."
+[FRQ02_BRIEFING_DM_TK_01]
+Text="Move out, gentlemen! Find the terminals and unlock them!"
+[FRQ02_BRIEFING_DM_TK_02]
+Text="Now that the terminals are unlocked, go and steal the memory cells |and bring them to this drone to secure them."
+[FRQ02_BRIEFING_DM_TK_03]
+Text="Keep it up, boys! One more memory cell, and the mission will be accomplished."
+[FRQ02_BRIEFING_DM_NDET_01]
+Text="Move out, gentlemen! Find the terminals and unlock them!"
+[FRQ02_BRIEFING_DM_NDET_02]
+Text="Now that the terminals are unlocked, go and steal the memory cells |and bring them to this drone to secure them."
+[FRQ02_BRIEFING_DM_NDET_03]
+Text="Keep it up, boys! One more memory cell, and the mission will be accomplished."

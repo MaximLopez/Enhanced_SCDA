@@ -1,0 +1,7 @@
+new TrueTypeFontFactory PACKAGE="GUIFont_" Name=DebugFont FontName="Verdana" Height=8 AntiAlias=0 DropShadowX=0 DropShadowY=0 CompressTextures=false
+
+new TrueTypeFontFactory PACKAGE="GUIFont_" Name=BoldFont FontName="FoundryGridnik-Bold" Height=10 AntiAlias=0 DropShadowX=0 DropShadowY=0 CompressTextures=false
+new TrueTypeFontFactory PACKAGE="GUIFont_" Name=MediumFont FontName="FoundryGridnik-Medium" Height=10 AntiAlias=0 DropShadowX=0 DropShadowY=0 CompressTextures=false
+new TrueTypeFontFactory PACKAGE="GUIFont_" Name=LightFont FontName="FoundryGridnik-Light" Height=10 AntiAlias=0 DropShadowX=0 DropShadowY=0 CompressTextures=false
+
+OBJ SAVEPACKAGE PACKAGE="GUIFont_" FILE="..\Packages\_Common\Textures\GUIFont_.utx

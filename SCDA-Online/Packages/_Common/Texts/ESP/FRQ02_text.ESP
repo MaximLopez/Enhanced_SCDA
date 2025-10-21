@@ -1,0 +1,126 @@
+[FRQ02_BRIEFING_PARTA_01]
+Text="El área que debes defender es una lujosa mansión perteneciente a uno de nuestros líderes. |Consta de dos zonas principales: la PLANTA BAJA y la PRIMERA PLANTA de la casa, |que da paso a un gran jardín exterior."
+[FRQ02_BRIEFING_PARTA_02]
+Text="Hay dos terminales en la PLANTA BAJA."
+[FRQ02_BRIEFING_PARTA_03]
+Text="Hay dos terminales en la PRIMERA PLANTA."
+[FRQ02_BRIEFING_PARTA_04]
+Text="Los terminales que debes vigilar son transmisores fuertemente protegidos con un |sistema de encriptación y forman parte de nuestra red privada de comunicaciones."
+[FRQ02_BRIEFING_PARTA_05]
+Text="Hay un detalle importante que necesitas saber: las alarmas, los sistemas de defensa y las |luces están conectados a un dispositivo móvil situado en el JARDÍN EXTERIOR. |Se denomina EDE. Si los intrusos lo desactivan, estaremos totalmente a oscuras, |de modo que si eso ocurre debes reactivarlo para poner todos los sistemas en marcha. |También puedes reactivarlo aunque no lo hayan apagado, para que todos los sistemas |funcionen de nuevo. No lo olvides, es un elemento estratégico a tener en cuenta."
+[FRQ02_BRIEFING_PARTA_06]
+Text="Tu misión es proteger nuestros terminales. Si los intrusos los desbloquean, impide que |roben las células de memoria y que las extraigan de la zona. Búscalos y elimínalos."
+[FRQ02_BRIEFING_PARTB_01]
+Text="Tu misión será patrullar este complejo, localizar intrusos y evitar a toda costa que |desbloqueen los terminales para hackearlos. Los terminales guardan información |vital para nuestra supervivencia y si neutralizan uno, se desbloquearán los demás terminales."
+[FRQ02_BRIEFING_PARTB_02]
+Text="Si los intrusos consiguen desbloquear los terminales, robarán las células de memoria |que contienen e intentarán asegurarlas. Utiliza todos los medios a tu alcance para |impedir que roben dos células de memoria; es el número mínimo que necesitan |para descifrar la información que contienen sobre nuestros agentes dobles."
+[FRQ02_BRIEFING_PARTB_03]
+Text="Las células de memoria son delicadas y una vez fuera de sus terminales sólo son válidas |durante un tiempo limitado. Si consigues recuperar una célula de memoria, matando al |intruso que la sostiene o recogiéndola del suelo, debes destruirla."
+[FRQ02_BRIEFING_VERSUS_01]
+Text="¡En marcha! Hay que proteger los terminales del ataque de intrusos. ¡No habrá piedad!"
+[FRQ02_BRIEFING_VERSUS_02]
+Text="Ahora que los terminales han sido desbloqueados, debes proteger las células |de memoria y recuperar las que hayan sido robadas."
+[FRQ02_BRIEFING_VERSUS_03]
+Text="¡Vamos, muchachos! Si los intrusos consiguen una célula de memoria más, tendrán suficiente |información para descubrir a nuestros agentes dobles. ¡Hay que evitarlo cueste lo que cueste!"
+[FRQ02_BRIEFING_DM_PARTA_01]
+Text="La misión tiene tres fases:|1. Infiltrarse en la zona|2. Desbloquear uno de los terminales|3. Robar las células de memoria y traerlas de vuelta"
+[FRQ02_BRIEFING_DM_PARTA_01BIS]
+Text="El área en el que te infiltrarás es una lujosa mansión que pertenece a uno de los jefes |de las fuerzas enemigas. Consta de dos zonas principales: la PLANTA BAJA y la |PRIMERA PLANTA de la casa, que da paso a un gran jardín exterior."
+[FRQ02_BRIEFING_DM_PARTA_02]
+Text="Hay dos terminales en la PLANTA BAJA."
+[FRQ02_BRIEFING_DM_PARTA_03]
+Text="Hay dos terminales en la PRIMERA PLANTA."
+[FRQ02_BRIEFING_DM_PARTA_04]
+Text="Los terminales que debes desactivar son transmisores fuertemente protegidos por un |sistema encriptado y forman parte de la red de comunicaciones privada de UPSILON."
+[FRQ02_BRIEFING_DM_PARTA_05]
+Text="Hay un detalle que podría resultarnos útil: las alarmas, sistemas de defensa y luces están |conectados a un dispositivo móvil situado en el JARDÍN PRINCIPAL. Se denomina EDE. |Si desactivas este elemento sumirás a los operativos de UPSILON en la oscuridad, |complicarás la defensa de la zona y les obligarás a moverse para reactivar el sistema. |Tenlo en cuenta."
+[FRQ02_BRIEFING_DM_PARTB_01]
+Text="Tu misión será infiltrarte en el complejo de forma sigilosa y desbloquear los terminales para |hackearlos (esta operación puede llevar unos segundos). Si neutralizas un terminal, se |desbloquearán los demás."
+[FRQ02_BRIEFING_DM_PARTB_02]
+Text="Una vez neutralizados, roba las células de memoria que contienen y trae al menos dos |de ellas a este dispositivo remoto de control para asegurarlas y completar la misión. Buena suerte."
+[FRQ02_BRIEFING_DM_PARTB_03]
+Text="Ten cuidado. Las células de memoria son delicadas y una vez fuera de sus terminales se |deterioran en poco tiempo. La cooperación será fundamental. Además, hay fuerzas de |UPSILON patrullando la zona: son fuertes, eficientes y tienen órdenes de matar para defenderse. |Buena suerte."
+[FRQ02_BRIEFING_DM_PARTB_04]
+Text="Tu misión será infiltrarte en el complejo de forma sigilosa y desbloquear los terminales para |hackearlos (esta operación puede llevar unos segundos). Si neutralizas un terminal, se |desbloquearán los demás."
+[FRQ02_BRIEFING_DM_PARTB_05]
+Text="Una vez neutralizados, roba las células de memoria que contienen y trae al menos dos de ellas |a este dispositivo remoto de control para asegurarlas y completar la misión. Buena suerte."
+[FRQ02_BRIEFING_DM_PARTB_06]
+Text="Ten cuidado. Las células de memoria son delicadas y una vez fuera de sus terminales |se deterioran en poco tiempo. La cooperación será fundamental. Además, hay fuerzas |de UPSILON patrullando la zona: son fuertes, eficientes y tienen órdenes de matar para |defenderse. Buena suerte."
+[FRQ02_BRIEFING_DM_PARTB_07]
+Text="Tu misión será infiltrarte en el complejo de forma sigilosa y desbloquear los terminales para |hackearlos (esta operación puede llevar unos segundos). Si neutralizas un terminal, se |desbloquearán los demás."
+[FRQ02_BRIEFING_DM_PARTB_08]
+Text="Una vez neutralizados, roba las células de memoria que contienen y trae al menos dos de |ellas a este dispositivo remoto de control para asegurarlas y completar la misión. Buena suerte."
+[FRQ02_BRIEFING_DM_PARTB_09]
+Text="Ten cuidado. Las células de memoria son delicadas y una vez fuera de sus terminales se |deterioran en poco tiempo. La cooperación será fundamental. Además, hay fuerzas de |UPSILON patrullando la zona: son fuertes, eficientes y tienen órdenes de matar para |defenderse. Buena suerte."
+[FRQ02_BRIEFING_DM_PARTB_10]
+Text="Tu misión será infiltrarte en el complejo de forma sigilosa y desbloquear los terminales para |hackearlos (esta operación puede llevar unos segundos). Si neutralizas un terminal, |se desbloquearán los demás."
+[FRQ02_BRIEFING_DM_PARTB_11]
+Text="Una vez neutralizados, roba las células de memoria que contienen y trae al menos dos de ellas |a este dispositivo remoto de control para asegurarlas y completar la misión. Buena suerte."
+[FRQ02_BRIEFING_DM_PARTB_12]
+Text="Ten cuidado. Las células de memoria son delicadas y una vez fuera de sus terminales se |deterioran en poco tiempo. La cooperación será fundamental. Además, hay fuerzas de |UPSILON patrullando la zona: son fuertes, eficientes y tienen órdenes de matar para defenderse. |Buena suerte."
+[FRQ02_BRIEFING_DM_PARTB_13]
+Text="Tu misión será infiltrarte en el complejo de forma sigilosa y desbloquear los terminales para |hackearlos (esta operación puede llevar unos segundos). Si neutralizas un terminal, se |desbloquearán los demás."
+[FRQ02_BRIEFING_DM_PARTB_14]
+Text="Una vez neutralizados, roba las células de memoria que contienen y trae al menos dos de |ellas a este dispositivo remoto de control para asegurarlas y completar la misión. Buena suerte."
+[FRQ02_BRIEFING_DM_PARTB_15]
+Text="Ten cuidado. Las células de memoria son delicadas y una vez fuera de sus terminales se |deterioran en poco tiempo. La cooperación será fundamental. Además, hay fuerzas de |UPSILON patrullando la zona: son fuertes, eficientes y tienen órdenes de matar para |defenderse. Buena suerte."
+[FRQ02_BRIEFING_DM_PARTB_16]
+Text="Para que la operación sea absolutamente secreta debe ejecutarse con la mayor velocidad| y efectividad posible. Debes hacer lo que sea para cumplir tu misión tan rápido como puedas."
+[FRQ02_BRIEFING_DM_PARTB_17]
+Text="Tu misión será infiltrarte en el complejo de forma sigilosa y desbloquear los terminales para |hackearlos (esta operación puede llevar unos segundos). Si neutralizas un terminal, se |desbloquearán los demás."
+[FRQ02_BRIEFING_DM_PARTB_18]
+Text="Una vez neutralizados, roba las células de memoria que contienen y trae al menos dos de ellas| a este dispositivo remoto de control para asegurarlas y completar la misión. Buena suerte."
+[FRQ02_BRIEFING_DM_PARTB_19]
+Text="Ten cuidado. Las células de memoria son delicadas y una vez fuera de sus terminales se |deterioran en poco tiempo. La cooperación será fundamental. Además, hay fuerzas de |UPSILON patrullando la zona: son fuertes, eficientes y tienen órdenes de matar para defenderse.| Buena suerte."
+[FRQ02_BRIEFING_DM_PARTB_20]
+Text="Para que la operación sea absolutamente secreta debes eliminar cualquier indicio |de tu intervención. Tienes que acabar con las fuerzas de defensa que hay en la zona."
+[FRQ02_BRIEFING_DM_PARTB_21]
+Text="Tu misión será infiltrarte en el complejo de forma sigilosa y desbloquear los terminales para |hackearlos (esta operación puede llevar unos segundos). Si neutralizas un terminal, |se desbloquearán los demás."
+[FRQ02_BRIEFING_DM_PARTB_22]
+Text="Una vez neutralizados, roba las células de memoria que contienen y trae al menos dos |de ellas a este dispositivo remoto de control para asegurarlas y completar la misión. Buena suerte."
+[FRQ02_BRIEFING_DM_PARTB_23]
+Text="Ten cuidado. Las células de memoria son delicadas y una vez fuera de sus terminales se| deterioran en poco tiempo. La cooperación será fundamental. Además, hay fuerzas de |UPSILON patrullando la zona: son fuertes, eficientes y tienen órdenes de matar para defenderse. |Buena suerte."
+[FRQ02_BRIEFING_DM_PARTB_24]
+Text="La operación debe ser absolutamente confidencial. Si tú o alguno de tus compañeros sois |detectados por un guardia o un dispositivo de vigilancia, nos veremos obligados a cancelar |la misión."
+[FRQ02_BRIEFING_DM_PARTB_25]
+Text="Cuantas más células tengamos, más información obtendremos y más podremos |averiguar sobre sus agentes dobles."
+[FRQ02_BRIEFING_DM_VERSUS_01]
+Text="¡En marcha, caballeros! ¡A hackear los terminales!"
+[FRQ02_BRIEFING_DM_VERSUS_02]
+Text="Ahora que los terminales han sido desbloqueados, ve y roba las células de memoria.|Tráelas hasta este drone para asegurarlas."
+[FRQ02_BRIEFING_DM_VERSUS_03]
+Text="¡Ánimo, muchachos! Una célula de memoria más y la misión habrá sido un éxito."
+[FRQ02_BRIEFING_DM_SCORE_01]
+Text="¡En marcha, caballeros! ¡A hackear los terminales!"
+[FRQ02_BRIEFING_DM_SCORE_02]
+Text="Ahora que los terminales han sido desbloqueados, ve y roba las células de memoria.|Tráelas hasta este drone para asegurarlas."
+[FRQ02_BRIEFING_DM_SCORE_03]
+Text="¡Ánimo, muchachos! Una célula de memoria más y la misión habrá sido un éxito."
+[FRQ02_BRIEFING_DM_INFILT]
+Text="¡En marcha, caballeros! ¡A hackear los terminales!"
+[FRQ02_BRIEFING_DM_EXFILT]
+Text="Ve y roba las células de memoria. Tráelas hasta este drone para asegurarlas."
+[FRQ02_BRIEFING_DM_NOD_01]
+Text="¡En marcha, caballeros! ¡A hackear los terminales!"
+[FRQ02_BRIEFING_DM_NOD_02]
+Text="Ahora que los terminales han sido desbloqueados, ve y roba las células de memoria.|Tráelas hasta este drone para asegurarlas."
+[FRQ02_BRIEFING_DM_NOD_03]
+Text="¡Ánimo, muchachos! Una célula de memoria más y la misión habrá sido un éxito."
+[FRQ02_BRIEFING_DM_TA_01]
+Text="¡En marcha, caballeros! ¡A hackear los terminales!"
+[FRQ02_BRIEFING_DM_TA_02]
+Text="Ahora que los terminales han sido desbloqueados, ve y roba las células de memoria.|Tráelas hasta este drone para asegurarlas."
+[FRQ02_BRIEFING_DM_TA_03]
+Text="¡Ánimo, muchachos! Una célula de memoria más y la misión habrá sido un éxito."
+[FRQ02_BRIEFING_DM_TK_01]
+Text="¡En marcha, caballeros! ¡A hackear los terminales!"
+[FRQ02_BRIEFING_DM_TK_02]
+Text="Ahora que los terminales han sido desbloqueados, ve y roba las células de memoria.|Tráelas hasta este drone para asegurarlas."
+[FRQ02_BRIEFING_DM_TK_03]
+Text="¡Ánimo, muchachos! Una célula de memoria más y la misión habrá sido un éxito."
+[FRQ02_BRIEFING_DM_NDET_01]
+Text="¡En marcha, caballeros! ¡A hackear los terminales!"
+[FRQ02_BRIEFING_DM_NDET_02]
+Text="Ahora que los terminales han sido desbloqueados, ve y roba las células de memoria.|Tráelas hasta este drone para asegurarlas."
+[FRQ02_BRIEFING_DM_NDET_03]
+Text="¡Ánimo, muchachos! Una célula de memoria más y la misión habrá sido un éxito."

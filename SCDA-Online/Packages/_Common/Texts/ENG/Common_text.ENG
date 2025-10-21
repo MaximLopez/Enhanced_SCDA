@@ -1,0 +1,202 @@
+[Common_DEFAULT]
+Text="Default"
+[Common_TEAM0]
+Text="Spies"
+[Common_TEAM1]
+Text="Upsilon"
+[Common_TOOLTIP_NOUSENIGHTVISION]
+Text="Press \\c to use your night vision!"
+[Common_TOOLTIP_NOUSEHEATVISION]
+Text="Press \\d to use your thermal vision!"
+[Common_TOOLTIP_NOUSEOBSCURITYANDHYPERCROUCH]
+Text="Make less noise! Use your surroundings."
+[Common_TOOLTIP_TOOFAST]
+Text="Move slower in order to make less noise!"
+[Common_TOOLTIP_NOJUMP]
+Text="Press \\a to jump and climb up!"
+[Common_KILLCAM_UFWEAPON_KILL]
+Text=" killed you with his weapon."
+[Common_KILLCAM_UFSNIPE_KILL]
+Text=" sniped you with his weapon."
+[Common_KILLCAM_UFDRONE_KILL]
+Text=" drone-blasted you."
+[Common_KILLCAM_UFGRENADE_KILL]
+Text="'s grenade blasted you."
+[Common_KILLCAM_SPGRAB_KILL]
+Text=" grabbed you."
+[Common_KILLCAM_UFDRONE_SUICIDE]
+Text="You killed yourself with your own drone!"
+[Common_KILLCAM_UFGRENADE_SUICIDE]
+Text="You killed yourself with your own grenade."
+[Common_KILLCAM_VISION_EMF]
+Text=" had EMF vision activated."
+[Common_KILLCAM_VISION_MTV]
+Text=" had movement vision activated."
+[Common_KILLCAM_VISION_HEAT]
+Text=" had thermal vision activated."
+[Common_KILLCAM_VISION_NIGHT]
+Text=" had night vision activated."
+[Common_TOOLTIP_ALT1NOUSEGADGETALERT]
+Text="Press \\j to use the selected gadget!"
+[Common_TOOLTIP_NOUSESTRATEGICMAP]
+Text="Press \\p to use your strategic map!"
+[Common_TOOLTIP_HACK_TERMINAL]
+Text="Press \\i to hack into a terminal."
+[Common_TOOLTIP_ECC_PROXIMITY]
+Text="Hacking into the main generator enables you to deactivate all the lights and defenses in a zone."
+[Common_TOOLTIP_SMOKE_GRENADE]
+Text="With these grenades you can create thick smoke screens. Press \\j to drop a grenade."
+[Common_LOADINGSCREEN_BACK_TO_LOBBY]
+Text="Loading lobby"
+[Common_LOADINGSCREEN_LOADING_MAP]
+Text="Loading %s"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_01]
+Text="Basic controls"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_02]
+Text="Hacking unit"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_03]
+Text="Mission objectives"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_04]
+Text="Presence sensor"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_05]
+Text="Escape movements"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_06]
+Text="Close actions"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_07]
+Text="Display configuration"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_08]
+Text="Gadgets"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_09]
+Text="Hints"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_10]
+Text="Main Electrical Generator"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_01]
+Text="Basic controls"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_02]
+Text="Presence sensor"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_03]
+Text="Mission objectives"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_04]
+Text="Stalking instruments"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_05]
+Text="Close actions"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_06]
+Text="Display configuration"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_07]
+Text="UPSILON Force Gadgets"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_08]
+Text="Hints"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_09]
+Text="Main Electrical Generator"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_01]
+Text="Varied, and sometimes acrobatic,|movements can be performed with|your character: you can jump, crouch,|roll etc.||Move: \\q, \\r, \\s, \\t|Jump: \\a|Crouch / Get up / Roll: \\b|Change camera view: mouse"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_02]
+Text="Your forearm is fitted with a remote|hacking unit. This device allows you|to download information from a|terminal, put out lights or destroy|panes of glass.||Use hacking unit: \\k|Activate hacking unit: \\i"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_03]
+Text="The aim of your mission is to|download two complete files from|the terminals and secure them to|your control drone.||You must infiltrate the zone and locate|an objective. Once you are nearby,|use your hacking unit to download the|information and obtain a complete file.||Take this complete file to your drone."
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_04]
+Text="BEWARE! Your enemies have a very|powerful presence sensor: when you|are less than 10 meters from them, an|echo appears on their HUD, signalling|your presence.||The closer you get to them, the more|regular and powerful this echo becomes.|So be careful! To help you, you will|be warned of this detection by an echo|similar to a heartbeat."
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_05]
+Text="Your extensive training has|made you a top-level athlete|and an outstanding acrobat.|As such, you have specific|flight movements to get out|of specific situations.||Carry out an acrobatic|escape movement: \\g"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_06]
+Text="Don't try to confront Upsilon Force|members from the front: their firepower|would soon get the better of you.|You have some ways to get them|out of your way:||-Fall on them to knock them out|-Grab an enemy from behind: \\i|-Break neck: \\i|-Attack from a guardrail: \\i"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_07]
+Text="The screen is divided into 4 parts:|- Top left part: map of the game F5|- Bottom left part: game messages. F6|- Bottom right part shows your life|gauge and the equipped gadget. F7|- Top right part:|spies' names / scores F8"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_08]
+Text="You can only use one gadget at a time.|To change gadgets, use the closet|located at your insertion point.|If you choose the gadget that|you already have, you will reload it.||Use a gadget: \\j|Use the closet: \\i"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_09]
+Text="Here are some strategies you can use:|- Do not download information when|without cover. Try to remain hidden|- Don't be too greedy. It is preferable|to download information little by little,|moving between the different objectives.|- Remember to play in a team: by|coordinating your attacks, you will|increase your strength and your chances.|- Stay calm and don't run with a complete|file! You'll stand a much better chance|if you remain stealthy in the map."
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_10]
+Text="On some maps, you will find a main|generator: all the lights and door|locking panels are linked to this|generator. You can hack into this|system using your hacking unit. Once|it has been hacked into, you can|cut out all the systems and the systems|linked to the generator IN ONE GO.|But watch out! The UPSILON Forces|can re-initialize and restart|the generator."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_01]
+Text="Varied movements can be performed|with your character: you can jump,|crouch, etc. You can also fire bullets|or grenades with your weapon. The|number of bullets in a magazine is|limited, but not the number of|magazines. Remember to reload in|due time.|Jump: \\A|Crouch / Get up: \\B|Reload weapon: \\M"
+[Common_LOADINGSCREEN_LOADING_UF_DESC_02]
+Text="You have a powerful presence sensor:|as soon as an intruder is less than|10 meters from you, an echo appears in|your HUD, accompanied by a sound|echo. The closer the intruder gets to you,|the more regular and powerful the echo|becomes. Use it to track them down.||But take care: intruders know when|they have been detected! "
+[Common_LOADINGSCREEN_LOADING_UF_DESC_03]
+Text="Your mission is to prevent the|intruders stealing two of the files held|in the terminals. These spies have|remote hacking technology: if a|terminal is attacked, search the zone|around the terminal to locate the|intruder before he downloads a file.|If an intruder gets his hands on a|complete file, track him down and|neutralize him before he gets away."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_04]
+Text="To help you find your enemies, you|have other tools:|Intruder who moves quickly appears|with a white outline around him.|EMF vision enables you to locate|electromagnetic waves from|devices and - above all - to locate|spies who are using a vision mode|or who are downloading information.|Lastly, your flashlight is your best ally|in tracking down."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_05]
+Text="In addition to your weapon and your|gadgets, you have a certain number|of proximity actions that enable you|to harm intruders or reach them faster.|If a spy comes a little too close to you,|you can try to knock him to the|ground with an unstoppable rotating|movement: \\N|Catch and kill a spy on the ground: \\I|twice in a row|Sprint: \\G|Use the grapple: \\I near  a guardrail"
+[Common_LOADINGSCREEN_LOADING_UF_DESC_06]
+Text="The screen is divided into 4 parts:|- Top left part: map of the game,|- Bottom left part: game messages.|- Bottom right part : equipped gadget.|- Top right part: spies' names / scores.||You can activate or deactivate each|part of the HUD from the|OPTIONS menu."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_07]
+Text="You can only use one gadget at a time|during a session. To change gadgets,|use the closet located at your insertion|point. If you choose the gadget that|you already have, you will reload it.||Use the closet: \\I|Blow up drone: \\R"
+[Common_LOADINGSCREEN_LOADING_UF_DESC_08]
+Text="The aim of your mission is to protect|the terminals and prevent the intruders|from stealing two complete files. Here|are a few strategies you can use:||- Spread out on the map and communicate.|- Use your tracking tools close to the|objective to locate the intruders.|- When a complete file has been captured,|remember to withdraw and check the|extraction paths."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_09]
+Text="On certain maps, you will find a|main generator: all the lights|and door locking control panels|are linked to this generator.|BEWARE: the intruders can|hack into this system, using their|hacking units. Once it has been|hacked into, all the systems|linked to this generator are cut|off. If this happens, you can|go to the generator to restart it.|Restart generator: \\I"
+[Common_TOOLTIP_DETECTED_NEW]
+Text="Be careful! You‘re near an enemy, he can find you with his presence sensor. You‘d better flee, he‘s really powerful!"
+[Common_ALL_BACK_TO_MENU]
+Text="Loading menu"
+[Common_TOOLTIPS_NEW_001]
+Text="You can hack a terminal within 10 meters providing you see it. The nearer you are, the faster the download."
+[Common_TOOLTIPS_NEW_002]
+Text="“To download a file, you can hack from one terminal or stop and restart your hacking on any terminals.”"
+[Common_KILLCAM_PLAYER_SUICIDE]
+Text=" committed suicide"
+[Common_KILLCAM_UFMINE_KILL]
+Text="'s mine-blasted you."
+[Common_TOOLTIP_STICKY_CAMERA]
+Text=""
+[Common_TOOLTIP_MINEPROXIMITY]
+Text="Warning: there is a mine! "
+[Common_TOOLTIP_CAMERA_PROXIMITY]
+Text="Warning: there is a camera! This camera can detect you!"
+[Common_TOOLTIP_LASER_PROXIMITY]
+Text="Warning: there is a laser! You can deactivate it with your gun!"
+[Common_TOOLTIP_QUIETALERT]
+Text="You have been detected by Bots. Take advantage of the darkness !"
+[Common_TOOLTIP_NOUSEGADGETALERT]
+Text=""
+[Common_TOOLTIP_NOCHANGEGADGET]
+Text=""
+[Common_TOOLTIP_MARQUED]
+Text="Warning : you have been marked by your enemies. They can detect you! "
+[Common_TOOLTIP_NOUSETAZER]
+Text=""
+[Common_TOOLTIP_NOUSEZOOM]
+Text=""
+[Common_TOOLTIP_GUNTOOLONG]
+Text=""
+[Common_KILLCAM_SPPOISON_KILL]
+Text="You have been poisoned."
+[Common_KILLCAM_UFMINE_SUICIDE]
+Text="You killed yourself with your own mine. Watch your step next time, and remember where |your mines are !"
+[Common_TOOLTIP_QUIETALERT2]
+Text="Bots have detected you! You made too much noise!"
+[Common_TOOLTIP_NOGUNENERGY]
+Text="Your weapon is out of energy ! Wait while it reloads !"
+[Common_TOOLTIP_AIDE_DESTR_FLAG]
+Text="Slow down or the memory cell will "
+[Common_TOOLTIP_AIDE_PASSE_FLAG]
+Text=""
+[Common_TOOLTIP_FLAG_DESTR_ALERT]
+Text="There is a memory cell on the ground : it's going to auto-destruct."
+[Common_TOOLTIP_MOUV_COOP]
+Text=""
+[Common_TOOLTIP_SPY_BULLET]
+Text=""
+[Common_TOOLTIP_EMP_BULLET]
+Text=""
+[Common_TOOLTIP_WIFI_MODEM]
+Text=""
+[Common_TOOLTIP_POISON_BULLET]
+Text=""
+[Common_TOOLTIP_CAMO_SUIT]
+Text=""
+[Common_TOOLTIP_MARKER]
+Text=""
+[Common_TOOLTIP_DRONE_NEW_VIDEO]
+Text=""
+[Common_LOADINGSCREEN_TOOLTIPS_SPY01_TITLE]
+Text="Infiltration Force 01"
+[Common_LOADINGSCREEN_TOOLTIPS_MERC01_TITLE]
+Text="Upsilon Force 01"
+[Common_LOADINGSCREEN_TOOLTIPS_SPY01_TEXT]
+Text="Your hacking unit enables you to|download files.||Within 10m of a terminal, press and|maintain RT, aim and press A to|download.||This unit also enables you to turn|off the lights, to break windows|and also to hack your enemies"
+[Common_LOADINGSCREEN_TOOLTIPS_MERC01_TEXT]
+Text="To help you with your tracking,|you are equiped with a high tech|motion detector||It is set off when an enemy is|less than 10m away from you.||The louder the sounds and the greater|the vibration, the closer your target|is to you. Stay vigilant!"
+[Common_ALL_BACK_TO_LOBBY]
+Text=""

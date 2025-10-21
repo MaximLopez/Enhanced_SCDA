@@ -1,0 +1,132 @@
+[IND03_BRIEFING_PARTA_01]
+Text="L'area da proteggere è un deposito degli autobus dove abbiamo una base. |Ci sono 3 aree: gli UFFICI, l'HANGAR e il MAGAZZINO, oltre a un cortile esterno |che dà sugli UFFICI e sul MAGAZZINO."
+[IND03_BRIEFING_PARTA_02]
+Text="Gli UFFICI sono dell'amministrazione della compagnia degli autobus. |Il terminale è al primo piano, nell'ufficio del Direttore."
+[IND03_BRIEFING_PARTA_03]
+Text="L'HANGAR è una zona riservata al parcheggio e alla manutenzione. Ci sono 2 terminali: |uno nell'ufficio del capo-sezione, accanto all'ingresso; l'altro in un laboratorio vicino al |portico."
+[IND03_BRIEFING_PARTA_04]
+Text="Il MAGAZZINO è per lo stoccaggio dei pezzi di ricambio. |Il terminale è al primo piano, in mezzo all'area."
+[IND03_BRIEFING_PARTA_05]
+Text="I terminali da disattivare sono potenti  trasmettitori in codice per le nostre| comunicazioni private."
+[IND03_BRIEFING_PARTA_06]
+Text="Un dettaglio potrebbe essere importante: tutti gli allarmi, i sistemi di difesa e le luci sono |collegati a un dispositivo mobile che si trova nel CORTILE ESTERNO - l'E.E.C. Se gli intrusi |riuscissero a disattivarlo, noi piomberemmo nel buio. In questo caso, dovete riattivarlo per |riaccendere i sistemi. Potete riavviare l'E.E.C. anche se non è stato spento. Riavviandolo, |tutti i sistemi torneranno a funzionare. Tenetelo bene a mente: questo è un importante |elemento strategico che non dovreste sottovalutare..."
+[IND03_BRIEFING_PARTA_07]
+Text="La vostra missione è difendere i terminali! Se gli intrusi li sbloccano, impedite ad ogni |costo che rubino e decodifichino le celle di memoria! Trovateli e uccideteli!"
+[IND03_BRIEFING_PARTB_01]
+Text="La tua missione è pattugliare il complesso, trovare gli intrusi e impedire a tutti i costi che |entrino e sblocchino i terminali, che contengono informazioni vitali per la nostra sopravvivenza. |Se entrano in uno dei terminali, si sbloccano anche tutti gli altri."
+[IND03_BRIEFING_PARTB_02]
+Text="Se gli intrusi riescono a sbloccare i terminali, possono rubare le celle di memoria che |contengono e tentare di renderle sicure. Quindi, impedisci loro con ogni mezzo di |rubarne due: tante ne occorrono a decifrare i dati contenuti sui nostri agenti infiltrati."
+[IND03_BRIEFING_PARTB_03]
+Text="Le celle di memoria sono fragili e resistono per un tempo limitato una volta estratte dal |terminale. Se riesci a recuperare una cella di memoria rubata (uccidendo l'intruso che |ce l'ha in possesso o raccogliendone una a terra), distruggila."
+[IND03_BRIEFING_VERSUS_01]
+Text="Forza, proteggiamo i terminali dagli intrusi! Nessuna pietà!"
+[IND03_BRIEFING_VERSUS_02]
+Text="Ora che i terminali sono sbloccati, proteggi le celle dagli intrusi e riporta quelle rubate."
+[IND03_BRIEFING_VERSUS_03]
+Text="Resistete! Se rubano un'altra cella, gli intrusi avranno informazioni sufficienti per |scoprire gli infiltrati! Dobbiamo impedirlo!"
+[IND03_BRIEFING_DM_PARTA_01]
+Text="La tua missione ha tre fasi:|1. Infiltrarsi nella zona,|2. Sbloccare uno dei terminali,|3. Rubare le celle di memoria e riportarle qui."
+[IND03_BRIEFING_DM_PARTA_01BIS]
+Text="Tu dovrai infiltrarti nel deposito autobus della città, dove si trova una base nemica, composta |da tre zone: gli UFFICI, l'HANGAR e il MAGAZZINO. Inoltre c'è un CORTILE che dà sugli UFFICI |e sull'HANGAR."
+[IND03_BRIEFING_DM_PARTA_02]
+Text="Gli UFFICI sono usati dall'amministrazione della compagnia. Il terminale è al primo piano, |nell'ufficio del Direttore."
+[IND03_BRIEFING_DM_PARTA_03]
+Text="L'HANGAR è riservato al parcheggio e alla manutenzione dei bus. Qui trovi 2 terminali: |uno nell'ufficio del caposezione, vicino all'ingresso; l'altro nel laboratorio di fianco |al portico."
+[IND03_BRIEFING_DM_PARTA_04]
+Text="Nel MAGAZZINO ci sono le parti di ricambio. Il terminale è al primo piano, in mezzo all'area."
+[IND03_BRIEFING_DM_PARTA_05]
+Text="I terminali da disattivare sono potenti  trasmettitori in codice per le comunicazioni private |della UPSILON FORCE."
+[IND03_BRIEFING_DM_PARTA_06]
+Text="Un dettaglio importante: gli allarmi, il sistema di difesa e le luci sono collegati a un |dispositivo mobile che si trova nel CORTILE PRINCIPALE - l'E.E.C. Disattivandolo, |gli agenti dell'Upsilon Force piombano nel buio. Per loro diventa più difficile difendere |l'area e sono costretti a muoversi per cercare di riavviare il sistema. Ricordalo..."
+[IND03_BRIEFING_DM_PARTA_07]
+Text="La tua missione è infiltrarti furtivamente nel complesso per entrare nei terminali e sbloccarli |(per fare questo, ci vogliono pochi secondi). Neutralizzando un terminale, si sbloccano |TUTTI gli altri."
+[IND03_BRIEFING_DM_PARTB_02]
+Text="Una volta neutralizzati, ruba le celle di memoria che contengono e portane almeno due a |questo drone di comando, per renderle sicure e completare la missione. Buona fortuna."
+[IND03_BRIEFING_DM_PARTB_03]
+Text="Attenzione. Le celle di memoria sono fragili e durano poco una volta estratte dal loro terminale. |La migliore politica è la cooperazione. Infine, fa attenzione alle Upsilon Force che difendono |il posto: sono forti, efficienti e hanno licenza di uccidere. Buona fortuna."
+[IND03_BRIEFING_DM_PARTB_04]
+Text="La tua missione è infiltrarti furtivamente nel complesso per entrare nei terminali e sbloccarli |(per fare questo, ci vogliono pochi secondi). Neutralizzando un terminale, si sbloccano |TUTTI gli altri."
+[IND03_BRIEFING_DM_PARTB_05]
+Text="Una volta neutralizzati, ruba le celle di memoria che contengono e portane almeno due a questo |drone di comando, per renderle sicure e completare la missione. Buona fortuna."
+[IND03_BRIEFING_DM_PARTB_06]
+Text="Attenzione. Le celle di memoria sono fragili e durano poco una volta estratte dal loro terminale. |La migliore politica è la cooperazione. Infine, fa attenzione alle Upsilon Force che difendono |il posto: sono forti, efficienti e hanno licenza di uccidere. Buona fortuna."
+[IND03_BRIEFING_DM_PARTB_07]
+Text="La tua missione è infiltrarti furtivamente nel complesso per entrare nei terminali e sbloccarli |(per fare questo, ci vogliono pochi secondi). Neutralizzando un terminale, si sbloccano |TUTTI gli altri."
+[IND03_BRIEFING_DM_PARTB_08]
+Text="Una volta neutralizzati, ruba le celle di memoria che contengono e portane almeno due a questo |drone di comando, per renderle sicure e completare la missione. Buona fortuna."
+[IND03_BRIEFING_DM_PARTB_09]
+Text="Attenzione. Le celle di memoria sono fragili e durano poco una volta estratte dal loro terminale. |La migliore politica è la cooperazione. Infine, fa attenzione alle Upsilon Force che difendono |il posto: sono forti, efficienti e hanno licenza di uccidere. Buona fortuna."
+[IND03_BRIEFING_DM_PARTB_10]
+Text="La tua missione è infiltrarti furtivamente nel complesso per entrare nei terminali e sbloccarli |(per fare questo, ci vogliono pochi secondi). Neutralizzando un terminale, si sbloccano |TUTTI gli altri."
+[IND03_BRIEFING_DM_PARTB_11]
+Text="Una volta neutralizzati, ruba le celle di memoria che contengono e portane almeno due a |questo drone di comando, per renderle sicure e completare la missione. Buona fortuna."
+[IND03_BRIEFING_DM_PARTB_12]
+Text="Attenzione. Le celle di memoria sono fragili e durano poco una volta estratte dal loro terminale. |La migliore politica è la cooperazione. Infine, fa attenzione alle Upsilon Force che difendono |il posto: sono forti, efficienti e hanno licenza di uccidere. Buona fortuna."
+[IND03_BRIEFING_DM_PARTB_13]
+Text="La tua missione è infiltrarti furtivamente nel complesso per entrare nei terminali e sbloccarli |(per fare questo, ci vogliono pochi secondi). Neutralizzando un terminale, si sbloccano |TUTTI gli altri."
+[IND03_BRIEFING_DM_PARTB_14]
+Text="Una volta neutralizzati, ruba le celle di memoria che contengono e portane almeno due a |questo drone di comando, per renderle sicure e completare la missione. Buona fortuna."
+[IND03_BRIEFING_DM_PARTB_15]
+Text="Attenzione. Le celle di memoria sono fragili e durano poco una volta estratte dal loro terminale.| La migliore politica è la cooperazione. Infine, fa attenzione alle Upsilon Force che difendono |il posto: sono forti, efficienti e hanno licenza di uccidere. Buona fortuna."
+[IND03_BRIEFING_DM_PARTB_16]
+Text="Perché questa operazione passi inosservata occorrono la massima velocità ed efficienza. |Devi fare tutto quanto è in tuo potere per completare la missione il più velocemente possibile."
+[IND03_BRIEFING_DM_PARTB_17]
+Text="La tua missione è infiltrarti furtivamente nel complesso per entrare nei terminali e sbloccarli |(per fare questo, ci vogliono pochi secondi). Neutralizzando un terminale, si sbloccano |TUTTI gli altri."
+[IND03_BRIEFING_DM_PARTB_18]
+Text="Una volta neutralizzati, ruba le celle di memoria che contengono e portane almeno due a questo| drone di comando, per renderle sicure e completare la missione. Buona fortuna."
+[IND03_BRIEFING_DM_PARTB_19]
+Text="Attenzione. Le celle di memoria sono fragili e durano poco una volta estratte dal loro terminale. |La migliore politica è la cooperazione. Infine, fa attenzione alle Upsilon Force che difendono| il posto: sono forti, efficienti e hanno licenza di uccidere. Buona fortuna."
+[IND03_BRIEFING_DM_PARTB_20]
+Text="Perché questa operazione passi inosservata devi anche eliminare ogni prova del tuo intervento. |Elimina tutte le forze difensive segnate sulla mappa."
+[IND03_BRIEFING_DM_PARTB_21]
+Text="La tua missione è infiltrarti furtivamente nel complesso per entrare nei terminali e sbloccarli |(per fare questo, ci vogliono pochi secondi). Neutralizzando un terminale, si sbloccano |TUTTI gli altri."
+[IND03_BRIEFING_DM_PARTB_22]
+Text="Una volta neutralizzati, ruba le celle di memoria che contengono e portane almeno due a |questo drone di comando, per renderle sicure e completare la missione. Buona fortuna."
+[IND03_BRIEFING_DM_PARTB_23]
+Text="Attenzione. Le celle di memoria sono fragili e durano poco una volta estratte dal loro terminale. |La migliore politica è la cooperazione. Infine, fa attenzione alle Upsilon Force che difendono |il posto: sono forti, efficienti e hanno licenza di uccidere. Buona fortuna."
+[IND03_BRIEFING_DM_PARTB_24]
+Text="Questa operazione è altamente riservata. Se uno dei tuoi compagni viene scoperto da |una guardia o da un dispositivo di sicurezza, saremo costretti ad annullare la missione."
+[IND03_BRIEFING_DM_PARTB_25]
+Text="Più celle abbiamo, più informazioni otteniamo, e più sapremo sui loro agenti infiltrati."
+[IND03_BRIEFING_DM_VERSUS_01]
+Text="Muovetevi, signori! Trovate i terminali e sbloccateli!"
+[IND03_BRIEFING_DM_VERSUS_02]
+Text="Terminali sbloccati. Trovate le celle di memoria e portatele a questo drone per renderle sicure."
+[IND03_BRIEFING_DM_VERSUS_03]
+Text="Tenete duro, ragazzi! Ancora una cella di memoria, e la missione è compiuta."
+[IND03_BRIEFING_DM_SCORE_01]
+Text="Muovetevi, signori! Trovate i terminali e sbloccateli!"
+[IND03_BRIEFING_DM_SCORE_02]
+Text="Terminali sbloccati. Trovate le celle di memoria e portatele a questo drone per renderle sicure."
+[IND03_BRIEFING_DM_SCORE_03]
+Text="Tenete duro, ragazzi! Ancora una cella di memoria, e la missione è compiuta."
+[IND03_BRIEFING_DM_INFILT]
+Text="Muovetevi, signori! Trovate i terminali e sbloccateli!"
+[IND03_BRIEFING_DM_EXFILT]
+Text="Rubate le celle e portatele a questo drone per renderle sicure."
+[IND03_BRIEFING_DM_NOD_01]
+Text="Muovetevi, signori! Trovate i terminali e sbloccateli!"
+[IND03_BRIEFING_DM_NOD_02]
+Text="Terminali sbloccati. Trovate le celle di memoria e portatele a questo drone per renderle sicure."
+[IND03_BRIEFING_DM_NOD_03]
+Text="Tenete duro, ragazzi! Ancora una cella di memoria, e la missione è compiuta."
+[IND03_BRIEFING_DM_TA_01]
+Text="Muovetevi, signori! Trovate i terminali e sbloccateli!"
+[IND03_BRIEFING_DM_TA_02]
+Text="Terminali sbloccati. Trovate le celle di memoria e portatele a questo drone per renderle sicure."
+[IND03_BRIEFING_DM_TA_03]
+Text="Tenete duro, ragazzi! Ancora una cella di memoria, e la missione è compiuta."
+[IND03_BRIEFING_DM_TK_01]
+Text="Muovetevi, signori! Trovate i terminali e sbloccateli!"
+[IND03_BRIEFING_DM_TK_02]
+Text="Terminali sbloccati. Trovate le celle di memoria e portatele a questo drone per renderle sicure."
+[IND03_BRIEFING_DM_TK_03]
+Text="Tenete duro, ragazzi! Ancora una cella di memoria, e la missione è compiuta."
+[IND03_BRIEFING_DM_NDET_01]
+Text="Muovetevi, signori! Trovate i terminali e sbloccateli!"
+[IND03_BRIEFING_DM_NDET_02]
+Text="Terminali sbloccati. Trovate le celle di memoria e portatele a questo drone per renderle sicure."
+[IND03_BRIEFING_DM_NDET_03]
+Text="Tenete duro, ragazzi! Ancora una cella di memoria, e la missione è compiuta."
+[IND03_BRIEFING_DM_PARTB_01]
+Text="La tua missione è infiltrarti furtivamente nel complesso per entrare nei terminali e sbloccarli |(per fare questo, ci vogliono pochi secondi). Neutralizzando un terminale, si sbloccano |TUTTI gli altri."

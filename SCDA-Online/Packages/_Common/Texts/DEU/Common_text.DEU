@@ -1,0 +1,202 @@
+[Common_DEFAULT]
+Text="Standard"
+[Common_TEAM0]
+Text="Spione"
+[Common_TEAM1]
+Text="Upsilon"
+[Common_TOOLTIP_NOUSENIGHTVISION]
+Text="Drücken Sie \\c, um Ihr Nachtsichtgerät einzusetzen!"
+[Common_TOOLTIP_NOUSEHEATVISION]
+Text="Drücken Sie \\d, um Ihr Wärmebildgerät einzusetzen!"
+[Common_TOOLTIP_NOUSEOBSCURITYANDHYPERCROUCH]
+Text="Seien Sie nicht so laut! Nutzen Sie die räumlichen Gegebenheiten aus."
+[Common_TOOLTIP_TOOFAST]
+Text="Bewegen Sie sich langsamer, dann sind Sie leiser!"
+[Common_TOOLTIP_NOJUMP]
+Text="Drücken Sie \\a, um zu springen und zu klettern!"
+[Common_KILLCAM_UFWEAPON_KILL]
+Text=" hat Sie mit seiner Waffe erledigt."
+[Common_KILLCAM_UFSNIPE_KILL]
+Text=" hat Sie mit einem gezielten Schuss erledigt."
+[Common_KILLCAM_UFDRONE_KILL]
+Text=" hat Sie mit einer Drohne in die Luft gejagt."
+[Common_KILLCAM_UFGRENADE_KILL]
+Text=""
+[Common_KILLCAM_SPGRAB_KILL]
+Text=" hat Sie gepackt."
+[Common_KILLCAM_UFDRONE_SUICIDE]
+Text="Sie haben sich mit Ihrer eigenen Drohne umgelegt!"
+[Common_KILLCAM_UFGRENADE_SUICIDE]
+Text="Sie haben sich mit Ihrer eigenen Granate in die Luft gejagt!"
+[Common_KILLCAM_VISION_EMF]
+Text=" hatte die EMF-Sicht aktiviert."
+[Common_KILLCAM_VISION_MTV]
+Text=" hatte die Bewegungssicht aktiviert."
+[Common_KILLCAM_VISION_HEAT]
+Text=" hatte das Wärmebild aktiviert."
+[Common_KILLCAM_VISION_NIGHT]
+Text=" hatte die Nachtsicht aktiviert."
+[Common_TOOLTIP_ALT1NOUSEGADGETALERT]
+Text="Drücken Sie \\j, um das gewählte Gerät einzusetzen!"
+[Common_TOOLTIP_NOUSESTRATEGICMAP]
+Text="Drücken Sie \\p, um Ihre strategische Karte einzusetzen!"
+[Common_TOOLTIP_HACK_TERMINAL]
+Text="Drücken Sie \\i, um sich in ein Terminal zu hacken."
+[Common_TOOLTIP_ECC_PROXIMITY]
+Text="Durch Hacken des Generators können Sie Lampen und Verteidigung eines Bereichs deaktivieren."
+[Common_TOOLTIP_SMOKE_GRENADE]
+Text="Mit diesen Granaten legen Sie Nebelwände. \\j drücken, um eine Granate vor Ihre Füße zu werfen."
+[Common_LOADINGSCREEN_BACK_TO_LOBBY]
+Text="Lobby wird geladen"
+[Common_LOADINGSCREEN_LOADING_MAP]
+Text="%s wird geladen"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_01]
+Text="Grundlegende Steuerelemente"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_02]
+Text="Hacking-Gerät"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_03]
+Text="Einsatzziele"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_04]
+Text="Bewegungsmelder"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_05]
+Text="Fluchtbewegungen"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_06]
+Text="Nahaktionen"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_07]
+Text="Anzeigekonfiguration"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_08]
+Text="Geräte"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_09]
+Text="Tipps"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_10]
+Text="Hauptstromgenerator"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_01]
+Text="Grundlegende Steuerelemente"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_02]
+Text="Bewegungsmelder"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_03]
+Text="Einsatzziele"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_04]
+Text="Verfolgungssysteme"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_05]
+Text="Nahaktionen"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_06]
+Text="Anzeigekonfiguration"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_07]
+Text="Geräte der Upsilon Force"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_08]
+Text="Tipps"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_09]
+Text="Hauptstromgenerator"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_01]
+Text="Mit Ihrem Charakter können Sie verschiedene und manchmal|akrobatische Bewegungen ausführen, z. B. springen,|in die Hocke gehen, eine Rolle ausführen usw.||Bewegen: \\q, \\r, \\s, \\t|Springen: \\a|Ducken / Aufstehen / Rolle: \\b|Kameraperspektive ändern: Maus"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_02]
+Text="Am Unterarm tragen Sie ein Remote-|Hacking-System. Damit können|Sie Informationen von einem Terminal|herunterladen, Lichter ausschalten|oder Glasscheiben zerstören.||Hacking-System verwenden: \\k|Hacking-System aktivieren: \\i"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_03]
+Text="Ziel Ihres Einsatzes ist es, zwei|komplette Dateien herunterzuladen|und in der Steuerdrohne zu sichern.|Sie müssen den Abschnitt|infiltrieren und sich dem|Einsatzziel nähern. Laden Sie|Dann mithilfe des Hacking-Geräts|die Informationen herunter und|erlangen eine komplette Datei.|Diese Datei bringen Sie|anschließend zur Steuerdrohne."
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_04]
+Text="Ihre Feinde verfügen über einen|leistungsstarken|Bewegungsmelder: Sobald Sie|weniger als 10m von ihnen entfernt|sind, erscheint auf ihrem HUD ein|Echo, dass sie auf Ihre Gegenwart||aufmerksam macht. Je näher Sie|kommen, desto stärker wird das||Signal. Zu Ihrer Hilfe werden Sie|im Fall einer solchen Ortung durch|ein Herzschlagecho gewarnt."
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_05]
+Text="Ihr umfangreiches Training hat Sie|zu einem Hochleistungsathleten|und ausgezeichneten Akrobaten|gemacht.Deshalb verfügen Sie|über bestimmte Fluchtbewegungen,|um kritischen Situationen zu|entkommen.||Akrobatische Fluchtbewegung|ausführen: \\g"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_06]
+Text="Versuchen Sie nicht, einem Mitglied|der Upsilon Force von vorn|gegenüberzutreten: Bei seiner|Feuerkraft hätten Sie bald das|Nachsehen. Sie können jedoch|versuchen, den Gegner|bewegungsunfähig zu machen,|indem Sie auf ihn springen. Eine|weitere Möglichkeit besteht darin,|sich ihm von hinten zu nähern,|ihn zu packen und ihm das Genick|zu brechen. Sie können ein Mitglied|der Upsilon Force auch eliminieren,|wenn Sie an einem Geländer hängen.||Einen Feind von hinten packen: \\i|Genick brechen: \\i|Vom Geländer aus angreifen: \\i"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_07]
+Text="Der Bildschirm ist in vier Bereiche|unterteilt.|- Oben links: Karte des Spiels. F5|- Unten links: Spielmeldungen. F6|- Unten rechts: Lebensanzeige und|Ausrüstung. F7|- Oben rechts: Namen|und Punktestände der Spione. F8"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_08]
+Text="Sie können immer nur ein Gerät|verwenden. Um Geräte zu wechseln,|verwenden Sie den Schrank am|Absetzpunkt. Wenn Sie das Gerät|wählen, über das Sie bereits verfügen|wird es wieder aufgeladen.||Gerät verwenden: \\j|Schrank verwenden: \\i"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_09]
+Text="Hier einige nützliche Strategien:|- Laden Sie keine Informationen|ohne Deckung herunter.|- Seien Sie nicht zu gierig: Es ist|besser, wenige Informationen|auf einmal herunterzuladen und|zwischen Einsatzzielen zu wechseln.|- Spielen Sie teamorientiert:|Koordinierte Angriffe erhöhen Stärke und Erfolgschance.|- Möglichst nicht rennen."
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_10]
+Text="Einige Karten enthalten einen|Hauptgenerator: Alle Lampen|und Türschlösser sind mit ihm|verbunden. Sie können ihn mit|dem Hacking-Gerät hacken.|Dadurch werden alle verbundenen|Systeme GLEICHZEITIG|heruntergefahren. Die Upsilon|Forces können den Generator|neu starten."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_01]
+Text="Mit Ihrer Figur können Sie|verschiedene Bewegungen|ausführen, z. B. springen, in die|Hocke gehen usw. Sie können|auch Geschosse oder Granaten mit|Ihrer Waffe abfeuern. Die Anzahl|der Kugeln in einem Magazin ist|begrenzt, nicht aber die Anzahl der|Magazine. Vergessen Sie nicht,|rechtzeitig nachzuladen.|Springen: \\A|Hinhocken / Aufstehen: \\B|Waffe nachladen: \\M"
+[Common_LOADINGSCREEN_LOADING_UF_DESC_02]
+Text="Sie besitzen einen leistungsstarken|Bewegungsmelder: Sobald Sie|weniger als 10m von einem|Eindringling entfernt sind|wird ein optisches Echo auf Ihrem|HUD angezeigt und es ertönt ein|Signal. Je näher der Eindringling|kommt, desto stärker wird es.|Beachten Sie, dass die|Eindringlinge wissen, wenn|sie geortet werden."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_03]
+Text="Ihre Aufgabe ist es, die|Eindringlinge daran zu hindern,|zwei Dateien herunterzuladen. Die|Spione verfügen über ferngesteuerte|Hacking-Geräte: Wenn ein Terminal|angegriffen wird, suchen Sie den|Gegner in dessen Nähe. Falls ein|Eindringling eine Datei|Herunterladen konnte, folgen Sie|ihm und neutralisieren ihn."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_04]
+Text="Sie besitzen verschiedene Hilfsmittel|Ein sich schnell bewegender|Eindringling wird auf Ihrem HUD|mit einer weißen Kontur angezeigt.|EMF-Sicht: Mit dieser Sicht können|Sie elektromagnetische Wellen orten,|die von elektronischen Geräten|ausgehen, und Eindringlinge|aufspüren, die ein Gerät|verwenden oder etwas herunterladen|Taschenlampe."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_05]
+Text="Neben Ihrer Waffe und Ihren Geräten|verfügen Sie über Nahkampfaktionen,|mit deren Hilfe Sie Gegnern Schaden|zufügen können. Wenn ein Spion Ihnen|etwas zu nahe kommt, können Sie|versuchen, ihn mit einer Drehbewegung|zu Boden zu werfen: \\N|Spion am Boden und töten:|\\I zweimal hintereinander|Rennen: \\G|Haken verwenden: \\I in der|Nähe eines Geländers"
+[Common_LOADINGSCREEN_LOADING_UF_DESC_06]
+Text="Der Spielbildschirm ist in vier|Bereiche unterteilt:|Oben links befindet sich die Karte.|Unten links die Spielmeldungen.|Unten rechts Ausrüstung.|Oben rechts Namen und Punktestände|der Spieler sowie der|Gesamtpunktestand.|Sie können jeden HUD-Bereich im|Menü "Optionen" aktivieren bzw.|deaktivieren."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_07]
+Text="Sie können während einer Sitzung|immer nur ein Gerät verwenden.|Um Geräte zu wechseln, verwenden.|Sie den Schrank am Absetzpunkt.|Wenn Sie das Gerät wählen, über|das Sie bereits verfügen, wird es|wieder aufgeladen.||Schrank verwenden: \\I|Drohne sprengen: \\I"
+[Common_LOADINGSCREEN_LOADING_UF_DESC_08]
+Text="Ihre Aufgabe ist es, die Terminals|zu schützen und Eindringlinge|daran zu hindern, zwei Dateien|zu stehlen. Hier einige Strategien:|Schwärmen Sie aus und|kommunizieren Sie. Denken Sie|daran, Ihre Geräte zu verwenden,|um Eindringlinge aufzuspüren.|Wenn eine Datei gestohlen wurde,|überprüfen Sie die Fluchtwege."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_09]
+Text="Auf bestimmten Karten finden Sie|einen Hauptgenerator: Alle Lampen|und Türschlosssteuerungen sind mit|ihm verbunden. ACHTUNG: Die|Eindringlinge können das System|mit ihrem Hacking-System hacken.|Wenn das geschieht, sind alle mit|diesem Generator verbundenen|Systeme abgeschaltet. In diesem|Fall können Sie zum Generator|gehen und ihn neu starten.|Generator neu starten: \\I"
+[Common_TOOLTIP_DETECTED_NEW]
+Text="Vorsicht! Es ist ein Feind in der Nähe. Er kann Sie orten. Sie sollten besser fliehen, er ist wirklich stark!"
+[Common_ALL_BACK_TO_MENU]
+Text="Menü wird geladen"
+[Common_TOOLTIPS_NEW_001]
+Text="Sie können ein Terminal auf 10m Entfernung hacken. Je dichter Sie sind desto schneller der Download."
+[Common_TOOLTIPS_NEW_002]
+Text="Sie können eine Datei an einem Terminal herunterladen oder an einem anderen Terminal wieder aufnehmen."
+[Common_KILLCAM_PLAYER_SUICIDE]
+Text=" hat Selbstmord begangen"
+[Common_KILLCAM_UFMINE_KILL]
+Text=" hat Sie mit einer Mine in die Luft gejagt."
+[Common_TOOLTIP_STICKY_CAMERA]
+Text=""
+[Common_TOOLTIP_MINEPROXIMITY]
+Text="Achtung:Mine voraus! "
+[Common_TOOLTIP_CAMERA_PROXIMITY]
+Text="Achtung: Kamera voraus! Sie könnten von ihr erfasst werden!"
+[Common_TOOLTIP_LASER_PROXIMITY]
+Text="Achtung: Da ist ein Laser! Sie können ihn mit Ihrer Waffe deaktivieren!"
+[Common_TOOLTIP_QUIETALERT]
+Text="Sie wurden von Bots entdeckt. Nutzen Sie die Dunkelheit zu Ihrem Vorteil!"
+[Common_TOOLTIP_NOUSEGADGETALERT]
+Text=""
+[Common_TOOLTIP_NOCHANGEGADGET]
+Text=""
+[Common_TOOLTIP_MARQUED]
+Text="Warnung: Sie wurden von Ihren Gegnern markiert. Sie könnten Sie entdecken! "
+[Common_TOOLTIP_NOUSETAZER]
+Text=""
+[Common_TOOLTIP_NOUSEZOOM]
+Text=""
+[Common_TOOLTIP_GUNTOOLONG]
+Text=""
+[Common_KILLCAM_SPPOISON_KILL]
+Text="Sie wurden vergiftet."
+[Common_KILLCAM_UFMINE_SUICIDE]
+Text="Sie haben sich mit Ihrer eigenen Mine getötet! Passen Sie beim nächsten Mal auf, wo Sie hintreten, und merken Sie sich |die Position Ihrer Minen!"
+[Common_TOOLTIP_QUIETALERT2]
+Text="Sie wurden von Bots entdeckt! Sie haben zu viel Lärm gemacht!"
+[Common_TOOLTIP_NOGUNENERGY]
+Text="Ihre Waffe hat keine Energie mehr! Warten Sie, bis sie nachgeladen ist!"
+[Common_TOOLTIP_AIDE_DESTR_FLAG]
+Text="Bewegen Sie sich langsamer, sonst erhitzt und zerstört sich die Speicherzelle."
+[Common_TOOLTIP_AIDE_PASSE_FLAG]
+Text=""
+[Common_TOOLTIP_FLAG_DESTR_ALERT]
+Text="Auf dem Boden liegt eine Speicherzelle: Sie wird sich selbst zerstören."
+[Common_TOOLTIP_MOUV_COOP]
+Text=""
+[Common_TOOLTIP_SPY_BULLET]
+Text=""
+[Common_TOOLTIP_EMP_BULLET]
+Text=""
+[Common_TOOLTIP_WIFI_MODEM]
+Text=""
+[Common_TOOLTIP_POISON_BULLET]
+Text=""
+[Common_TOOLTIP_CAMO_SUIT]
+Text=""
+[Common_TOOLTIP_MARKER]
+Text=""
+[Common_TOOLTIP_DRONE_NEW_VIDEO]
+Text=""
+[Common_LOADINGSCREEN_TOOLTIPS_SPY01_TITLE]
+Text="Infiltrations-Team 01"
+[Common_LOADINGSCREEN_TOOLTIPS_MERC01_TITLE]
+Text="Upsilon Force 01"
+[Common_LOADINGSCREEN_TOOLTIPS_SPY01_TEXT]
+Text="Mit dem Hacking-Gerät können Sie Dateien herunterladen.||Wenn Sie sich in weniger als 10m Entfernung von einem Terminal befinden, ziehen und halten Sie den rechten Schalter und drücken \\2, um den Download zu beginnen.||Mit diesem Gerät können Sie außerdem Lichter ausschalten, Fenster zerbrechen und Feinde hacken."
+[Common_LOADINGSCREEN_TOOLTIPS_MERC01_TEXT]
+Text="Damit Sie Feinde besser aufspüren können sind Sie mit einem Bewegungsmelder ausgerüstet.||Er wird ausgelöst, wenn sich ein Feind weniger als 10m von Ihnen entfernt befindet.||Je lauter der Warnton und je stärker die Vibration, desto näher ist der Gegner."
+[Common_ALL_BACK_TO_LOBBY]
+Text=""

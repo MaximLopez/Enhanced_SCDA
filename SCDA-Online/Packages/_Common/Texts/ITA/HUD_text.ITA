@@ -1,0 +1,926 @@
+[HUD_INTERACTION_NONE]
+Text="Nessuna"
+[HUD_INTERACTION_GETLIFE]
+Text="Prendi vita"
+[HUD_INTERACTION_HACK]
+Text="Sabota"
+[HUD_INTERACTION_HACK_UF]
+Text="Neutralizza"
+[HUD_INTERACTION_PICKUP]
+Text="Raccogli"
+[HUD_INTERACTION_DISABLE]
+Text="Disattiva"
+[HUD_INTERACTION_REPAIR]
+Text="Ripara"
+[HUD_INTERACTION_PUSH]
+Text="Premi"
+[HUD_INTERACTION_SWITCHOFF]
+Text="Spegni"
+[HUD_INTERACTION_SWITCHON]
+Text="Accendi"
+[HUD_INTERACTION_TAKE]
+Text="Prendi"
+[HUD_INTERACTION_SWITCH]
+Text="Interruttore"
+[HUD_INTERACTION_OPEN]
+Text="Apri"
+[HUD_INTERACTION_CLOSE]
+Text="Chiudi"
+[HUD_INTERACTION_GIVELIFE]
+Text="Dai vita"
+[HUD_INTERACTION_DESTROY]
+Text="Distruggi"
+[HUD_CAISSEMATOS]
+Text="Munizioni"
+[HUD_ECC]
+Text="EEC"
+[HUD_GIVEGADGET]
+Text="Dai gadget"
+[HUD_HACKINGPANEL]
+Text="Quadro hacking"
+[HUD_HEALMATE]
+Text="Cura compagno"
+[HUD_MAINTAINEDPUSHBUTTON]
+Text="Pulsante"
+[HUD_INTERRUPTEUR]
+Text="Interruttore"
+[HUD_PUSHBUTTON]
+Text="Premi pulsante"
+[HUD_DRONE]
+Text="Drone"
+[HUD_MISSION]
+Text="Missione"
+[HUD_OBJECTIVE]
+Text="Obiettivo"
+[HUD_EXIT]
+Text="Esci"
+[HUD_STICKYCAM]
+Text="Stickycam"
+[HUD_MSGMERC_RA_TEXTALERT]
+Text="ATTENZIONE!"
+[HUD_MSGSPY_IN_GAME_14]
+Text="Un minuto a fine missione."
+[HUD_MSGSPY_IN_GAME_15]
+Text="Generatore principale neutralizzato"
+[HUD_MSGSPY_IN_GAME_16]
+Text="Generatore principale riavviato"
+[HUD_MSGSPY_IN_GAME_18]
+Text="Ultima vita!"
+[HUD_MSGSPY_IN_GAME_19]
+Text="Restano 2 vite."
+[HUD_MSGSPY_IN_GAME_20]
+Text="Restano 3 vite."
+[HUD_MSGSPY_IN_GAME_21]
+Text="Restano 4 vite."
+[HUD_MSGSPY_IN_GAME_22]
+Text="Restano 5 vite."
+[HUD_MSGSPY_IN_GAME_23]
+Text="Restano 6 vite."
+[HUD_MSGSPY_IN_GAME_24]
+Text="Restano 7 vite."
+[HUD_MSGSPY_IN_GAME_25]
+Text="Restano 8 vite."
+[HUD_MSGSPY_IN_GAME_26]
+Text="Restano 9 vite."
+[HUD_MSGSPY_IN_GAME_27]
+Text="Un compagno ha abbandonato la missione!"
+[HUD_MSGSPY_IN_GAME_29]
+Text="Missione completata: i 2 file sono stati rubati!"
+[HUD_MSGSPY_IN_GAME_32]
+Text="Missione fallita: nessun file è stato rubato."
+[HUD_MSGSPY_IN_GAME_33]
+Text="Missione fallita: solo 1 file è stato rubato."
+[HUD_MSGSPY_IN_GAME_36]
+Text="Missione fallita: tutta la squadra è morta..."
+[HUD_MSGMERC_IN_GAME_37]
+Text="Missione completata: nessun file è stato rubato!"
+[HUD_MSGMERC_IN_GAME_38]
+Text="Missione completata: solo 1 file è stato rubato!"
+[HUD_MSGMERC_IN_GAME_41]
+Text="Missione compiuta: tutti gli intrusi morti!"
+[HUD_MSGMERC_IN_GAME_43]
+Text="Missione fallita: 2 file sono stati rubati."
+[HUD_MSGSPY_IN_GAME_CH_02]
+Text="Missione compiuta"
+[HUD_MSGSPY_IN_GAME_CH_07]
+Text="Missione compiuta:|UPSILON FORCE annientata!"
+[HUD_MSGSPY_IN_GAME_CH_09]
+Text="Missione fallita"
+[HUD_INTERACTION_HELP_CH_04]
+Text="Sii più discreto: nasconditi nell'oscurità."
+[HUD_INTERACTION_HELP_CH_05]
+Text="Sii più discreto: fai meno rumore."
+[HUD_INTERACTION_HELP_CH_06]
+Text="Usa i tuoi gadget."
+[HUD_INTERACTION_HELP_CH_09]
+Text="Premi \\j per usare un gadget."
+[HUD_INTERACTION_HELP_CH_12]
+Text="Premi \\c per usare il visore notturno."
+[HUD_INTERACTION_HELP_CH_13]
+Text="Usa il visore termico per localizzare i nemici grazie al calore dei loro corpi."
+[HUD_INTERACTION_HELP_CH_14]
+Text="Sii più discreto: usa il terreno per nasconderti."
+[HUD_INTERACTION_HELP_CH_15]
+Text="Muoviti più lentamente per fare meno rumore!"
+[HUD_INTERACTION_HELP_CH_17]
+Text="Premi \\a per saltare e aggrapparti alle strutture."
+[HUD_MSGSPY_HELP_GADGET_SPY_3]
+Text="Quando esplodono, le granate fumogene creano una nuvola molto scura.|Poiché le sostanze chimiche usate sono caricate con piccole particelle magnetiche calde,|crea un'ostacolo visivo a tutti i visori."
+[HUD_MSGSPY_HELP_GADGET_UF_2]
+Text="Quest'arma è una tradizionale, quanto letale, granata che uccide chiunque,|amico o nemico, si trovi nel raggio dell'esplosione."
+[HUD_MSGMERC_HELP_GADGET_UF_5]
+Text="Questo drone è una specie di telecamera di sorveglianza volante controllabile.|Può essere usata per controllare percorsi inaccessibili.|Ha una carica di C4 incorporata che può essere fatta esplodere in qualunque momento."
+[HUD_MSGMERC_IN_GAME_NEW_013]
+Text="Difendere terminale!"
+[HUD_MSGMERC_IN_GAME_NEW_014]
+Text="Difendetelo!"
+[HUD_MSGMERC_IN_GAME_NEW_016]
+Text="Impeditegli di decodificarle!"
+[HUD_INTERACTION_IN_GAME_NEW_017]
+Text="SÌ!"
+[HUD_MSGMERC_IN_GAME_NEW_018]
+Text="Nemico eliminato!"
+[HUD_MSGMERC_IN_GAME_NEW_019]
+Text="Nemico ucciso!"
+[HUD_MSGMERC_IN_GAME_NEW_020]
+Text="Centrato!"
+[HUD_INTERACTION_IN_GAME_NEW_021]
+Text="Bel colpo!"
+[HUD_MSGMERC_IN_GAME_NEW_022]
+Text="Usate le granate!"
+[HUD_MSGMERC_IN_GAME_NEW_025]
+Text="Uilizza il visore EMF."
+[HUD_MSGMERC_IN_GAME_NEW_026]
+Text="Utilizza il mirino di precisione"
+[HUD_MSGMERC_IN_GAME_NEW_030]
+Text="Ricaricate le armi."
+[HUD_MSGMERC_IN_GAME_NEW_031]
+Text="Uccidetelo!"
+[HUD_INTERACTION_IN_GAME_NEW_032]
+Text="Guardate sulla mappa strategica dove sono i compagni!"
+[HUD_MSGMERC_IN_GAME_NEW_033]
+Text="Zona poco difesa: sparpagliatevi!"
+[HUD_INTERACTION_IN_GAME_NEW_034]
+Text="Lavoro di gruppo: curate i compagni."
+[HUD_INTERACTION_IN_GAME_NEW_035]
+Text="Bel gioco di squadra!"
+[HUD_INTERACTION_IN_GAME_NEW_036]
+Text="Incredibile! Che tecnica!"
+[HUD_INTERACTION_IN_GAME_NEW_037]
+Text="Vai così!"
+[HUD_INTERACTION_IN_GAME_NEW_038]
+Text="Perfetto!"
+[HUD_MSGSPY_IN_GAME_NEW_039]
+Text="Usa l'unità di hacking sulle luci per spegnerle."
+[HUD_MSGSPY_IN_GAME_NEW_044]
+Text="Concentrate l'attacco!"
+[HUD_MSGSPY_IN_GAME_NEW_045]
+Text="Ancora un altro file e la missione sarà completata."
+[HUD_INTERACTION_IN_GAME_NEW_048]
+Text="Un altro sforzo!"
+[HUD_INTERACTION_IN_GAME_NEW_049]
+Text="Via, via, via!"
+[HUD_MSGSPY_IN_GAME_NEW_050]
+Text="Discrezione…"
+[HUD_MSGSPY_IN_GAME_NEW_051]
+Text="Infiltrarsi."
+[HUD_MSGSPY_IN_GAME_NEW_052]
+Text="Nascondetevi."
+[HUD_MSGSPY_IN_GAME_NEW_053]
+Text="Muovetevi piano!"
+[HUD_MSGSPY_IN_GAME_NEW_054]
+Text="Non fate rumore!"
+[HUD_MSGSPY_IN_GAME_NEW_059]
+Text="Attenzione! Il nemico rileva l'energia emessa dalle lenti quando sono in modalità visore.|Attenti a usarle."
+[HUD_INTERACTION_IN_GAME_NEW_061]
+Text="Riprovate!"
+[HUD_INTERACTION_IN_GAME_NEW_062]
+Text="Terminale in vista."
+[HUD_MSGSPY_IN_GAME_NEW_064]
+Text="Sei caduto da troppo in alto."
+[HUD_MSGSPY_IN_GAME_NEW_065]
+Text="Prendilo e uccidilo!"
+[HUD_MSGSPY_IN_GAME_NEW_067]
+Text="Riporta i file al punto d'inserimento."
+[HUD_MSGSPY_IN_GAME_NEW_068]
+Text="Attacca i terminali!"
+[HUD_MSGSPY_IN_GAME_NEW_071]
+Text="Corri!"
+[HUD_MSGSPY_IN_GAME_NEW_073]
+Text="Nasconditi!"
+[HUD_MSGSPY_IN_GAME_NEW_074]
+Text="Forza l'interruttore della porta!"
+[HUD_MSGSPY_IN_GAME_NEW_075]
+Text="Bel nascondiglio!"
+[HUD_MSGSPY_IN_GAME_NEW_076]
+Text="Usa l'ambiente per nasconderti."
+[HUD_MSGSPY_IN_GAME_NEW_077]
+Text="Crea un diversivo: attacca vari terminali."
+[HUD_MSGSPY_IN_GAME_NEW_078]
+Text="Segui l'istinto."
+[HUD_INTERACTION_IN_GAME_NEW_079]
+Text="Usa i gadget."
+[HUD_INTERACTION_IN_GAME_NEW_080]
+Text="Usa i tuoi visori."
+[HUD_INTERACTION_IN_GAME_NEW_081]
+Text="Ben fatto! Vai così!"
+[HUD_INTERACTION_IN_GAME_NEW_082]
+Text="QUARTIER GENERALE"
+[HUD_INTERACTION_IN_GAME_NEW_083]
+Text="ZONA DETENTIVA"
+[HUD_INTERACTION_IN_GAME_NEW_084]
+Text="MAGAZZINO GIALLO"
+[HUD_INTERACTION_IN_GAME_NEW_085]
+Text="MAGAZZINO ROSSO"
+[HUD_INTERACTION_IN_GAME_NEW_086]
+Text="CAFFETTERIA"
+[HUD_INTERACTION_IN_GAME_NEW_087]
+Text="UFFICI"
+[HUD_INTERACTION_IN_GAME_NEW_088]
+Text="HANGAR"
+[HUD_INTERACTION_IN_GAME_NEW_089]
+Text="MAGAZZINO"
+[HUD_INTERACTION_IN_GAME_NEW_090]
+Text="CORTILE"
+[HUD_INTERACTION_IN_GAME_NEW_091]
+Text="ZONA DRINKING"
+[HUD_INTERACTION_IN_GAME_NEW_092]
+Text="ZONA DANCING"
+[HUD_INTERACTION_IN_GAME_NEW_093]
+Text="ZONA LIVING"
+[HUD_INTERACTION_IN_GAME_NEW_094]
+Text="ZONA AMMINISTRAZIONE"
+[HUD_INTERACTION_IN_GAME_NEW_095]
+Text="PIANO TERRA"
+[HUD_INTERACTION_IN_GAME_NEW_096]
+Text="PRIMO PIANO"
+[HUD_INTERACTION_IN_GAME_NEW_097]
+Text="MOLI"
+[HUD_INTERACTION_IN_GAME_NEW_098]
+Text="STOCCAGGIO"
+[HUD_INTERACTION_IN_GAME_NEW_099]
+Text="SALA DI MONTAGGIO"
+[HUD_INTERACTION_IN_GAME_NEW_100]
+Text="CORTILE"
+[HUD_INTERACTION_IN_GAME_NEW_101]
+Text="BACINO DI CARENAGGIO"
+[HUD_INTERACTION_IN_GAME_NEW_102]
+Text="DORMITORIO"
+[HUD_INTERACTION_IN_GAME_NEW_103]
+Text="SALA MOTORI"
+[HUD_INTERACTION_IN_GAME_NEW_104]
+Text="SALA TECNOLOGIE"
+[HUD_INTERACTION_IN_GAME_NEW_105]
+Text="ESTERNO"
+[HUD_INTERACTION_IN_GAME_NEW_106]
+Text="SMONTAGGIO"
+[HUD_INTERACTION_IN_GAME_NEW_107]
+Text="CELLA FRIGORIFERA"
+[HUD_INTERACTION_IN_GAME_NEW_108]
+Text="MANUTENZIONE"
+[HUD_GAMEMESSAGE_DEATH1]
+Text="%s ha ucciso %s"
+[HUD_GAMEMESSAGE_DEATH2]
+Text="Hai ucciso %s"
+[HUD_GAMEMESSAGE_DEATH3]
+Text="%s si è suicidato"
+[HUD_GAMEMESSAGE_DEATH4]
+Text="%s ha afferrato e ucciso %s"
+[HUD_GAMEMESSAGE_DEATH5]
+Text="%s è morto soffocato"
+[HUD_GAMEMESSAGE_DEATH6]
+Text="%s è saltato sopra a %s e l'ha ucciso"
+[HUD_GAMEMESSAGE_GEN1]
+Text="%s ha abbandonato la partita"
+[HUD_GAMEMESSAGE_GEN2]
+Text="%s è entrato nella partita"
+[HUD_MSGMERC_SNIPE_SHOOT]
+Text="\\K Spara"
+[HUD_MSGMERC_EMF_VISION]
+Text="\\D Attiva/disattiva il visore EMF"
+[HUD_INTERACTION_QUIT]
+Text="\\Q Esce"
+[HUD_INTERACTION_ZOOM]
+Text="\Zu Zoom + \Zd Zoom -"
+[HUD_MSGMERC_DRONE_UP]
+Text="\\S Spingi su"
+[HUD_MSGMERC_DRONE_DOWN]
+Text="\\T Spingi giù"
+[HUD_MSGMERC_DRONE_MOVE]
+Text="\\L Spinta frontale / laterale"
+[HUD_MSGMERC_DRONE_TURN]
+Text="\\R Rotazione"
+[HUD_MSGMERC_DRONE_BOOM]
+Text="\\R Autodistruzione"
+[HUD_MSGSPY_NIGHT_VISION]
+Text="\\c Attiva/disattiva il visore notturno"
+[HUD_MSGSPY_THERMAL_VISION]
+Text="\\d Attiva/disattiva il visore termico"
+[HUD_INTERACTION_KILLCAM_KILLER]
+Text="\Zl: Passa alla posizione dell'uccisore"
+[HUD_INTERACTION_KILLCAM_VICTIM]
+Text="\Zl: Passa alla posizione della vittima"
+[HUD_INTERACTION_KILLCAM_QUIT_SPEC]
+Text="\Zr: Esci dalla TELECAMERA MORTE e passa alla modalità Spettatore"
+[HUD_INTERACTION_KILLCAM_QUIT_PLAY]
+Text="\Zr: Esci dalla TELECAMERA MORTE e gioca"
+[HUD_INTERACTION_KILLCAM_SOMEONE]
+Text="Qualcuno"
+[HUD_INTERACTION_KILLCAM_UNKNOWN_KILL]
+Text="Uccisione ignota"
+[HUD_INTERACTION_SPEC_MODE_RESPAWN]
+Text="Rinasce tra:"
+[HUD_INTERACTION_SPEC_MOD_VIEWING]
+Text="Telecamera su:"
+[HUD_INTERACTION_SPEC_MOD_NO_ONE]
+Text="Nessuna"
+[HUD_INTERACTION_SPEC_MOD_NO_LIVES]
+Text="Nessuna vita rimasta"
+[HUD_INTERACTION_MINIMAP_QUIT]
+Text="\\p Aprire o chiudere la mappa strategica"
+[HUD_INTERACTION_LOADING]
+Text="_// Caricamento..."
+[HUD_INTERACTION_WAITING]
+Text="In attesa dei giocatori"
+[HUD_INTERACTION_ZOOM_STICKYCAM]
+Text="\\H: Zoom + \\I: Zoom -"
+[HUD_GADGET_DRONE_STATUS_1]
+Text="Portata: OK"
+[HUD_GADGET_DRONE_STATUS_2]
+Text="Portata critica"
+[HUD_GADGET_DRONE_STATUS_3]
+Text="Pericolo"
+[HUD_INTERACTION_MINIMAP]
+Text="Minimappa"
+[HUD_INTERACTION_CUBE_SPY_GADGETS]
+Text="Gadget"
+[HUD_INTERACTION_CUBE_SPY_HEALTH]
+Text="Salute"
+[HUD_INTERACTION_PYRAMIDE_MERC_GADGETS]
+Text="Gadget"
+[HUD_INTERACTION_PYRAMIDE_MERC_HEALTH]
+Text="Salute"
+[HUD_INTERACTION_IN_GAME_NEW_109]
+Text="TORRE DI CONTROLLO"
+[HUD_INTERACTION_IN_GAME_NEW_110]
+Text="File estratti:"
+[HUD_INTERACTION_IN_GAME_NEW_112]
+Text="Una spia ha un file completo!"
+[HUD_INTERACTION_IN_GAME_NEW_113]
+Text="Un file è stato estratto!"
+[HUD_MSGSPY_IN_GAME_NEW_114]
+Text="Trova e raggiungi un obiettivo."
+[HUD_MSGSPY_IN_GAME_NEW_115]
+Text="Scarica il 100% da uno dei terminali.|\\k: Attiva l'unità, mira al terminale,|\\i: Scarica il file."
+[HUD_MSGSPY_IN_GAME_NEW_115_bis]
+Text="Scarica le inform. da uno terminal.|\\k: Attiva l'unità, mira al terminale,|\\i: Scarica il file."
+[HUD_MSGSPY_IN_GAME_NEW_116]
+Text="Riporta questo file al drone di controllo che si trova al punto di inserimento."
+[HUD_MSGMERC_IN_GAME_NEW_117]
+Text="Gli intrusi sono entrati nella zona. Proteggi i terminali e difendi il tuo territorio."
+[HUD_MSGMERC_IN_GAME_NEW_118]
+Text="Un obiettivo è sotto attacco! Trova|l'intruso ed eliminalo prima che|scarichi il 100% del file."
+[HUD_MSGMERC_IN_GAME_NEW_118_bis]
+Text="Un obiettivo è sotto attacco! Trova l'intruso|ed eliminalo!"
+[HUD_MSGMERC_IN_GAME_NEW_119]
+Text="Parte del file è stata rubata: stai attento,|e impedisci agli intrusi di rubare il file|completo!"
+[HUD_MSGMERC_IN_GAME_NEW_120]
+Text="Trova l'intruso che ha rubato il file|e uccidilo prima che fugga!"
+[HUD_MSGMERC_IN_GAME_NEW_121]
+Text="Spia eliminata: file interamente distrutto!"
+[HUD_MSGMERC_IN_GAME_NEW_122]
+Text="Intrusione rilevata"
+[HUD_MSGSPY_IN_GAME_NEW_123]
+Text="Non sparare!"
+[HUD_MSGSPY_ZONE_SPAWN]
+Text="PUNTO DI INSERIMENTO"
+[HUD_MSGMERC_ZONE_SPAWN]
+Text="QG UPSILON"
+[HUD_INTERACTION_MINIMAP_SPY_SPAWN]
+Text="PUNTO DI INSERIMENTO"
+[HUD_INTERACTION_MINIMAP_UF_SPAWN]
+Text="BASE UPSILON FORCE"
+[HUD_INTERACTION_TRANSFER]
+Text="Trasferisci"
+[HUD_GAMEMESSAGE_UPSILONHACKEDBY]
+Text="%s ti ha sabotato"
+[HUD_INTERACTION_HOOK]
+Text="Aggancia"
+[HUD_INTERACTION_ZOOM_IN]
+Text="\Zu: ZOOM +"
+[HUD_INTERACTION_ZOOM_OUT]
+Text="\Zd: ZOOM -"
+[HUD_INTERACTION_NB_KILLS]
+Text="Numero di uccisioni"
+[HUD_INTERACTION_SPECTATINGVIEW_TOGGLEPLAYER]
+Text="\Zl Cambia giocatore"
+[HUD_INTERACTION_SWITCHTOPLAYERINFO]
+Text="End: Passa alle informazioni sul giocatore"
+[HUD_INTERACTION_SWITCHTOHISTORY]
+Text="Space: Passa allo storico dei messaggi"
+[HUD_INTERACTION_RELOADGADGET]
+Text="Apri il contenitore dei gadget"
+[HUD_INTERACTION_RETURN_TO_LOBBY]
+Text="\\8 Torna alla sala d'attesa"
+[HUD_INTERACTION_QUIT_SESSION]
+Text="Space: Fine partita"
+[HUD_INTERACTION_RETURN_TO_LOBBY_ASK]
+Text="Uscire dalla partita e tornare alla sala d'attesa?"
+[HUD_HEALTH_PACK]
+Text="Siringa"
+[HUD_BROUILLEUR]
+Text="Disturbatore"
+[HUD_OBJ_UNDER_ATTACK_RED]
+Text="Il terminale ROSSO è sotto attacco!"
+[HUD_OBJ_UNDER_ATTACK_GREEN]
+Text="Il terminale VERDE è sotto attacco!"
+[HUD_OBJ_UNDER_ATTACK_YELLOW]
+Text="Il terminale GIALLO è sotto attacco!"
+[HUD_MSGSPY_BRIEF_SHORT]
+Text="La tua missione è divisa in 3 fasi: infiltrati nella zona, scarica un file completo e portalo a questo drone. Hai bisogno di due file completi per completare la missione."
+[HUD_MSGUF_BRIEF_SHORT]
+Text="Devi impedire agli intrusi di inserirsi nei terminali e rubare due dei file che contengono. Se un intruso riesce a ottenere un file completo, trovalo e neutralizzalo."
+[HUD_TOOLTIP_PIPOGUN]
+Text="La tua unità di hacking ti permette di scaricare i file. Entro un raggio di 10 metri da un terminale, premi senza rilasciare \\k, mira e premi \\i per scaricare."
+[HUD_CHALLENGES_FEEDBACK_01]
+Text="Bene!"
+[HUD_CHALLENGES_FEEDBACK_02]
+Text="Grande!"
+[HUD_CHALLENGES_FEEDBACK_03]
+Text="Magnifico!"
+[HUD_CHALLENGES_FEEDBACK_04]
+Text="Impressionante!"
+[HUD_CHALLENGES_FEEDBACK_05]
+Text="Eccellente!"
+[HUD_CHALLENGES_FEEDBACK_06]
+Text="Incredibile!"
+[HUD_CHALLENGES_FEEDBACK_07]
+Text="Bonus combo"
+[HUD_CHALLENGES_FEEDBACK_08]
+Text="Assicura questo file per vincere!"
+[HUD_CHALLENGES_FEEDBACK_09]
+Text="%s ha assicurato un file!"
+[HUD_CHALLENGES_FEEDBACK_10]
+Text="Grande! Sei passato in testa!"
+[HUD_CHALLENGES_FEEDBACK_11]
+Text="Bel lavoro! Ancora un altro."
+[HUD_CHALLENGES_FEEDBACK_12]
+Text="Eccellente! Continua così!"
+[HUD_ERROR_IN_GAME_01]
+Text="Sei stato disconnesso da Demonware."
+[HUD_ERROR_IN_GAME_02]
+Text="L'host ha terminato la partita."
+[HUD_ERROR_IN_GAME_03]
+Text="Errore durante l'aggiornamento delle statistiche. Premi \Z1 o \Zl per continuare."
+[HUD_WRITE_STAT]
+Text="Scrittura statistiche in corso..."
+[HUD_WRITE_STAT_FINISH]
+Text="Statistiche salvate."
+[HUD_HOST_QUIT]
+Text="Tutti gli altri giocatori verranno fatti uscire dalla partita. Vuoi uscire?"
+[HUD_CLIENT_QUIT]
+Text="Vuoi uscire tornare al menu principale?"
+[HUD_HOST_QUIT_RK]
+Text="Tutti gli altri giocatori verranno espulsi dalla tua partita. Abbandonando questa partita verranno rimossi 500 punti dal tuo punteggio. Vuoi uscire?"
+[HUD_CLIENT_QUIT_RK]
+Text="Uscire dalla partita? Abbandonando questa partita verranno rimossi 500 punti dal tuo punteggio.  Vuoi uscire?"
+[HUD_HOST_QUIT_RK_SQUAD]
+Text="Tutti gli altri giocatori verranno espulsi dalla tua partita. Abbandonando questa partita verranno rimossi 500 punti dal tuo punteggio di SQUADRA.  Vuoi uscire?"
+[HUD_CLIENT_QUIT_RK_SQUAD]
+Text="Uscire dalla partita? Abbandonando questa partita verranno rimossi 500 punti dal tuo punteggio di SQUADRA.  Vuoi uscire?"
+[HUD_CONFIG_ACTIVE]
+Text="Attivo"
+[HUD_CONFIG_INACTIVE]
+Text="Inattivo"
+[HUD_CONFIG_TITLE]
+Text="Configurazione schermo di gioco"
+[HUD_CONFIG_MINIMAP]
+Text="Minimappa e zona attuale"
+[HUD_CONFIG_MINIMAP_OFF]
+Text="Disattiva minimappa"
+[HUD_CONFIG_PLAYERS]
+Text="Nome e situazione giocatore"
+[HUD_CONFIG_PLAYERS_OFF]
+Text="Disattiva visualizzazione giocatori"
+[HUD_CONFIG_LIFE]
+Text="Indicatore vita e informazioni gadget"
+[HUD_CONFIG_LIFE_OFF]
+Text="Disattiva informazioni gadget"
+[HUD_CONFIG_MESSAGES]
+Text="Messaggi di gioco"
+[HUD_CONFIG_MESSAGES_OFF]
+Text="Disattiva messaggi di gioco"
+[HUD_CONFIG_HELP]
+Text="Premi il pulsante corrispondente a ogni settore dello schermo per attivare o disattivare le informazioni visualizzate durante le partite."
+[HUD_GAMEMESSAGE_DEATH7]
+Text="%s è fuori gioco"
+[HUD_MSGMERC_IN_GAME_NEW_015]
+Text="Cercheranno di rubare le celle!"
+[HUD_MSGMERC_IN_GAME_NEW_023]
+Text="Usate le granate!"
+[HUD_MSGMERC_IN_GAME_NEW_024]
+Text="Il visore di movimento."
+[HUD_MSGMERC_IN_GAME_NEW_027]
+Text="Usate la torcia."
+[HUD_INTERACTION_IN_GAME_NEW_028]
+Text="Curatevi con i medikit."
+[HUD_MSGMERC_IN_GAME_NEW_029]
+Text="Prendete le munizioni!"
+[HUD_INTERACTION_IN_GAME_NEW_040]
+Text="Terminale 1 quasi sbloccato."
+[HUD_INTERACTION_IN_GAME_NEW_041]
+Text="Terminale 2 quasi sbloccato."
+[HUD_INTERACTION_IN_GAME_NEW_042]
+Text="Terminale 3 quasi sbloccato."
+[HUD_INTERACTION_IN_GAME_NEW_043]
+Text="Terminale 4 quasi sbloccato."
+[HUD_MSGSPY_IN_GAME_NEW_046]
+Text="Due celle di memoria e la missione è compiuta."
+[HUD_MSGSPY_IN_GAME_NEW_047]
+Text="Tre celle di memoria e la missione è compiuta."
+[HUD_MSGSPY_IN_GAME_NEW_055]
+Text="Attenzione! Telecamera!"
+[HUD_MSGSPY_IN_GAME_NEW_056]
+Text="Attenzione! Laser!"
+[HUD_MSGSPY_IN_GAME_NEW_057]
+Text="Disattivatela con le armi."
+[HUD_MSGSPY_IN_GAME_NEW_058]
+Text="Disattivateli con le armi."
+[HUD_MSGSPY_IN_GAME_NEW_060]
+Text="Usate il visore termico per localizzare le difese passive."
+[HUD_MSGSPY_IN_GAME_NEW_063]
+Text="Attento, ti hanno scoperto! Il nemico sa dove sei."
+[HUD_MSGSPY_IN_GAME_NEW_066]
+Text="Ruba le celle e riportale indietro!"
+[HUD_MSGSPY_IN_GAME_NEW_069]
+Text="Disattiva la mina!"
+[HUD_MSGSPY_IN_GAME_NEW_070]
+Text="Attento! La tua velocità innesca le mine!"
+[HUD_MSGSPY_IN_GAME_NEW_072]
+Text="Attento! La cella è instabile!"
+[HUD_MSGMERC_SNIPE_FOCUS]
+Text="\\7 Tieni premuto per concentrarti e ridurre il movimento"
+[HUD_MSGMERC_MVT_VISION]
+Text="\\Q Attiva/disattiva il visore di Movimento"
+[HUD_MSGSPY_S_CAM_GAZ]
+Text="\\9 Rilascia il gas"
+[HUD_MSGSPY_S_CAM_SHARE]
+Text="\\8 Condividi visuale"
+[HUD_MSGSPY_S_CAM_OK_SHARE]
+Text="\\U Consulta le telecamere"
+[HUD_MSGSPY_S_CAM_NEXT]
+Text="\\S Telecamera successiva"
+[HUD_MSGSPY_S_CAM_PREVIOUS]
+Text="\\Q Telecamera precedente"
+[HUD_MSGSPY_IN_GAME_ALL_FL_DEST]
+Text="Missione fallita: 3 celle di memoria sono state distrutte."
+[HUD_MSGMERC_IN_GAME_NO_TER_UNLO]
+Text="Missione compiuta : nessun terminale sbloccato…"
+[HUD_INTERACTION_MINIMAP_OBJ]
+Text="\\4 Attiva/disattiva i nomi degli obiettivi"
+[HUD_INTERACTION_MINIMAP_TEAM]
+Text="\\8 Attiva/disattiva la visualizzazione dei compagni di squadra"
+[HUD_INTERACTION_DEBUT_PARTIE]
+Text="1. Infiltrati nella zona,|2. Sblocca uno dei terminali,|3. Ruba le celle di memoria e riportale qui."
+[HUD_MSGSPY_S_CAM_NEXT_PREVIOUS]
+Text="\\U o \\D: cambia telecamera"
+[HUD_GAMEMESSAGE_TOOMANYMINES]
+Text="Raggiungo il numero massimo di MineRagno nella mappa"
+[HUD_GAMEMESSAGE_TOOMANYDRONES]
+Text="Raggiungo il numero massimo di Droni nella mappa"
+[HUD_GAMEMESSAGE_TOOMANYMINIDRONES]
+Text="Raggiunto il numero massimo di Minidroni nella mappa"
+[HUD_INTERACTION_INDICATEUR_COEQUIPIERS]
+Text="Indicatore compagno di squadra"
+[HUD_INTERACTION_INDICATEUR_OBJ]
+Text="Indicatore obiettivi"
+[HUD_INTERACTION_DETECTION_SONORE]
+Text="Rilevamento sonoro"
+[HUD_INTERACTION_CUBE_SPY_VISIBILITY]
+Text="Visibilità"
+[HUD_INTERACTION_PYRAMIDE_MERC_SPRINT]
+Text="Scatto"
+[HUD_GADGET_FLAGLAUNCHER]
+Text="Lancia-bandiera"
+[HUD_GAMEMESSAGE_RECEIVEDFLAG]
+Text="Hai ricevuto una bandiera"
+[HUD_INTERACTION_IN_GAME_NEW_111]
+Text="Sei stato rilevato"
+[HUD_INTERACTION_LOOKINGFOR]
+Text="Cerca"
+[HUD_INTERACTION_NOTHINGFOUND]
+Text="Trovato niente"
+[HUD_INTERACTION_BASH]
+Text="Sfonda porta"
+[HUD_INTERACTION_OPTICFIBER]
+Text="Usa fibra ottica"
+[HUD_MSGSPY_ALERT_OBJUNDERATTACK]
+Text="L'obiettivo %s è sotto attacco (spia)."
+[HUD_MSGMERC_ALERT_OBJUNDERATTACK]
+Text="L'obiettivo %s è sotto attacco (UPSILON)."
+[HUD_MSGSPY_ALERT_OBJHACKED]
+Text="L'obiettivo %s è stato forzato da %s (Spia)."
+[HUD_MSGMERC_ALERT_OBJHACKED]
+Text="L'obiettivo %s è stato forzato da %s (UPSILON)."
+[HUD_MSGSPY_ALERT_FLAGTAKEN]
+Text="La bandiera %s è stata catturata da %s (Spia)."
+[HUD_MSGMERC_ALERT_FLAGTAKEN]
+Text="La bandiera %s è stata catturata da %s (UPSILON)."
+[HUD_MSGSPY_ALERT_FLAGSECURED]
+Text="La bandiera %s è stata assicurata da %s (Spia)."
+[HUD_MSGMERC_ALERT_FLAGSECURED]
+Text="La bandiera %s è stata assicurata da %s (UPSILON)."
+[HUD_MSGSPY_ALERT_FLAGDESTROYTIME]
+Text="La bandiera %s è stata distrutta (tempo scaduto) (Spia)."
+[HUD_MSGMERC_ALERT_FLAGDESTROYTIME]
+Text="La bandiera %s è stata distrutta (tempo scaduto) (UPSILON)."
+[HUD_MSGSPY_ALERT_FLAGDESTROYACTION]
+Text="La bandiera %s è stata distrutta (azione UPSILON) (Spia)."
+[HUD_MSGMERC_ALERT_FLAGDESTROYACTION]
+Text="La bandiera %s è stata distrutta (azione UPSILON) (UPSILON)."
+[HUD_INTERACTION_GIVESTICKYCAM]
+Text="Dai stickycam"
+[HUD_INTERACTION_GIVEFLARE]
+Text="Dai flare"
+[HUD_INTERACTION_GIVESMOKE]
+Text="Dai fumogeno"
+[HUD_INTERACTION_GIVESPIDER]
+Text="Dai ragno"
+[HUD_INTERACTION_GIVEFRAG]
+Text="Dai granata"
+[HUD_MEDICALKIT]
+Text="Medikit"
+[HUD_MINE]
+Text="Mina"
+[HUD_INTERACTION_GIVEEMP]
+Text="Dai EMP"
+[HUD_INTERACTION_GIVESPYBULLET]
+Text="Dai proiettile spia"
+[HUD_INTERACTION_GIVEPOISONBULLET]
+Text="Dai proiettile avvelenato"
+[HUD_INTERACTION_GIVEDRONE]
+Text="Dai drone"
+[HUD_INTERACTION_GIVEMINIDRONE]
+Text="Dai mini-drone"
+[HUD_MSGSPY_ALERT_ECCHACKED]
+Text="L'EEC è stato forzato (Spia)."
+[HUD_MSGMERC_ALERT_ECCHACKED]
+Text="L'EEC è stato forzato (UPSILON)."
+[HUD_MSGSPY_ALERT_ECCREPAIRED]
+Text="L'EEC è stato riparato (Spia)."
+[HUD_MSGMERC_ALERT_ECCREPAIRED]
+Text="L'EEC è stato riparato (UPSILON)."
+[HUD_MSGSPY_GAME_STARTMATCH]
+Text="Avvia partita (Spia)."
+[HUD_MSGMERC_GAME_STARTMATCH]
+Text="Avvia partita (UPSILON)."
+[HUD_MSGSPY_GAME_CHANGEMODE]
+Text="Obiettivo neutralizzato - bandiere attive (Spia)."
+[HUD_MSGMERC_GAME_CHANGEMODE]
+Text="Obiettivo neutralizzato - bandiere attive (UPSILON)."
+[HUD_MSGSPY_GAME_END_FLAGSSECURED]
+Text="Game over: tutte le bandiere sono state assicurate (Spia)."
+[HUD_MSGMERC_GAME_END_FLAGSSECURED]
+Text="Game over: tutte le bandiere sono state assicurate (UPSILON)."
+[HUD_MSGSPY_GAME_END_TIMEOUT]
+Text="Game over: tempo scaduto (Spia)."
+[HUD_MSGMERC_GAME_END_TIMEOUT]
+Text="Game over: tempo scaduto (UPSILON)."
+[HUD_MSGSPY_VICTORY_SPY]
+Text="La squadra SPIA ha vinto (Spia)."
+[HUD_MSGMERC_VICTORY_SPY]
+Text="La squadra SPIA ha vinto (UPSILON)."
+[HUD_MSGSPY_VICTORY_UPSILON]
+Text="La squadra UPSILON ha vinto (Spia)."
+[HUD_MSGMERC_VICTORY_UPSILON]
+Text="La squadra UPSILON ha vinto (UPSILON)."
+[HUD_MSGSPY_DEFAULT]
+Text="Messaggio predefinito (Spia)."
+[HUD_MSGMERC_DEFAULT]
+Text="Messaggio predefinito (UPSILON)."
+[HUD_INTERACTION_SPY_BULLET]
+Text="Proiettile spia"
+[HUD_INTERACTION_DISABLE_SPY_BULLET]
+Text="Disattiva il proiettile spia."
+[HUD_INTERACTION_POISON_BULLET]
+Text="Proiettile avvelenato"
+[HUD_INTERACTION_WIFICONNECTION]
+Text="Connessione Wifi"
+[HUD_MSGSPY_IN_GAME_01]
+Text="Terminali sbloccati!"
+[HUD_MSGSPY_IN_GAME_02]
+Text="Cella 1 rubata!"
+[HUD_MSGSPY_IN_GAME_03]
+Text="Cella 2 rubata!"
+[HUD_MSGSPY_IN_GAME_04]
+Text="Cella 3 rubata!"
+[HUD_MSGSPY_IN_GAME_05]
+Text="Cella 4 rubata!"
+[HUD_MSGSPY_IN_GAME_06]
+Text="Cella 1 distrutta!"
+[HUD_MSGSPY_IN_GAME_07]
+Text="Cella 2 distrutta!"
+[HUD_MSGSPY_IN_GAME_08]
+Text="Cella 3 distrutta!"
+[HUD_MSGSPY_IN_GAME_09]
+Text="Cella 4 distrutta!"
+[HUD_MSGSPY_IN_GAME_10]
+Text="Cella 1 decodificata!"
+[HUD_MSGSPY_IN_GAME_11]
+Text="Cella 2 decodificata!"
+[HUD_MSGSPY_IN_GAME_12]
+Text="Cella 3 decodificata!"
+[HUD_MSGSPY_IN_GAME_13]
+Text="Cella 4 decodificata!"
+[HUD_MSGSPY_IN_GAME_17]
+Text="Compagno di squadra morto…"
+[HUD_MSGSPY_IN_GAME_28]
+Text="Missione compiuta: cella di memoria decodificata!"
+[HUD_MSGSPY_IN_GAME_30]
+Text="Missione compiuta: 3 celle di memoria decodificate!"
+[HUD_MSGSPY_IN_GAME_31]
+Text="Missione compiuta: 4 celle di memoria decodificate!"
+[HUD_MSGSPY_IN_GAME_34]
+Text="Missione fallita, 2 sole celle di memoria decodificate…"
+[HUD_MSGSPY_IN_GAME_35]
+Text="Missione fallita, 3 sole celle di memoria decodificate…"
+[HUD_MSGMERC_IN_GAME_39]
+Text="Missione compiuta, 2 sole celle decodificate!"
+[HUD_MSGMERC_IN_GAME_40]
+Text="Missione compiuta, 3 sole celle decodificate!"
+[HUD_MSGMERC_IN_GAME_42]
+Text="Missione fallita: cella di memoria decodificata…"
+[HUD_MSGMERC_IN_GAME_44]
+Text="Missione fallita: 3 celle di memoria decodificate…"
+[HUD_MSGMERC_IN_GAME_45]
+Text="Missione fallita: 4 celle di memoria decodificate…"
+[HUD_MSGSPY_IN_GAME_CH_01]
+Text="Missione compiuta: i quattro terminali sono sbloccati!"
+[HUD_MSGSPY_IN_GAME_CH_03]
+Text="%s si è introdotto in terminale %s."
+[HUD_MSGSPY_IN_GAME_CH_04]
+Text="ha decodificato l'ultima cella."
+[HUD_MSGSPY_IN_GAME_CH_05]
+Text="Missione compiuta, nessuna vittima!"
+[HUD_MSGSPY_IN_GAME_CH_06]
+Text="Missione compiuta in tempo!"
+[HUD_MSGSPY_IN_GAME_CH_08]
+Text="Missione compiuta senza innescare allarmi!"
+[HUD_MSGSPY_IN_GAME_CH_10]
+Text="Missione fallita: solo 1 terminale sbloccato…"
+[HUD_MSGSPY_IN_GAME_CH_11]
+Text="Missione fallita: solo 2 terminali sbloccati…"
+[HUD_MSGSPY_IN_GAME_CH_12]
+Text="Missione fallita: solo 3 terminali sbloccati…"
+[HUD_MSGSPY_IN_GAME_CH_13]
+Text="Missione fallita: un compagno è stato ucciso…"
+[HUD_MSGSPY_IN_GAME_CH_14]
+Text="Missione fallita: UPSILON FORCE non annientata…"
+[HUD_MSGSPY_IN_GAME_CH_15]
+Text="Missione fallita: un compagno è stato scoperto…"
+[HUD_INTERACTION_HELP_CH_01]
+Text="Attenzione! Una mina!"
+[HUD_INTERACTION_HELP_CH_02]
+Text="Attenzione! Una telecamera è vicina! Può rilevarti."
+[HUD_INTERACTION_HELP_CH_03]
+Text="Attenzione! Un laser! Disattivalo con il tazer."
+[HUD_INTERACTION_HELP_CH_07]
+Text="\\7 In modalità Arma, premi il grilletto S per usare un gadget."
+[HUD_INTERACTION_HELP_CH_08]
+Text="\\4 Estrai la tua arma."
+[HUD_INTERACTION_HELP_CH_10]
+Text="\\1 Premi senza rilasciare il grilletto."
+[HUD_INTERACTION_HELP_CH_11]
+Text="\\R Seleziona il gadget."
+[HUD_INTERACTION_HELP_CH_16]
+Text="Attenzione! Sei stato segnato dal nemico! Ora possono localizzarti, perciò nasconditi!"
+[HUD_INTERACTION_HELP_CH_18]
+Text=" Usa la tua arma per rallentare i nemici o per disattivare le difese.|\\4 per estrarre l'arma.|\\9 per sparare."
+[HUD_INTERACTION_HELP_CH_19]
+Text="\\4 Per riporre la tua arma: potrai muoverti più rapidamente."
+[HUD_INTERACTION_HELP_CH_20]
+Text="\\L In modalità Arma, clicca la levetta sinistra per attivare lo zoom e mirare con più precisione."
+[HUD_MSGSPY_HELP_GADGET_SPY_1]
+Text="I proiettile AVVELENATI sono come dei dardi avvelenati che possono disturbare la vista del nemico, rallentarlo o ucciderlo, a seconda del numero di proiettile che lo colpiscono:|- Con un colpo la sua vista si deteriora.|- Dopo il secondo colpo, si muove più lentamente.|- Dopo il terzo colpo, è ferito e morirà se non viene curato."
+[HUD_MSGSPY_HELP_GADGET_SPY_2]
+Text="Quando esplodono, i proiettili EMP creano un impulso elettromagnetico che disturba qualunque dispositivo elettronico o fonte di luce si trovi a portata dell'esplosione."
+[HUD_MSGSPY_HELP_GADGET_SPY_4]
+Text="Il modem WIFI è un modem ad alta velocità che ti permette di interagire con alcuni elementi (lucchetti, l'EEC, anche con nemici) senza essere fisicamente di fronte a essi."
+[HUD_MSGSPY_HELP_GADGET_SPY_5]
+Text="I proiettili Spia ti permettono di piazzare un segnalatore su un nemico per farlo apparire sull'interfaccia Realtà Alterata di tutti i membri della tua squadra."
+[HUD_MSGSPY_HELP_GADGET_SPY_6]
+Text="La stickycam è una telecamera di sorveglianza remota allo stato dell'arte. Ti permette di controllare le zone inaccessibili prima di raggiungerle. Può anche rilasciare una forte nuvola velenosa che influenzerà i soldati Upsilon a seconda del tempo che vi trascorrono a contatto (dal disturbo visivo alla contaminazione del sangue alla morte)."
+[HUD_MSGSPY_HELP_GADGET_SPY_7]
+Text="La tuta camaleonte è un prototipo di tuta mimetica che copia lo sfondo, creando l'illusione che chi la indossa sia invisibile. La tuta può funzionare quando chi la indossa sta con le spalle al muro. Poiché la sua tecnologia si basa sulla rifrazione della luce, dovrebbe essere usata in posti ben illuminati: più intensa è la luce, più efficiente è la tuta e più invisibile risulta chi la utilizza."
+[HUD_MSGSPY_HELP_GADGET_UF_1]
+Text="Questo dispositivo è una potente mina da muro. Quando viene innescata, proietta la sua carica esplosiva contro il nemico che l'ha attivata, infliggendo pesanti danni."
+[HUD_MSGMERC_HELP_GADGET_UF_3]
+Text="Questo gadget è un "bastoncino" che crea una fonte di luce aggiuntiva nel punto in cui atterra. È anche possibile tenerlo acceso in mano."
+[HUD_MSGMERC_HELP_GADGET_UF_4]
+Text="Questa torcia permette al giocatore di seguire le tracce di sangue e le impronte del nemico."
+[HUD_MSGMERC_HELP_GADGET_UF_6]
+Text="Questi droni sono piccole sfere di acciaio. Insieme, creano una zona di rilevamento. Quando un nemico entra in questa zona, le sfere cercano di raggiungerlo per segnarlo sull'interfaccia Realtà Alterata delle UPSILON FORCE."
+[HUD_INTERACTION_IN_GAME_NEW_001]
+Text="Terminale 1 sotto attacco."
+[HUD_INTERACTION_IN_GAME_NEW_002]
+Text="Terminale 1 sotto attacco."
+[HUD_INTERACTION_IN_GAME_NEW_003]
+Text="Numero 1 sotto attacco."
+[HUD_INTERACTION_IN_GAME_NEW_004]
+Text="Terminale 2 sotto attacco."
+[HUD_INTERACTION_IN_GAME_NEW_005]
+Text="Terminale 2 sotto attacco."
+[HUD_INTERACTION_IN_GAME_NEW_006]
+Text="Numero 2 sotto attacco."
+[HUD_INTERACTION_IN_GAME_NEW_007]
+Text="Terminale 3 sotto attacco."
+[HUD_INTERACTION_IN_GAME_NEW_008]
+Text="Terminale 3 sotto attacco."
+[HUD_INTERACTION_IN_GAME_NEW_009]
+Text="Numero 3 sotto attacco."
+[HUD_INTERACTION_IN_GAME_NEW_010]
+Text="Terminale 4 sotto attacco."
+[HUD_INTERACTION_IN_GAME_NEW_011]
+Text="Terminale 4 sotto attacco."
+[HUD_INTERACTION_IN_GAME_NEW_012]
+Text="Numero 4 sotto attacco."
+[HUD_GADGET_DRONE_STATUS_4]
+Text="Area riservata! Drone bloccato!"
+[HUD_INTERACTION_DISPLAY_ZONE_NAMES]
+Text="\\4: Attiva/disattiva i nomi delle zone"
+[HUD_INTERACTION_DEBUT_PARTIE_INFIL]
+Text="La tua missione è infiltrarti furtivamente nel complesso per entrare |nei terminali e sbloccarli (per fare questo, ci vogliono pochi secondi). "
+[HUD_INTERACTION_DEBUT_PARTIE_EXFIL]
+Text="La tua missione è rubare due celle di memoria dai terminali sbloccati e riportarli a questo drone di controllo."
+[HUD_INTERACTION_DEBUT_PARTIE_TOTALKILL]
+Text="La tua missione ha tre fasi:|1. Infiltrarsi nella zona,|2. Sbloccare uno dei terminali,|3. Rubare le celle di memoria e riportarle qui.|Perché questa operazione passi inosservata devi anche eliminare ogni prova |del tuo intervento. Elimina tutte le forze difensive segnate sulla mappa."
+[HUD_INTERACTION_DEBUT_PARTIE_ULTIMATE]
+Text="La tua missione ha tre fasi:|1. Infiltrarsi nella zona,|2. Sbloccare uno dei terminali,|3. Rubare le celle di memoria e riportarle qui.|Questa operazione è altamente riservata. Se uno dei tuoi compagni viene scoperto |da una guardia o da un dispositivo di sicurezza, saremo costretti ad annullare la missione."
+[HUD_INTERACTION_DEBUT_PARTIE_UF]
+Text=""
+[HUD_INTERACTION_BRIEF_INFILT]
+Text="Muovetevi, signori! Trovate i terminali e sbloccateli!"
+[HUD_INTERACTION_BRIEF_EXFILT]
+Text="Rubate le celle e portatele a questo drone per renderle sicure."
+[HUD_INTERACTION_BRIEF_VS_UF_01]
+Text="Forza, proteggiamo i terminali dagli intrusi! Nessuna pietà!"
+[HUD_INTERACTION_BRIEF_VS_02]
+Text="Terminali sbloccati. Trovate le celle di memoria e portatele a questo drone per renderle sicure."
+[HUD_INTERACTION_BRIEF_VS_UF_02]
+Text="Ora che i terminali sono sbloccati, proteggi le celle dagli intrusi e riporta quelle rubate."
+[HUD_INTERACTION_BRIEF_VS_03]
+Text="Tenete duro, ragazzi! Ancora una cella di memoria, e la missione è compiuta."
+[HUD_INTERACTION_BRIEF_VS_UF_03]
+Text="Resistete! Se rubano un'altra cella, gli intrusi avranno informazioni sufficienti per |scoprire gli infiltrati! Dobbiamo impedirlo!"
+[HUD_MSGSPY_POISON_NOT_READY]
+Text="Ricaricamento proiettile avvelenato..."
+[HUD_MSGMERC_IN_GAME_46]
+Text="Missione completata: 3 celle di memoria distrutte!"
+[HUD_GAMEMESSAGE_SYSTEM_DETECTION]
+Text="Rilevamento sistema"
+[HUD_GAMEMESSAGE_SYSTEM_MALFUNCTION]
+Text="Malfunzionamento sistema"
+[HUD_GAMEMESSAGE_SYSTEM_FAILURE]
+Text="Errore di sistema"
+[HUD_GAMEMESSAGE_CABLE_DISCONNECT]
+Text="Il tuo cavo di rete è disconnesso."
+[HUD_GAMEMESSAGE_QUIT_SESSION]
+Text="Vuoi davvero uscire dalla partita?"
+[HUD_GAMEMESSAGE_DUPLICATED_LOGON]
+Text="La connessione all'host della partita|è stata perduta. Aggiornamento|statistiche in corso..."
+[HUD_GAMEMESSAGE_DISCONNECT]
+Text="Sei stato disconnesso."
+[HUD_GAMEMESSAGE_ANSWER_YES]
+Text="Sì"
+[HUD_GAMEMESSAGE_ANSWER_NO]
+Text="No"
+[HUD_GAMEMESSAGE_ANSWER_OK]
+Text="OK"
+[HUD_GAMEMESSAGE_ANSWER_ERROR]
+Text="ERRORE"
+[HUD_GAMEMESSAGE_ANSWER_WARNING]
+Text="ATTENZIONE"
+[HUD_GAMEMESSAGE_ANSWER_QUESTION]
+Text="Domanda"
+[HUD_GAMEMESSAGE_MU_DATAS_LOST]
+Text="L'unità di memoria è stata rimossa.|I progressi non salvati potrebbero andare persi."
+[HUD_CONSULT_GAMERCARD]
+Text="\\2 Mostra scheda giocatore"
+[HUD_INTERACTION_RELOADGADGET_UF]
+Text="Ricarica granate e droni"
+[HUD_GAMEMESSAGE_INVITE_QUIT_HOST]
+Text="Stai per partecipare alla partita del tuo amico. La tua partita non sarà più disponibile e tutti gli altri giocatori verranno espulsi. Sei sicuro di voler continuare?"
+[HUD_GAMEMESSAGE_INVITE_QUIT_CLIENT]
+Text="Stai per partecipare alla partita del tuo amico. Sei sicuro di voler continuare?"
+[HUD_GAMEMESSAGE_INVITE_QUIT_HOST_RK]
+Text="Stai per partecipare alla partita del tuo amico. La tua partita non sarà più disponibile e tutti gli altri giocatori verranno fatti uscire. Uscire da questa partita ti farà perdere 500 punti. Confermi?"
+[HUD_GAMEMESSAGE_INVITE_QUIT_CLIENT_RK]
+Text="Stai per partecipare alla partita del tuo amico. Uscire da questa partita ti farà perdere 500 punti. Confermi?"
+[HUD_GAMEMESSAGE_INVITE_QUIT_HOST_RK_SQ]
+Text="Stai per partecipare alla partita del tuo amico. La tua partita non sarà più disponibile e tutti gli altri giocatori verranno fatti uscire. Uscire da questa partita farà perdere 500 punti alla tua squadra. Confermi?"
+[HUD_GAMEMESSAGE_INVITE_QUIT_CLIENT_RK_SQ]
+Text="Stai per partecipare alla partita del tuo amico. Uscire da questa partita farà perdere 500 punti alla tua squadra. Confermi?"
+[HUD_GAMEMESSAGE_INVITE_CANTAPPLY]
+Text="Non puoi accedere alla partita in|cui sei stato invitato.||Verrai portato al menu."
+[HUD_GAMEMESSAGE__DISCONNECT_INVESTIGATION]
+Text="La connessione all'host della partita|è stata perduta. Aggiornamento|statistiche in corso..."

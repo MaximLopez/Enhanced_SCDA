@@ -1,0 +1,10 @@
+[IND04_GAME_OUVRIR_RIDEAUX]
+Text="Open curtains"
+[IND04_GAME_FERMER_RIDEAUX]
+Text="Close curtains"
+[IND04_GAME_ARRET_CHAUDIERE]
+Text="Stop boiler"
+[IND04_GAME_DEM_CHAUDIERE]
+Text="Start boiler"
+[IND04_GAME_SEC_ANTI_ACCIDENT]
+Text="Open air duct access"

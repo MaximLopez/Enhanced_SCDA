@@ -1,0 +1,132 @@
+[IND03_BRIEFING_PARTA_01]
+Text="La zone que vous devez défendre est un dépôt de BUS municipaux, dans lequel nous |nous sommes installés. Elle est composée de trois zones principales, les BUREAUX, |le HANGAR et le MAGASIN, ainsi qu'une cour extérieure, donnant sur les BUREAUX et le HANGAR."
+[IND03_BRIEFING_PARTA_02]
+Text="Les BUREAUX renferment les services administratifs de la compagnie des bus. |Le terminal se trouve au 1er étage, dans le bureau du responsable de la compagnie."
+[IND03_BRIEFING_PARTA_03]
+Text="Le HANGAR est une zone réservée au stationnement et à l'entretien des bus. |Il abrite deux terminaux : un dans le bureau du chef de service à proximité de l'entrée |et l'autre dans un atelier, juste à côté du portique."
+[IND03_BRIEFING_PARTA_04]
+Text="Le MAGASIN est une zone de stockage de pièces détachées.| Le terminal se trouve au 1er étage au centre de la zone."
+[IND03_BRIEFING_PARTA_05]
+Text="Les terminaux que vous devez protéger sont de puissants relais cryptés, |utilisés pour notre réseau de communication privé."
+[IND03_BRIEFING_PARTA_06]
+Text="Un détail qui peut avoir son importance : la totalité des alarmes, des défenses et des lumières |est reliée à un dispositif autoporté se trouvant dans la COUR EXTÉRIEURE : l’ECC. |La désactivation de ce dernier par les intrus nous plongera dans le noir. Si cela arrive, |réactivez-le pour remettre l'ensemble des systèmes sous tension. Vous pouvez également |redémarrer l'ECC. même si celui-ci n'est pas éteint, son redémarrage remettant tous les systèmes |en fonctionnement. Pensez-y, cet élément est un point stratégique à ne pas négliger."
+[IND03_BRIEFING_PARTA_07]
+Text="Votre mission est de défendre nos terminaux. Si les assaillants les déverrouillent, |empêchez-les à tout prix de voler leur processeur et de les exfiltrer. Traquez-les et tuez-les !"
+[IND03_BRIEFING_PARTB_01]
+Text="Votre mission est de patrouiller dans ce complexe, de traquer les intrus et de les empêcher |à tout prix de pirater et de déverrouiller les terminaux contenant des informations capitales |à notre survie. Si un des terminaux venait à être piraté, l'ensemble des terminaux serait |alors ouvert."
+[IND03_BRIEFING_PARTB_02]
+Text="Si les intrus parviennent à déverrouiller les terminaux, ils pourront dérober les processeurs |qu'ils contiennent et tenter de les mettre en sécurité. Vous devez tout mettre en œuvre |pour les empêcher de voler deux processeurs, ce qui leur permettrait de décrypter les |données qu'ils contiennent sur nos agents doubles."
+[IND03_BRIEFING_PARTB_03]
+Text="Les processeurs sont fragiles et ne sont viables qu’un certain temps une fois |qu’ils ont quitté leur terminal. Si vous réussissez à récupérer un processeur volé |(en tuant un intrus en portant un ou en ramassant un processeur au sol), détruisez-le."
+[IND03_BRIEFING_VERSUS_01]
+Text="Allez-y, messieurs, protégez les terminaux des intrus. Soyez sans pitié !"
+[IND03_BRIEFING_VERSUS_02]
+Text="Maintenant que les terminaux sont déverrouillés, protégez les processeurs |des intrus et récupérez tout processeur qui serait volé."
+[IND03_BRIEFING_VERSUS_03]
+Text="Courage, messieurs, si un autre processeur est volé, les intrus auront assez d'informations |pour démasquer nos agents doubles. Empêchez cela à tout prix !"
+[IND03_BRIEFING_DM_PARTA_01]
+Text="Votre mission comporte trois phases :|1. Infiltrer la zone.|2. Déverrouiller un des terminaux.|3. Voler et ramener les processeurs."
+[IND03_BRIEFING_DM_PARTA_01BIS]
+Text="La zone que vous allez infiltrer est un dépôt de BUS municipaux, dans lequel nos ennemis |se sont installés. Il est composé de trois zones principales, les BUREAUX, le HANGAR et |le MAGASIN, ainsi qu'une COUR EXTÉRIEURE, donnant sur les BUREAUX et le HANGAR."
+[IND03_BRIEFING_DM_PARTA_02]
+Text="Les BUREAUX renferment les services administratifs de la compagnie des bus. |Le terminal se trouve au 1er étage, dans le bureau du responsable de la compagnie."
+[IND03_BRIEFING_DM_PARTA_03]
+Text="Le HANGAR est une zone réservée au stationnement et à l'entretien des bus.| Il abrite deux terminaux : un dans le bureau du chef de service, à proximité de l'entrée |et l'autre dans un atelier, juste à côté du portique."
+[IND03_BRIEFING_DM_PARTA_04]
+Text="Le MAGASIN est une zone de stockage de pièces détachées. |Le terminal se trouve au 1er étage au centre de la zone."
+[IND03_BRIEFING_DM_PARTA_05]
+Text="Les terminaux que vous devez désactiver sont de puissants relais cryptés, |utilisés pour le réseau de communication privé des FORCES UPSILON."
+[IND03_BRIEFING_DM_PARTA_06]
+Text="Un détail qui peut avoir son importance : la totalité des alarmes, des défenses| et des lumières est reliée à un dispositif autoporté se trouvant dans la cour principale :| l’E.C.C. La désactivation de ce dernier plongera les Forces Upsilon dans le noir,| rendant la défense de la zone plus difficile et obligeant ses membres à se déplacer pour tenter |de remettre en route le système. Pensez-y…"
+[IND03_BRIEFING_DM_PARTA_07]
+Text="Votre mission est d’infiltrer discrètement ce complexe afin de pirater et de déverrouiller |les terminaux (cette opération demande quelques secondes). La neutralisation d’un |terminal entraînera l’ouverture de TOUS les autres."
+[IND03_BRIEFING_DM_PARTB_02]
+Text="Une fois neutralisés, vous devez dérober les processeurs qu’ils contiennent et |en rapporter au moins deux à ce drone de contrôle pour les mettre en sécurité |et réussir votre mission. Bonne chance."
+[IND03_BRIEFING_DM_PARTB_03]
+Text="Faites attention, les processeurs sont fragiles et ne sont viables qu’un certain temps |après qu’ils ont quitté leur terminal. La coopération sera votre alliée. Enfin, prenez |garde aux Forces Upsilon qui défendent les lieux, ils ont reçu l'ordre de tuer et ils |sont efficaces. Bonne chance."
+[IND03_BRIEFING_DM_PARTB_04]
+Text="Votre mission est d’infiltrer discrètement ce complexe afin de pirater et de déverrouiller |les terminaux (cette opération demande quelques secondes). La neutralisation d’un |terminal entraînera l’ouverture de TOUS les autres."
+[IND03_BRIEFING_DM_PARTB_05]
+Text="Une fois neutralisés, vous devez dérober les processeurs qu’ils contiennent et en rapporter |au moins deux à ce drone de contrôle pour les mettre en sécurité et réussir votre mission. |Bonne chance."
+[IND03_BRIEFING_DM_PARTB_06]
+Text="Faites attention, les processeurs sont fragiles et ne sont viables qu’un certain temps |après qu’ils ont quitté leur terminal. La coopération sera votre alliée. Enfin, prenez garde |aux Forces Upsilon qui défendent les lieux, ils ont reçu l'ordre de tuer et ils sont efficaces. |Bonne chance."
+[IND03_BRIEFING_DM_PARTB_07]
+Text="Votre mission est d’infiltrer discrètement ce complexe afin de pirater et de déverrouiller |les terminaux (cette opération demande quelques secondes). La neutralisation d’un |terminal entraînera l’ouverture de TOUS les autres."
+[IND03_BRIEFING_DM_PARTB_08]
+Text="Une fois neutralisés, vous devez dérober les processeurs qu’ils contiennent et en rapporter |au moins deux à ce drone de contrôle pour les mettre en sécurité et réussir votre mission. |Bonne chance."
+[IND03_BRIEFING_DM_PARTB_09]
+Text="Faites attention, les processeurs sont fragiles et ne sont viables qu’un certain temps après |qu’ils ont quitté leur terminal. La coopération sera votre alliée. Enfin, prenez garde aux |Forces Upsilon qui défendent les lieux, ils ont reçu l'ordre de tuer et ils sont efficaces. |Bonne chance."
+[IND03_BRIEFING_DM_PARTB_10]
+Text="Votre mission est d’infiltrer discrètement ce complexe afin de pirater et de déverrouiller |les terminaux (cette opération demande quelques secondes). La neutralisation d’un |terminal entraînera l’ouverture de TOUS les autres."
+[IND03_BRIEFING_DM_PARTB_11]
+Text="Une fois neutralisés, vous devez dérober les processeurs qu’ils contiennent et en rapporter |au moins deux à ce drone de contrôle pour les mettre en sécurité et réussir votre mission. |Bonne chance."
+[IND03_BRIEFING_DM_PARTB_12]
+Text="Faites attention, les processeurs sont fragiles et ne sont viables qu’un certain temps après |qu’ils ont quitté leur terminal. La coopération sera votre alliée. Enfin, prenez garde aux |Forces Upsilon qui défendent les lieux, ils ont reçu l'ordre de tuer et ils sont efficaces. |Bonne chance."
+[IND03_BRIEFING_DM_PARTB_13]
+Text="Votre mission est d’infiltrer discrètement ce complexe afin de pirater et de déverrouiller |les terminaux (cette opération demande quelques secondes). La neutralisation d’un| terminal entraînera l’ouverture de TOUS les autres."
+[IND03_BRIEFING_DM_PARTB_14]
+Text="Une fois neutralisés, vous devez dérober les processeurs qu’ils contiennent et en rapporter |au moins deux à ce drone de contrôle pour les mettre en sécurité et réussir votre mission. |Bonne chance."
+[IND03_BRIEFING_DM_PARTB_15]
+Text="Faites attention, les processeurs sont fragiles et ne sont viables qu’un certain temps après |qu’ils ont quitté leur terminal. La coopération sera votre alliée. Enfin, prenez garde aux |Forces Upsilon qui défendent les lieux, ils ont reçu l'ordre de tuer et ils sont efficaces. |Bonne chance."
+[IND03_BRIEFING_DM_PARTB_16]
+Text="Pour passer totalement inaperçue, votre intervention doit être menée avec le maximum d’efficacité |et de rapidité. Vous devez tout faire pour accomplir votre mission le plus rapidement possible."
+[IND03_BRIEFING_DM_PARTB_17]
+Text="Votre mission est d’infiltrer discrètement ce complexe afin de pirater et de déverrouiller les |terminaux (cette opération demande quelques secondes). La neutralisation d’un terminal |entraînera l’ouverture de TOUS les autres."
+[IND03_BRIEFING_DM_PARTB_18]
+Text="Une fois neutralisés, vous devez dérober les processeurs qu’ils contiennent et en rapporter |au moins deux à ce drone de contrôle pour les mettre en sécurité et réussir votre mission. |Bonne chance."
+[IND03_BRIEFING_DM_PARTB_19]
+Text="Faites attention, les processeurs sont fragiles et ne sont viables qu’un certain temps après |qu’ils ont quitté leur terminal. La coopération sera votre alliée. Enfin, prenez garde aux |Forces Upsilon qui défendent les lieux, ils ont reçu l'ordre de tuer et ils sont efficaces. |Bonne chance."
+[IND03_BRIEFING_DM_PARTB_20]
+Text="Pour passer totalement inaperçue, votre intervention doit être couplée à une éradication totale |des preuves : il faut donc que vous éliminiez la totalité des forces de défenses présentes |dans la carte."
+[IND03_BRIEFING_DM_PARTB_21]
+Text="Votre mission est d’infiltrer discrètement ce complexe afin de pirater et de déverrouiller |les terminaux (cette opération demande quelques secondes). La neutralisation d’un |terminal entraînera l’ouverture de TOUS les autres."
+[IND03_BRIEFING_DM_PARTB_22]
+Text="Une fois neutralisés, vous devez dérober les processeurs qu’ils contiennent et en rapporter |au moins deux à ce drone de contrôle pour les mettre en sécurité et réussir votre mission. |Bonne chance."
+[IND03_BRIEFING_DM_PARTB_23]
+Text="Faites attention, les processeurs sont fragiles et ne sont viables qu’un certain temps après |qu’ils ont quitté leur terminal. La coopération sera votre alliée. Enfin, prenez garde aux |Forces Upsilon qui défendent les lieux, ils ont reçu l'ordre de tuer et ils sont efficaces. |Bonne chance."
+[IND03_BRIEFING_DM_PARTB_24]
+Text="Votre intervention doit rester ultra confidentielle : si au cours de cette opération, un membre de |l’équipe était découvert par un des gardes ou par un des systèmes de sécurité, nous serions |dans l’obligation d’arrêter la mission."
+[IND03_BRIEFING_DM_PARTB_25]
+Text="Plus nous obtiendrons de processeurs, plus il nous sera facile de décrypter les| informations et plus nous en saurons sur leurs agents doubles."
+[IND03_BRIEFING_DM_VERSUS_01]
+Text="Allez-y, messieurs, trouvez les terminaux et déverrouillez-les !"
+[IND03_BRIEFING_DM_VERSUS_02]
+Text="Maintenant que les terminaux sont déverrouillés, volez les processeurs et |apportez-les sur ce drone pour les mettre en sécurité."
+[IND03_BRIEFING_DM_VERSUS_03]
+Text="Courage, messieurs, plus qu'un processeur et la mission sera accomplie."
+[IND03_BRIEFING_DM_SCORE_01]
+Text="Allez-y, messieurs, trouvez les terminaux et déverrouillez-les !"
+[IND03_BRIEFING_DM_SCORE_02]
+Text="Maintenant que les terminaux sont déverrouillés, volez les processeurs et |apportez-les sur ce drone pour les mettre en sécurité."
+[IND03_BRIEFING_DM_SCORE_03]
+Text="Courage, messieurs, plus qu'un processeur et la mission sera accomplie."
+[IND03_BRIEFING_DM_INFILT]
+Text="Allez-y, messieurs, trouvez les terminaux et déverrouillez-les !"
+[IND03_BRIEFING_DM_EXFILT]
+Text="Volez les processeurs et apportez-les sur ce drone pour les mettre en sécurité."
+[IND03_BRIEFING_DM_NOD_01]
+Text="Allez-y, messieurs, trouvez les terminaux et déverrouillez-les !"
+[IND03_BRIEFING_DM_NOD_02]
+Text="Maintenant que les terminaux sont déverrouillés, volez les processeurs et |apportez-les sur ce drone pour les mettre en sécurité."
+[IND03_BRIEFING_DM_NOD_03]
+Text="Courage, messieurs, plus qu'un processeur et la mission sera accomplie."
+[IND03_BRIEFING_DM_TA_01]
+Text="Allez-y, messieurs, trouvez les terminaux et déverrouillez-les !"
+[IND03_BRIEFING_DM_TA_02]
+Text="Maintenant que les terminaux sont déverrouillés, volez les processeurs et |apportez-les sur ce drone pour les mettre en sécurité."
+[IND03_BRIEFING_DM_TA_03]
+Text="Courage, messieurs, plus qu'un processeur et la mission sera accomplie."
+[IND03_BRIEFING_DM_TK_01]
+Text="Allez-y, messieurs, trouvez les terminaux et déverrouillez-les !"
+[IND03_BRIEFING_DM_TK_02]
+Text="Maintenant que les terminaux sont déverrouillés, volez les processeurs et |apportez-les sur ce drone pour les mettre en sécurité."
+[IND03_BRIEFING_DM_TK_03]
+Text="Courage, messieurs, plus qu'un processeur et la mission sera accomplie."
+[IND03_BRIEFING_DM_NDET_01]
+Text="Allez-y, messieurs, trouvez les terminaux et déverrouillez-les !"
+[IND03_BRIEFING_DM_NDET_02]
+Text="Maintenant que les terminaux sont déverrouillés, volez les processeurs et |apportez-les sur ce drone pour les mettre en sécurité."
+[IND03_BRIEFING_DM_NDET_03]
+Text="Courage, messieurs, plus qu'un processeur et la mission sera accomplie."
+[IND03_BRIEFING_DM_PARTB_01]
+Text="Votre mission est d'infiltrer discrètement ce complexe afin de pirater et de déverrouiller |les terminaux (cette opération demande quelques secondes). La neutralisation d’un |terminal entraînera l’ouverture de TOUS les autres.|"

@@ -1,0 +1,10 @@
+[IND04_GAME_OUVRIR_RIDEAUX]
+Text="Vorhänge öffnen"
+[IND04_GAME_FERMER_RIDEAUX]
+Text="Vorhänge schließen"
+[IND04_GAME_ARRET_CHAUDIERE]
+Text="Heizkessel ausschalten"
+[IND04_GAME_DEM_CHAUDIERE]
+Text="Heizkessel einschalten"
+[IND04_GAME_SEC_ANTI_ACCIDENT]
+Text="Zugang zum Luftschacht öffnen"

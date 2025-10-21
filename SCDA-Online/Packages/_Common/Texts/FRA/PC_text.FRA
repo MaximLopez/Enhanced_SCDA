@@ -1,0 +1,440 @@
+[PC_MENU_BIND_ACTION_JUMP]
+Text="Sauter"
+[PC_MENU_BIND_ACTION_CROUCH]
+Text="S'accroupir / effectuer une roulade"
+[PC_MENU_BIND_ACTION_NIGHTVISION]
+Text="Vision nocturne"
+[PC_MENU_BIND_ACTION_THERMALVISION]
+Text="Vision thermique"
+[PC_MENU_BIND_ACTION_SPEEDUP]
+Text="Accélérer"
+[PC_MENU_BIND_ACTION_SPEEDDOWN]
+Text="Ralentir"
+[PC_MENU_BIND_ACTION_BINOCULARSZOOMIN]
+Text="Accélérer / Zoomer"
+[PC_MENU_BIND_ACTION_BINOCULARSZOOMOUT]
+Text="Ralentir / Dézoomer"
+[PC_MENU_BIND_ACTION_RUNAWAY]
+Text="Fuire"
+[PC_MENU_BIND_ACTION_BINOCULARS]
+Text="Jumelles"
+[PC_MENU_BIND_ACTION_DRAWWEAPON]
+Text="Utiliser l'appareil"
+[PC_MENU_BIND_ACTION_INTERACTION]
+Text="Interaction"
+[PC_MENU_BIND_ACTION_TORCH]
+Text="Lampe"
+[PC_MENU_BIND_ACTION_EMFVISION]
+Text="Vision EMF"
+[PC_MENU_BIND_ACTION_SPRINT]
+Text="Courir"
+[PC_MENU_BIND_ACTION_SNIPE]
+Text="Canarder"
+[PC_MENU_BIND_ACTION_PRIMARYFIRE]
+Text="Tirer"
+[PC_MENU_BIND_ACTION_SECONDARYFIRE]
+Text="Lancer grenade"
+[PC_MENU_BIND_ACTION_BERZERK]
+Text="Berzerk"
+[PC_MENU_BIND_ACTION_RELOAD]
+Text="Recharger"
+[PC_MENU_BIND_ACTION_DRONEEXIT]
+Text="Quitter"
+[PC_MENU_BIND_ACTION_DRONEEXPLODE]
+Text="Exploser"
+[PC_MENU_BIND_ACTION_DRONEUP]
+Text="Vers le haut"
+[PC_MENU_BIND_ACTION_DRONEDOWN]
+Text="Vers le bas"
+[PC_MENU_BIND_ACTION_MOVELEFT]
+Text="Vers la gauche"
+[PC_MENU_BIND_ACTION_MOVERIGHT]
+Text="Vers la droite"
+[PC_MENU_BIND_ACTION_MOVEUP]
+Text="En avant / vers le haut"
+[PC_MENU_BIND_ACTION_MOVEDOWN]
+Text="En arrière / vers le bas"
+[PC_MENU_BINDING]
+Text="Commandes"
+[PC_MENU_FRIEND_LIST]
+Text="Liste d'amis"
+[PC_MENU_PLAYER_LIST]
+Text="Liste de joueurs"
+[PC_MENU_BLACK_LIST]
+Text="Liste noire"
+[PC_MENU_FRIEND_REMOVE]
+Text="Supprimer"
+[PC_MENU_SEND_MESSAGE]
+Text="Envoyer message"
+[PC_MENU_INVITE]
+Text="Inviter"
+[PC_MENU_PLAYER_INFO]
+Text="Information"
+[PC_MENU_SPY_CONTROLS]
+Text="Commandes espion"
+[PC_MENU_MERC_CONTROLS]
+Text="Commandes Upsilon"
+[PC_MENU_DRONE_CONTROLS]
+Text="Commandes drone"
+[PC_MENU_COMMON_CONTROLS]
+Text="Commandes communes"
+[PC_MENU_PC_GUIDE]
+Text="Gestionnaire des profils"
+[PC_MENU_AUDIO_PROFILE]
+Text="Profil audio"
+[PC_MENU_GAMER_PROFILE]
+Text="Votre profil"
+[PC_MENU_QUIT_SESSION]
+Text="Quitter session"
+[PC_MENU_QUIT_GAME]
+Text="Quitter jeu"
+[PC_MENU_RANKING]
+Text="Classement"
+[PC_MENU_GAME_OPTIONS]
+Text="Options du jeu"
+[PC_MENU_ONLINE_OPTIONS]
+Text="Options réseau"
+[PC_MENU_VIDEO_OPTIONS]
+Text="Options vidéo"
+[PC_MENU_ACHIEVEMENTS]
+Text="Réussites"
+[PC_MENU_APPEAR_OFFLINE]
+Text="Apparaître hors ligne"
+[PC_MENU_NOTIFY_ON_OFF]
+Text="Notifications des invitations"
+[PC_MENU_VOLUME_FX]
+Text="Volume effets"
+[PC_MENU_VOLUME_MUSIC]
+Text="Volume musique"
+[PC_MENU_VOLUME_VOICE_INGAME]
+Text="Voix du jeu"
+[PC_MENU_VOLUME_VOICE_OTHER]
+Text="Voix des autres joueurs"
+[PC_MENU_VOLUME_AMBIENT]
+Text="Ambiance"
+[PC_MENU_VOLUME_TOTAL]
+Text="Volume général"
+[PC_MENU_DISPLAY_HUD_TOP_LEFT]
+Text="HUD en haut à gauche"
+[PC_MENU_DISPLAY_HUD_TOP_RIGHT]
+Text="HUD en haut à droite"
+[PC_MENU_DISPLAY_HUD_BOTTOM_LEFT]
+Text="HUD en bas à gauche"
+[PC_MENU_DISPLAY_HUD_BOTTOM_RIGHT]
+Text="HUD en bas à droite"
+[PC_MENU_FRIEND_JOIN]
+Text="Rejoindre ? || \Z1, \Zl : Oui ||\Z2, \Zr : Non "
+[PC_MENU_ADD_TO_FRIENDS]
+Text="Ajouter aux amis"
+[PC_MENU_BLOCK_INVITE]
+Text="Bloquer invitation"
+[PC_MENU_BLOCK_FRIEND_INVITE]
+Text="Bloquer invitation ami"
+[PC_MENU_BLOCK_MESSAGES]
+Text="Bloquer messages"
+[PC_MENU_KEY_ENTER_NEW]
+Text="Entrer une nouvelle touche pour cette action"
+[PC_MENU_KEYBOARD_CONFIG_1]
+Text="Passer en clavier gaucher"
+[PC_MENU_KEYBOARD_CONFIG_2]
+Text="Passer en clavier droitier"
+[PC_MENU_PROFILE_NEW]
+Text="Nouveau profil"
+[PC_MENU_PROFILE_DELETE]
+Text="Supprimer profil"
+[PC_MENU_PROFILE_SELECT]
+Text="Sélectionner ce profil"
+[PC_MENU_PROFILE_NEW_NAME]
+Text="Entrer un nom pour le nouveau profil multijoueur"
+[PC_MENU_PROFILE_MANAGEMENT_TITLE]
+Text="Gestion du profil"
+[PC_MENU_VIDEO_ANTI_ALIASING]
+Text="Anticrénelage"
+[PC_MENU_VIDEO_SHADOW_QUALITY]
+Text="Qualité ombre"
+[PC_MENU_PROFILE_EDIT]
+Text="Modifier ce profil"
+[PC_MENU_PROFILE_NAME]
+Text="Nom du profil"
+[PC_MENU_PROFILE_NAME_LIVE]
+Text="Nom du profil en ligne"
+[PC_MENU_PROFILE_PASSWORD_LIVE]
+Text="Mot de passe du profil en ligne"
+[PC_MENU_PROFILE_PASSWORD_LIVE_CONFIRM]
+Text="Confirmer le mot de passe du profil en ligne"
+[PC_MENU_PROFILE_AUTOLOG]
+Text="Connexion automatique"
+[PC_MENU_PROFILE_INVERTX]
+Text="Inverser l'axe des X"
+[PC_MENU_PROFILE_INVERTY]
+Text="Inverser l'axe des Y"
+[PC_MENU_PROFILE_METRIC_SYSTEM]
+Text="Système métrique"
+[PC_MENU_PROFILE_PAD_VIBRATION]
+Text="Vibration de la manette"
+[PC_MENU_PROFILE_ERROR_INVALIDPASSWORD]
+Text="Format de mot de passe non valide (6 caractères minimum)"
+[PC_MENU_PROFILE_ERROR_DIFFERENT_PASSWORD]
+Text="Vous avez saisi des mots de passe différents."
+[PC_MENU_PROFILE_ERROR_USED_GAMERTAG]
+Text="Cet identifiant de joueur existe déjà."
+[PC_MENU_PROFILE_ERROR_INVALID_GAMERTAG]
+Text="Format d'identifiant de joueur non valide (3 caractères minimum)."
+[PC_MENU_LOAD_MENU_EXIT_PCGUIDE]
+Text="Fermeture du gestionnaire des profils..."
+[PC_MENU_LEGEND_PC_GUIDE]
+Text="Guide PC"
+[PC_MENU_CD_KEY]
+Text="Numéro de série"
+[PC_MENU_SAVE_PASSWORD]
+Text="Sauvegarder mot de passe"
+[PC_MENU_CREATE_ACCOUNT]
+Text="Ce compte n'est pas enregistré. Voulez-vous vraiment créer un nouveau compte DemonWare ?"
+[PC_MENU_BAD_CD_KEY]
+Text="Le numéro de série n'est pas correct."
+[PC_MENU_DELETE_PROFILE_IMPOSSIBLE]
+Text="Vous ne pouvez pas supprimer le profil par défaut."
+[PC_MENU_OPTION_MOUSE_SENSITIVITY]
+Text="Sensibilité de la souris"
+[PC_MENU_MSG_NO_PLAYER_IN_LIST]
+Text="Aucun joueur dans la liste"
+[PC_MENU_CREATE_NEW_ACCOUNT]
+Text="Créer un nouveau compte en ligne"
+[PC_HUD_VIDEO_USE_VSYNC]
+Text=" VSync"
+[PC_HUD_VIDEO_USE_ZPREPASS]
+Text="Z Prepass (GPU vs CPU)"
+[PC_HUD_VIDEO_POST_PROCESSING_QUALITY]
+Text="Qualité de post-traitement élevée"
+[PC_HUD_VIDEO_USE_DOF]
+Text="Utiliser profondeur de champ"
+[PC_MENU_VIDEO_HIGH]
+Text="Élevé"
+[PC_MENU_VIDEO_MEDIUM]
+Text="Moyen"
+[PC_MENU_VIDEO_LOW]
+Text="Faible"
+[PC_MENU_ANSWER_YES]
+Text="Oui"
+[PC_MENU_ANSWER_NO]
+Text="Non"
+[PC_MENU_LEGEND_EXIT_PC_GUIDE]
+Text="Quitter le gestionnaire des profils"
+[PC_MENU_PROFILE_ERROR_EMPTY_PROFILE_NAME]
+Text="Le nom de profil est vide."
+[PC_MENU_PROFILE_ERROR_EMPTY_PROFILE_ONLINE_NAME]
+Text="Le nom de profil en ligne est vide."
+[PC_MENU_PROFILE_ERROR_EMPTY_PROFILE_PASSWORD]
+Text="Le mot de passe est vide."
+[PC_MENU_PROFILE_ERROR_EMPTY_PROFILE_CDKEY]
+Text="Le numéro de série est vide."
+[PC_MENU_POPUP_CONNECTING_DEMONWARE]
+Text="Connexion au réseau, veuillez patienter..."
+[PC_MENU_CHECK_EAX]
+Text="Activer EAX"
+[PC_MENU_CHECK_VIDEO_DOWNGRADE_FX]
+Text="Détail des particules"
+[PC_MENU_CHECK_VIDEO_PHYSICS_STATIC]
+Text="Physique améliorée"
+[PC_MENU_CHECK_VIDEO_DECAL_IMPACT]
+Text="Impact des balles"
+[PC_MENU_SAY]
+Text="Dire :"
+[PC_MENU_DEFAULT_PROFILE]
+Text="Profil par défaut"
+[PC_MENU_ERROR_USERNAME_EXISTS]
+Text="Ce nom d'utilisateur existe."
+[PC_MENU_ERROR_USERNAME_ILLEGAL]
+Text="Ce nom d'utilisateur n'est pas légal."
+[PC_MENU_ERROR_USERNAME_VULGAR]
+Text="Ce nom d'utilisateur est vulgaire."
+[PC_MENU_BIND_ACTION_STRATEGICMAP]
+Text="Carte stratégique"
+[PC_MENU_BIND_ACTION_TURNCAMLEFT]
+Text="Regarder à gauche"
+[PC_MENU_BIND_ACTION_TURNCAMRIGHT]
+Text="Regarder à droite"
+[PC_MENU_BIND_ACTION_TURNCAMUP]
+Text="Regarder en haut"
+[PC_MENU_BIND_ACTION_TURNCAMDOWN]
+Text="Regarder en bas"
+[PC_MENU_BIND_ACTION_TEAMSAY]
+Text="Parler aux équipiers"
+[PC_MENU_BIND_ACTION_SAY]
+Text="Parler à tout le monde"
+[PC_MENU_ACTION_HUDMAPZONE]
+Text="Afficher la carte dans le HUD"
+[PC_MENU_ACTION_HUDMESSAGEZONE]
+Text="Afficher les messages dans le HUD"
+[PC_MENU_ACTION_HUDSCOREZONE]
+Text="Afficher le score dans le HUD"
+[PC_MENU_ACTION_HUDPLAYERZONE]
+Text="Afficher les joueurs dans le HUD"
+[PC_MENU_ACTION_USEGADGETSPY]
+Text="Utiliser gadget"
+[PC_MENU_ACTION_USEGADGETMERC]
+Text="Utiliser gadget"
+[PC_MENU_PROFILE_DEFAULTPROFILE]
+Text="Profil par défaut"
+[PC_MENU_FRIEND_REQUEST_ACCEPT]
+Text="Accepter la requête"
+[PC_MENU_FRIEND_REQUEST_REJECT]
+Text="Décliner la requête"
+[PC_MENU_FRIEND_REQUEST_CANCEL]
+Text="Annuler la requête"
+[PC_MENU_PROFILE_ERROR_CANTDELETEDEFAULT]
+Text="Impossible de supprimer le profil par défaut"
+[PC_MENU_VIDEO_LOD]
+Text="Détails personnage"
+[PC_MENU_VIDEO_PARTICLES]
+Text="Distance des particules"
+[PC_MENU_PHYSICS_LEVEL_STATIC]
+Text="Statique"
+[PC_MENU_PHYSICS_LEVEL_SOFT]
+Text="Logiciel"
+[PC_MENU_PHYSICS_LEVEL_HARD]
+Text="Matériel"
+[PC_MENU_PENDING_INVITE]
+Text="Invitations en attente"
+[PC_MENU_PROFILE_DISPLAY_GHOSTS]
+Text="Afficher les fantômes"
+[PC_ALL_TEST_STR]
+Text="Entrée\Z1 Retour arrière\Z2 Ctrl\Z3 Maj\Z4 Suppr\Z5 Alt\Z6"
+[PC_ALL_TEST_STR_MOUSE]
+Text="gauche\Zl droite\Zr centre\Zm haut\Zu bas\Zd X1\Zx X2\Zy"
+[PC_MENU_VIDEO_USE_LETTER_BOXING]
+Text="Vue étendue"
+[PC_MENU_VIDEO_CONFIRM_OPTION]
+Text="Veuillez confirmer cette option.||\Z1, \Zl : OK||\Z2, \Zr : Annuler||L'option sera automatiquement réinitialisée au bout de 15 secondes."
+[PC_MENU_LIVE_ERROR_SERVICE_NOT_AVAILABLE]
+Text="Le service de matchmaking est momentanément indisponible.||Appuyez sur \Z1 ou \Zl pour continuer."
+[PC_MENU_LIVE_ERROR_CONNECTION_RESET]
+Text="La connexion au réseau a été perdue.||Appuyez sur \Z1 ou \Zl pour continuer."
+[PC_MENU_LIVE_ERROR_AUTH_BAD_REQUEST]
+Text="Requête invalide. Veuillez contacter le service clients.||Appuyez sur \Z1 ou \Zl pour continuer."
+[PC_MENU_LIVE_ERROR_AUTH_SERVER_CONFIG_ERROR]
+Text="Erreur interne. Si le problème persiste, veuillez contacter le service clients.||Appuyez sur \Z1 ou \Zl pour continuer."
+[PC_MENU_LIVE_ERROR_AUTH_BAD_TITLE_ID]
+Text="Erreur interne (703). Si le problème persiste, veuillez contacter le service clients.||Appuyez sur \Z1 ou \Zl pour continuer."
+[PC_MENU_LIVE_ERROR_BD_AUTH_UNKNOWN_ERROR]
+Text="Une erreur inattendue est survenue. Si le problème persiste, veuillez contacter le service clients.||Appuyez sur \Z1 ou \Zl pour continuer."
+[PC_MENU_LIVE_ERROR_AUTH_BAD_ACCOUNT]
+Text="Le nom d'utilisateur ou le mot de passe n'est pas reconnu.||Appuyez sur \Z1 ou \Zl pour continuer."
+[PC_MENU_LIVE_ERROR_AUTH_ILLEGAL_OPERATION]
+Text="Requête non prise en charge.||Appuyez sur \Z1 ou \Zl pour continuer."
+[PC_MENU_LIVE_ERROR_AUTH_INCORRECT_LICENSE_CODE]
+Text="Numéro de série en ligne non valide.||Appuyez sur \Z1 ou \Zl pour continuer."
+[PC_MENU_LIVE_ERROR_AUTH_CREATE_USERNAME_EXISTS]
+Text="Le nom d'utilisateur sélectionné est déjà utilisé.||Appuyez sur \Z1 ou \Zl pour continuer."
+[PC_MENU_LIVE_ERROR_AUTH_CREATE_USERNAME_ILLEGAL]
+Text="Le nom d'utilisateur sélectionné n'est pas autorisé.||Appuyez sur \Z1 ou \Zl pour continuer."
+[PC_MENU_LIVE_ERROR_BD_AUTH_TITLE_DISABLED]
+Text="L'accès en ligne de ce titre est actuellement désactivé.||Appuyez sur \Z1 ou \Zl pour continuer."
+[PC_MENU_LIVE_ERROR_BD_AUTH_ACCOUNT_EXPIRED]
+Text="Le compte sélectionné a expiré.||Appuyez sur \Z1 ou \Zl pour continuer."
+[PC_MENU_LIVE_ERROR_BD_AUTH_ACCOUNT_LOCKED]
+Text="Le compte sélectionné a été bloqué.||Appuyez sur \Z1 ou \Zl pour continuer."
+[PC_MENU_LIVE_ERROR_BD_AUTH_INCORRECT_PASSWORD]
+Text="Le nom d'utilisateur ou le mot de passe n'est pas reconnu.||Appuyez sur \Z1 ou \Zl pour continuer."
+[PC_MENU_BACK_TO_LOBBY]
+Text="Retour à l'accueil"
+[PC_MENU_VIDEO_FULL_HDR]
+Text="Utiliser HRD complet "
+[PC_MENU_NETWORK_NO_SERVER]
+Text="Ne jamais jouer en tant que serveur"
+[PC_HUD_WAITING_FOR_PLAYERS]
+Text="En attente de joueurs ..."
+[PC_MENU_OPTION_NEVER_SERVER]
+Text="Jamais serveur"
+[PC_MENU_VIDEO_APPLY]
+Text="Appliquer"
+[PC_MENU_ACCEPT_INVITATION]
+Text="Accepter l'invitation"
+[PC_MENU_CHECK_MUTEVOICES]
+Text="Couper voix Chat"
+[PC_MENU_VIDEO_OPTIONS_2]
+Text="Options vidéo, page 2"
+[PC_MENU_BIND_NOKEY]
+Text="aucune touche"
+[PC_MENU_INVITE_QUIT_HOST]
+Text="Vous allez rejoindre la partie de votre ami. Votre session ne sera plus disponible et les autres joueurs seront exclus. Êtes-vous sûr de vouloir continuer ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[PC_MENU_INVITE_QUIT_HOST_RK]
+Text="Vous allez rejoindre la partie de votre ami. Votre session ne sera plus disponible et tous les autres joueurs seront exclus. Quitter cette session vous coûtera 500 points. Êtes-vous sûr de vouloir continuer ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[PC_MENU_INVITE_QUIT_HOST_RK_SQ]
+Text="Vous allez rejoindre la partie de votre ami. Votre session ne sera plus disponible et tous les autres joueurs seront exclus. Quitter cette session coûtera 500 points à votre CLAN. Êtes-vous sûr de vouloir continuer ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[PC_MENU_INVITE_QUIT_CLIENT]
+Text="Vous allez rejoindre la partie de votre ami. Êtes-vous sûr de vouloir continuer ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[PC_MENU_INVITE_QUIT_CLIENT_RK]
+Text="Vous allez rejoindre la partie de votre ami. Quitter cette session vous coûtera 500 points. Êtes-vous sûr de vouloir continuer ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[PC_MENU_INVITE_QUIT_CLIENT_RK_SQ]
+Text="Vous allez rejoindre la partie de votre ami. Votre session ne sera plus disponible et tous les autres joueurs seront exclus. Quitter cette session coûtera 500 points à votre CLAN. Êtes-vous sûr de vouloir continuer ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[PC_MENU_CLIENT_QUIT]
+Text="Quitter et revenir au menu multijoueur ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[PC_MENU_CLIENT_QUIT_RK]
+Text="Quitter cette session ? En quittant cette session, vous perdez 500 points de score. Quitter ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[PC_MENU_CLIENT_QUIT_RK_SQUAD]
+Text="Tous les autres joueurs seront exclus de votre session. En quittant cette session, votre CLAN perd 500 points de score. Quitter ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[PC_MENU_HOST_QUIT]
+Text="Tous les autres joueurs seront exclus de votre session. Quitter ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[PC_MENU_HOST_QUIT_RK]
+Text="Tous les autres joueurs seront exclus de votre session. En quittant cette session, vous perdez 500 points de score. Quitter ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[PC_MENU_HOST_QUIT_RK_SQUAD]
+Text="Tous les autres joueurs seront exclus de votre session. En quittant cette session, votre CLAN perd 500 points de score. Quitter ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[PC_MENU_INTERACTION_RETURN_LOBBY_ASK]
+Text="Quitter la session et retourner à l'accueil ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[PC_MENU_VIDEO_WEAPONDETAILS]
+Text="Détails des armes"
+[PC_MENU_VIDEO_TAGDETAILS]
+Text="Détails déco"
+[PC_MENU_VIDEO_VIEWRANGE]
+Text="Distance d'affichage"
+[PC_MENU_VIDEO_LIGHTINGRANGE]
+Text="Distance de l'éclairage"
+[PC_MENU_VIDEO_SHADOWRESOLUTION]
+Text="Résolution des ombres"
+[PC_MENU_CONFIRME_QUIT_GAME]
+Text="Voulez-vous vraiment quitter le jeu ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[PC_MENU_VIDEO_LIGHTINGDETAILS]
+Text="Détails de l'éclairage"
+[PC_MENU_ALL_SQUAD_CANT_RECRUIT]
+Text="Vous ne pouvez plus envoyer d'invitation de clan. Appuyez sur ||\Z1, \Zl pour continuer."
+[PC_MENU_ALL_SQUAD_RECRUIT_INPROGRESS]
+Text="Invitation de clan en cours d'envoi. Veuillez patientier..."
+[PC_MENU_ALL_SQUAD_RECRUIT_OK]
+Text="Invitation de clan envoyée. Appuyez sur ||\Z1, \Zl pour continuer."
+[PC_MENU_ALL_SQUAD_RECRUIT_KO]
+Text="Impossible d'envoyer des invitations de clan. Appuyez sur ||\Z1, \Zl pour continuer."
+[PC_MENU_BIND_ACTION_ZOOMINMERC]
+Text="Zoomer"
+[PC_MENU_BIND_ACTION_ZOOMOUTMERC]
+Text="Dézoomer"
+[PC_MENU_BIND_ACTION_ZOOMINSPY]
+Text="Accélérer / Zoomer"
+[PC_MENU_BIND_ACTION_ZOOMOUTSPY]
+Text="Ralentir / Dézoomer"
+[PC_MENU_PROFILE_ERROR_EMPTY_SQUAD_NAME]
+Text="Le nom de clan est vide."
+[PC_MENU_BIND_ACTION_INTERACTIONSPY]
+Text="Interaction / pirater / attraper"
+[PC_MENU_BIND_ACTION_INTERACTIONMERC]
+Text="Interaction"
+[PC_MENU_BIND_ACTION_CROUCHSPY]
+Text="S'accroupir / effectuer une roulade"
+[PC_MENU_BIND_ACTION_CROUCHMERC]
+Text="S'accroupir "
+[PC_MENU_LOADING]
+Text="Chargement en cours"
+[PC_MENU_PROFILE_DELETE_CONFIRM]
+Text="Supprimer ce profil ?||\Z1, \Zl: Oui||\Z2, \Zr: Non"
+[PC_MENU_FRIEND_CONFIRM_DELETE]
+Text="Exclure cet ami ?||\Z1, \Zl: Oui||\Z2, \Zr: Non"
+[PC_HUD_MSG_INVITE_RECEIVED]
+Text="Notifications des invitations"
+[PC_MENU_MAIN_MENU]
+Text="Quitter et retourner au menu principal ?||\Z1, \Zl : Oui||\Z2, \Zr : Non"
+[PC_MENU_CDKEY_DUPLICATE]
+Text="Votre clé CD est déjà utilisé. Vous avez été déconnecté d'Ubi.com.||Appuyez sur \Z1, \Zl pour continuer."
+[PC_MENU_INVITE_SENT]
+Text="Votre invitation a été envoyée.||Appuyez sur \Z1, \Zl pour continuer."
+[PC_MENU_PLAYER_NO_INFO]
+Text="Aucune information disponible sur ce joueur."

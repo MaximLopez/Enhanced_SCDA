@@ -1,0 +1,10 @@
+[IND04_GAME_OUVRIR_RIDEAUX]
+Text="Apri le tende"
+[IND04_GAME_FERMER_RIDEAUX]
+Text="Chiudi le tende"
+[IND04_GAME_ARRET_CHAUDIERE]
+Text="Ferma la caldaia"
+[IND04_GAME_DEM_CHAUDIERE]
+Text="Avvia la caldaia"
+[IND04_GAME_SEC_ANTI_ACCIDENT]
+Text="Apri il condotto d'aerazione"

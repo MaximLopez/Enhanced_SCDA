@@ -1,0 +1,202 @@
+[Common_DEFAULT]
+Text="Par défaut"
+[Common_TEAM0]
+Text="Espions"
+[Common_TEAM1]
+Text="Upsilon"
+[Common_TOOLTIP_NOUSENIGHTVISION]
+Text="Appuyez sur \\c pour utiliser la vision nocturne."
+[Common_TOOLTIP_NOUSEHEATVISION]
+Text="Appuyez sur \\d pour utiliser la vision thermique."
+[Common_TOOLTIP_NOUSEOBSCURITYANDHYPERCROUCH]
+Text="Soyez plus discret ! Utilisez les avantages du terrain."
+[Common_TOOLTIP_TOOFAST]
+Text="Allez moins vite pour faire moins de bruit."
+[Common_TOOLTIP_NOJUMP]
+Text="Appuyez sur \\a pour sauter et pour grimper."
+[Common_KILLCAM_UFWEAPON_KILL]
+Text=" vous a tué avec son arme."
+[Common_KILLCAM_UFSNIPE_KILL]
+Text=" vous a abattu de loin avec son arme."
+[Common_KILLCAM_UFDRONE_KILL]
+Text=" vous a explosé avec son drone."
+[Common_KILLCAM_UFGRENADE_KILL]
+Text=""
+[Common_KILLCAM_SPGRAB_KILL]
+Text=" vous a attrapé."
+[Common_KILLCAM_UFDRONE_SUICIDE]
+Text="Vous vous êtes fait tuer par votre propre drone !"
+[Common_KILLCAM_UFGRENADE_SUICIDE]
+Text="Vous vous êtes tué avec votre propre grenade."
+[Common_KILLCAM_VISION_EMF]
+Text=" avait activé sa vision EMF."
+[Common_KILLCAM_VISION_MTV]
+Text=" avait activé son détecteur de mouvement."
+[Common_KILLCAM_VISION_HEAT]
+Text=" avait activé sa vision thermique."
+[Common_KILLCAM_VISION_NIGHT]
+Text=" avait activé sa vision nocturne."
+[Common_TOOLTIP_ALT1NOUSEGADGETALERT]
+Text="Appuyez sur \\j pour utiliser un gadget."
+[Common_TOOLTIP_NOUSESTRATEGICMAP]
+Text="Appuyez sur \\p pour afficher la carte stratégique."
+[Common_TOOLTIP_HACK_TERMINAL]
+Text="Appuyez sur \\i pour pirater un terminal."
+[Common_TOOLTIP_ECC_PROXIMITY]
+Text="Pirater le générateur principal permet de désactiver l'éclairage et les défenses d'une zone."
+[Common_TOOLTIP_SMOKE_GRENADE]
+Text="Ces grenades permettent de créer d'épais écrans de fumée. Appuyez sur \\j pour jeter une grenade à vos pieds."
+[Common_LOADINGSCREEN_BACK_TO_LOBBY]
+Text="Chargement de l'accueil"
+[Common_LOADINGSCREEN_LOADING_MAP]
+Text="Chargement de %s"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_01]
+Text="Contrôles de base"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_02]
+Text="Unité de piratage"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_03]
+Text="But de vos missions"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_04]
+Text="Capteur de présence"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_05]
+Text="Mouvements de fuite"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_06]
+Text="Actions de proximité"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_07]
+Text="Configuration de l'affichage"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_08]
+Text="Gadgets des espions"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_09]
+Text="Astuces"
+[Common_LOADINGSCREEN_LOADING_SPY_TITLE_10]
+Text="Générateur électrique principal"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_01]
+Text="Contrôles de base"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_02]
+Text="Capteur de présence"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_03]
+Text="But de vos missions"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_04]
+Text="Instruments de traque"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_05]
+Text="Actions de proximité"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_06]
+Text="Configuration de l'affichage"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_07]
+Text="Gadgets des Forces Upsilon"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_08]
+Text="Astuces"
+[Common_LOADINGSCREEN_LOADING_UF_TITLE_09]
+Text="Générateur électrique principal"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_01]
+Text="Vous pouvez effectuer des|déplacements|variés et parfois acrobatiques :|sauter, vous accroupir,|effectuer une roulade…||Se déplacer : \\q, \\r, \\s, \\t|Sauter : \\a|S'accroupir / Se relever /|Effectuer une roulade : \\b|Orienter la caméra : souris"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_02]
+Text="Votre avant-bras est équipé d‘une|unité de piratage à distance. Ce |dispositif vous permet de télécharger| des informations depuis un terminal,|d'éteindre les lumières ou de|détruire des vitres.||Utiliser l'unité de piratage : \\k|Actionner l'unité de piratage : \\i"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_03]
+Text="Vous devez télécharger 2 fichiers |depuis les terminaux et les |sécuriser sur votre drone de |contrôle.||Infiltrez la zone et repérez un |objectif. Utilisez ensuite votre |unité de piratage pour télécharger |les données et récupérer un |fichier. Rapportez-les ensuite |à votre drone."
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_04]
+Text="ATTENTION ! Vos ennemis disposent |d'un capteur de présence : quand |moins de 10 mètres vous séparent, |un écho apparaît sur leur HUD pour |leur signaler votre présence. ||Plus vous êtes proche d'eux, plus |cet écho est puissant alors soyez |prudent ! Vous serez averti par un |écho similaire à un battement |cardiaque."
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_05]
+Text="Votre entraînement fait de vous|un athlète de haut niveau et un|acrobate hors pair. Vous disposez de|mouvements de fuite spécifiques pour|sortir de certaines situations.||Effectuer un mouvement de|fuite acrobatique : \\g"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_06]
+Text="N‘essayez pas d‘affronter un membre|des Forces Upsilon de face : leur|puissance de feu aurait vite raison de|vous… Mais vous pouvez tenter de les|immobiliser en leur tombant dessus.|Vous pouvez aussi vous approcher|d‘eux par derrière pour les attraper|et leur briser la nuque. Vous pouvez|également éliminer un ennemi lorsque|vous êtes accroché à une rambarde.||Attraper un ennemi par derrière : \\i|Briser la nuque : \\i|Attaquer à partir d'une rambarde : \\i"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_07]
+Text="L'écran de jeu est divisé en 4 :|- En haut à gauche, la carte du|jeu F5|- En bas à gauche, les messages du|jeu F6|- En bas à droite, l'indicateur|de vie et le gadget actuel F6|- En haut à droite, les noms et|scores des espions F8"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_08]
+Text="Vous ne pouvez utiliser qu‘un seul|gadget à la fois lors d‘une session.|Pour changer de gadget, utilisez|l‘armoire située sur votre point|d‘insertion. Si vous choisissez|le gadget que vous avez déjà, vous|le rechargez. ||Utiliser un gadget : \\j|Utiliser l'armoire : \\i"
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_09]
+Text="Quelques astuces à connaître :|- Restez caché pour télécharger.|- Ne soyez pas trop gourmand :|téléchargez les données par|morceaux, changez souvent de terminal.|- Jouez en équipe, coordonnez vos|attaques pour multiplier vos chances|de réussir.|- Restez calme, ne courez pas ! Vous|réussirez mieux en restant dissimulé|le plus possible."
+[Common_LOADINGSCREEN_LOADING_SPY_DESC_10]
+Text="Certaines cartes comportent un|générateur principal : les lumières|et les boîtiers de verrouillage des|portes y sont reliés. Vous pouvez|pirater ce système grâce à votre|unité de piratage. Ceci a pour effet|de couper d'un coup l'ensemble des|systèmes, y compris ceux reliés|à ce générateur. Cependant, les|Forces Upsilon peuvent réinitialiser|ce générateur."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_01]
+Text="Vous pouvez effectuer des|déplacements variés avec votre|personnage, sauter, vous accroupir...|et également tirer des balles ou des|grenades avec votre arme. Le nombre|de balles dans un chargeur est limité|mais pas le nombre de chargeurs.|Pensez à recharger en temps voulu.|Sauter : \\A|S'accroupir / se relever : \\B|Recharger l'arme : \\M"
+[Common_LOADINGSCREEN_LOADING_UF_DESC_02]
+Text="Vous disposez d'un puissant détecteur :|dès qu'un intrus se trouve à moins|de 10 mètres de vous, un écho|visuel apparaît sur votre HUD|accompagné d'un écho sonore. Plus|l'intrus est proche, plus l'écho|est puissant. Utilisez cet outil|pour traquer l'ennemi. Cependant,|les intrus savent lorsqu'ils|sont détectés."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_03]
+Text="Votre mission consiste à empêcher|que les intrus ne dérobent deux|des fichiers contenus dans les|terminaux. Ces espions disposent|d'outils de piratage à distance :|si un terminal est attaqué, fouillez|la zone pour localiser l'intrus|avant qu'il ne télécharge les|données. Si un intrus met la main|sur un fichier complet, traquez-le|et neutralisez-le."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_04]
+Text="Pour trouver et éliminer vos ennemis,|vous disposez d'autres outils : |- Un intrus se déplaçant rapidement|apparaît comme une ombre blanche.|- La vision EMF permet de repérer les|radiations électromagnétiques|et de repérer les intrus qui|utilisent une vision ou sont en train|de télécharger des données.|- Enfin, votre meilleure alliée,|votre torche électrique."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_05]
+Text="En plus de votre arme et de vos|gadgets, vous disposez d‘un certain|nombre d‘actions de proximité|permettant de nuire aux intrus. Ainsi,|si un espion s‘approche d‘un peu|trop près, vous pouvez tenter de le|mettre au sol par un mouvement|rotatif imparable: \\N|Attraper et achever un espion|au sol : \\I deux fois de suite|Effectuer un sprint : \\G|Utiliser le grappin : \\I à proximité|d'une rambarde"
+[Common_LOADINGSCREEN_LOADING_UF_DESC_06]
+Text="L'écran de jeu est divisé en 4 :|- En haut à gauche, la carte du |niveau.|- En bas à gauche, les messages |du jeu.|- En bas à droite, le gadget.|- En haut à droite, les noms et |scores des joueurs.|Activez ou désactivez chaque partie|du HUD depuis le menu Options."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_07]
+Text="Vous ne pouvez utiliser qu‘un seul|gadget à la fois lors d‘une session.|Pour changer de gadget, utilisez|l‘armoire située sur votre point|d‘apparition dans la carte.|Si vous choisissez le gadget que|vous avez déjà, vous le rechargez.||Utiliser l'armoire : \\I|Faire exploser le drone : \\I"
+[Common_LOADINGSCREEN_LOADING_UF_DESC_08]
+Text="Votre but est de protéger les|terminaux et d'empêcher que les intrus|ne téléchargent deux fichiers. Voilà|quelques idées de stratégie :|- Répartissez-vous dans la carte et|communiquez.|- Utilisez vos outils près des|terminaux pour localiser les intrus.|- Lorsqu'un fichier complet est|capturé, repliez-vous et surveillez|les chemins d'extraction."
+[Common_LOADINGSCREEN_LOADING_UF_DESC_09]
+Text="Certaines cartes comportent un|générateur principal : toutes les|lumières et les boîtiers de|verrouillage des portes sont reliés|à ce générateur. ATTENTION :|les intrus peuvent pirater ce|système grâce à leur unité de|piratage. Une fois le piratage|effectué, l‘ensemble des systèmes|reliés à ce générateur est coupé.|Si cela arrive, rejoignez le|générateur pour le redémarrer: \\I"
+[Common_TOOLTIP_DETECTED_NEW]
+Text="Attention ! Vous êtes proche d'un ennemi. Son détecteur de présence peut vous trahir. Fuyez, il est très puissant !"
+[Common_ALL_BACK_TO_MENU]
+Text="Chargement du menu"
+[Common_TOOLTIPS_NEW_001]
+Text="Vous pouvez pirater un terminal dans un rayon de 10 m si vous le voyez. Plus vous êtes près, plus celà est rapide."
+[Common_TOOLTIPS_NEW_002]
+Text="“Pour télécharger un fichier, vous pouvez pirater un terminal, arrêter et reprendre sur un autre terminal.”"
+[Common_KILLCAM_PLAYER_SUICIDE]
+Text=" s'est suicidé"
+[Common_KILLCAM_UFMINE_KILL]
+Text=" vous a tué avec sa mine."
+[Common_TOOLTIP_STICKY_CAMERA]
+Text=""
+[Common_TOOLTIP_MINEPROXIMITY]
+Text="Attention, il y a une mine ! "
+[Common_TOOLTIP_CAMERA_PROXIMITY]
+Text="Attention, il y a une caméra ! Elle peut vous détecter."
+[Common_TOOLTIP_LASER_PROXIMITY]
+Text="Attention, il y a un laser ! Vous pouvez le désactiver avec votre arme."
+[Common_TOOLTIP_QUIETALERT]
+Text="Des robots vous ont détecté ! Tirez parti de l‘obscurité."
+[Common_TOOLTIP_NOUSEGADGETALERT]
+Text=""
+[Common_TOOLTIP_NOCHANGEGADGET]
+Text=""
+[Common_TOOLTIP_MARQUED]
+Text="Attention ! Vous avez été marqué par l'ennemi, il peut vous détecter."
+[Common_TOOLTIP_NOUSETAZER]
+Text=""
+[Common_TOOLTIP_NOUSEZOOM]
+Text=""
+[Common_TOOLTIP_GUNTOOLONG]
+Text=""
+[Common_KILLCAM_SPPOISON_KILL]
+Text="Vous êtes mort empoisonné."
+[Common_KILLCAM_UFMINE_SUICIDE]
+Text="Vous vous êtes tué avec votre propre mine. Attention où vous mettez les pieds… |Et souvenez-vous de l‘emplacement de vos mines."
+[Common_TOOLTIP_QUIETALERT2]
+Text="Des robots vous ont détecté ! Vous avez fait trop de bruit."
+[Common_TOOLTIP_NOGUNENERGY]
+Text="Votre arme n‘a plus d‘énergie ! Attendez qu'elle se recharge."
+[Common_TOOLTIP_AIDE_DESTR_FLAG]
+Text="Ralentissez sinon le processeur va chauffer et se détruire !"
+[Common_TOOLTIP_AIDE_PASSE_FLAG]
+Text=""
+[Common_TOOLTIP_FLAG_DESTR_ALERT]
+Text="Un processeur se trouve au sol : il va se détruire."
+[Common_TOOLTIP_MOUV_COOP]
+Text=""
+[Common_TOOLTIP_SPY_BULLET]
+Text=""
+[Common_TOOLTIP_EMP_BULLET]
+Text=""
+[Common_TOOLTIP_WIFI_MODEM]
+Text=""
+[Common_TOOLTIP_POISON_BULLET]
+Text=""
+[Common_TOOLTIP_CAMO_SUIT]
+Text=""
+[Common_TOOLTIP_MARKER]
+Text=""
+[Common_TOOLTIP_DRONE_NEW_VIDEO]
+Text=""
+[Common_LOADINGSCREEN_TOOLTIPS_SPY01_TITLE]
+Text="Forces d'Infiltration 01"
+[Common_LOADINGSCREEN_TOOLTIPS_MERC01_TITLE]
+Text="Forces Upsilon 01"
+[Common_LOADINGSCREEN_TOOLTIPS_SPY01_TEXT]
+Text="Votre unité de piratage permet|de télécharger les fichiers.||À moins de 10 m d‘un terminal,|maintenez RT appuyé, visez et|appuyez sur A pour télécharger.||Cette unité permet également|d‘éteindre les lumières, de casser|les vitres mais aussi de pirater|vos ennemis."
+[Common_LOADINGSCREEN_TOOLTIPS_MERC01_TEXT]
+Text="Pour vous aider dans votre traque|vous êtes équipé d‘un détecteur de|présence de haute technologie.||Il se déclenche lorsqu‘un ennemi|est à moins de 10 mètres de vous.||Plus les sons et les vibrations sont|forts, plus votre cible est proche|de vous. Soyez vigilant !"
+[Common_ALL_BACK_TO_LOBBY]
+Text=""

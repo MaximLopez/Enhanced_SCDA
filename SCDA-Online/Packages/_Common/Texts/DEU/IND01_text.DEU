@@ -1,0 +1,126 @@
+[IND01_BRIEFING_PARTA_01]
+Text="Ihr Schutzbereich ist eine verlassene Fabrik, die wir für unsere Zwecke nutzen. |Sie besteht aus zwei Hauptabschnitten: dem ZELLENBLOCK und dem |BLACKWING-HAUPTQUARTIER, die durch Gänge miteinander verbunden sind."
+[IND01_BRIEFING_PARTA_02]
+Text="In jeder Zone befinden sich zwei Terminals, es gibt also insgesamt vier: jeweils eins |im Erdgeschoss und im Büro des Chefs des BLACKWING-HAUPTQUARTIERS."
+[IND01_BRIEFING_PARTA_03]
+Text="Und außerdem gibt es noch zwei Terminals in Gefängniszellen im |Erd- und Obergeschoss des ZELLENBLOCKS."
+[IND01_BRIEFING_PARTA_04]
+Text="Die zu sichernden Terminals sind mit einem schwer zu knackenden Code| verschlüsselt und werden für unser privates Kommunikationsnetz verwendet."
+[IND01_BRIEFING_PARTA_05]
+Text="Ein Detail könnte sich dabei als wichtig erweisen: Alle Alarmanlagen, Verteidigungssysteme |und Lichtquellen sind mit einem mobilen Gerät, dem so genannten ECC, verbunden, |das sich in einem der Gänge befindet.  Wenn es von den Eindringlingen deaktiviert wird, |tappen wir im Dunkeln. In diesem Fall muss es wieder eingeschaltet werden, damit die |Systeme anlaufen.  Das ECC lässt sich auch neu starten, wenn es vorher nicht ausgeschaltet |wurde. Dadurch werden alle Systeme aktiviert. Hinweis: Der daraus gewonnene strategische |Vorteil ist nicht zu unterschätzen ..."
+[IND01_BRIEFING_PARTA_06]
+Text="Es ist Ihre Aufgabe, unsere Terminals zu verteidigen! Wenn die Eindringlinge |sie freischalten, müssen Sie um jeden Preis dafür sorgen, dass die Dateien |daraus weder gestohlen noch weggeschafft werden! Finden und vernichten Sie sie!"
+[IND01_BRIEFING_PARTB_01]
+Text="Ihre Aufgabe besteht darin, in diesem Komplex zu patrouillieren, Eindringlinge aufzuspüren |und diese um jeden Preis daran zu hindern, die Terminals zu hacken und freizuschalten, |deren Daten für uns überlebenswichtig sind. Die Eindringlinge brauchen nur eins der |Terminals zu hacken, um alle freizuschalten."
+[IND01_BRIEFING_PARTB_02]
+Text="Gelingt ihnen das, können sie die darin enthaltenen Dateien an sich nehmen und |versuchen, diese zu sichern. Setzen Sie alle verfügbaren Mittel ein, um die Eindringlinge |an ihrem Vorhaben zu hindern! Sobald diese zwei Dateien in ihre Gewalt gebracht |haben, können sie die darauf gespeicherten Daten über unsere Doppelagenten entschlüsseln."
+[IND01_BRIEFING_PARTB_03]
+Text="Die Dateien sind sehr empfindlich und können nach der Entnahme aus einem Terminal |nur für einen begrenzten Zeitraum genutzt werden. Wenn Sie eine gestohlene Datei |sicherstellen, indem Sie diese entweder dem betreffenden Eindringling wegnehmen oder| vom Boden aufheben, müssen Sie sie zerstören."
+[IND01_BRIEFING_VERSUS_01]
+Text="Auf geht's, Männer, und beschützt die Terminals vor den Eindringlingen. Wir geben kein Pardon!"
+[IND01_BRIEFING_VERSUS_02]
+Text="Die Terminals sind freigeschaltet. Sie müssen nun die Dateien vor den |Eindringlingen schützen und gestohlene Dateien wiederbeschaffen."
+[IND01_BRIEFING_VERSUS_03]
+Text="Weiter so, Jungs! Wenn noch eine Datei gestohlen wird, verfügen die Eindringlinge| über genügend Informationen, um unsere Doppelagenten aufzudecken. Das muss um jeden |Preis verhindert werden!"
+[IND01_BRIEFING_DM_PARTA_01]
+Text="Ihr Einsatz besteht aus drei Phasen:|1. Abschnitt infiltrieren.|2. Terminal freischalten.|3. Speicherzellen stehlen und hierhin bringen."
+[IND01_BRIEFING_DM_PARTA_01BIS]
+Text="Der von Ihnen zu infiltrierende Bereich ist das Nervenzentrum unseres Gegners. |Er besteht aus zwei Hauptabschnitten. Das sind die ZELLENBLOCKS und das HAUPTQUARTIER."
+[IND01_BRIEFING_DM_PARTA_02]
+Text="In jeder Zone befinden sich zwei Terminals, es gibt also insgesamt vier: jeweils eins |im Erdgeschoss und im Büro des Chefs des BLACKWING-HAUPTQUARTIERS."
+[IND01_BRIEFING_DM_PARTA_03]
+Text="Außerdem gibt es noch zwei Terminals in Gefängniszellen im Erd- und Obergeschoss der ZELLENBLOCKS."
+[IND01_BRIEFING_DM_PARTA_04]
+Text="Die zu deaktivierenden Terminals sind mit einem schwer zu knackenden Code |verschlüsselt und werden für das private Kommunikationsnetz der UPSILON FORCE verwendet."
+[IND01_BRIEFING_DM_PARTA_05]
+Text="Ein Detail könnte sich dabei als wichtig erweisen: Alle Alarmanlagen, |Verteidigungssysteme und Lichtquellen sind mit einem mobilen Gerät, dem so |genannten ECC, verbunden, das sich in einem der Gänge befindet. Wird dieses |Gerät deaktiviert, tappt die Upsilon Force im Dunkeln und kann den Abschnitt nicht |mehr so leicht verteidigen. In diesem Fall muss sie versuchen, das System neu zu starten. |Denken Sie daran!"
+[IND01_BRIEFING_DM_PARTB_02]
+Text="Nach der Neutralisierung stehlen Sie die darin enthaltenen Dateien und bringen |mindestens zwei davon zu dieser Steuerdrohne, um sie zu sichern und Ihren |Einsatz abzuschließen. Viel Glück."
+[IND01_BRIEFING_DM_PARTB_05]
+Text="Nach der Neutralisierung stehlen Sie die darin enthaltenen Dateien und bringen| mindestens zwei davon zu dieser Steuerdrohne, um sie zu sichern und Ihren Einsatz| abzuschließen. Viel Glück."
+[IND01_BRIEFING_DM_PARTB_11]
+Text="Nach der Neutralisierung stehlen Sie die darin enthaltenen Dateien und bringen |mindestens zwei davon zu dieser Steuerdrohne, um sie zu sichern und Ihren |Einsatz abzuschließen. Viel Glück."
+[IND01_BRIEFING_DM_PARTB_14]
+Text="Nach der Neutralisierung stehlen Sie die darin enthaltenen Dateien und bringen| mindestens zwei davon zu dieser Steuerdrohne, um sie zu sichern und Ihren |Einsatz abzuschließen. Viel Glück."
+[IND01_BRIEFING_DM_PARTB_18]
+Text="Nach der Neutralisierung stehlen Sie die darin enthaltenen Dateien und bringen| mindestens zwei davon zu dieser Steuerdrohne, um sie zu sichern und Ihren Einsatz| abzuschließen. Viel Glück."
+[IND01_BRIEFING_DM_PARTB_25]
+Text="Je mehr Dateien wir haben, desto mehr Informationen erhalten wir, |und desto mehr können wir über die Doppelagenten des Gegners herausfinden."
+[IND01_BRIEFING_DM_VERSUS_03]
+Text="Weiter so, Jungs! Noch eine Datei, und der Auftrag ist erfüllt."
+[IND01_BRIEFING_DM_SCORE_03]
+Text="Weiter so, Jungs! Noch eine Datei, und der Auftrag ist erfüllt."
+[IND01_BRIEFING_DM_ND_03]
+Text="Weiter so, Jungs! Noch eine Datei, und der Auftrag ist erfüllt."
+[IND01_BRIEFING_DM_TA_03]
+Text="Weiter so, Jungs! Noch eine Datei, und der Auftrag ist erfüllt."
+[IND01_BRIEFING_DM_TK_03]
+Text="Weiter so, Jungs! Noch eine Datei, und der Auftrag ist erfüllt."
+[IND01_BRIEFING_DM_NDET_03]
+Text="Weiter so, Jungs! Noch eine Datei, und der Auftrag ist erfüllt."
+[IND01_BRIEFING_DM_PARTB_22]
+Text="Nach der Neutralisierung stehlen Sie die darin enthaltenen Dateien und bringen |mindestens zwei davon zu dieser Steuerdrohne, um sie zu sichern und Ihren Einsatz |abzuschließen. Viel Glück."
+[IND01_BRIEFING_DM_PARTB_01]
+Text="Ihre Aufgabe besteht darin, den Komplex getarnt zu infiltrieren und sich dann in die Terminals| zu hacken und freizuschalten. Dieser Vorgang dauert ein paar Sekunden. Wenn Sie |ein Terminal neutralisieren, werden ALLE anderen freigeschaltet"
+[IND01_BRIEFING_DM_PARTB_03]
+Text="Seien Sie vorsichtig. Die Speicherzellen sind sehr empfindlich und können nach der |Entnahme aus einem Terminal nur für einen begrenzten Zeitraum genutzt werden. |Wir raten Ihnen dringend, im Team zu arbeiten. Noch ein letzter Hinweis: Achten Sie auf |die Patrouillen der Upsilon Force, die den Ort verteidigen: Sie sind schlagkräftig, |effizient und haben den Befehl, alle Eindringlinge zu töten. Viel Glück."
+[IND01_BRIEFING_DM_PARTB_04]
+Text="Ihre Aufgabe besteht darin, den Komplex getarnt zu infiltrieren und sich dann in die Terminals| zu hacken und freizuschalten. Dieser Vorgang dauert ein paar Sekunden. Wenn Sie ein| Terminal neutralisieren, werden ALLE anderen freigeschaltet."
+[IND01_BRIEFING_DM_PARTB_10]
+Text="Ihre Aufgabe besteht darin, den Komplex getarnt zu infiltrieren und sich dann in die |Terminals zu hacken und freizuschalten. Dieser Vorgang dauert ein paar Sekunden. |Wenn Sie ein Terminal neutralisieren, werden ALLE anderen freigeschaltet."
+[IND01_BRIEFING_DM_PARTB_06]
+Text="Seien Sie vorsichtig. Die Speicherzellen sind sehr empfindlich und können nach der Entnahme |aus einem Terminal nur für einen begrenzten Zeitraum genutzt werden. Wir raten Ihnen dringend,| im Team zu arbeiten. Noch ein letzter Hinweis: Achten Sie auf die Patrouillen der Upsilon Force, |die den Ort verteidigen: Sie sind schlagkräftig, effizient und haben den Befehl, alle Eindringlinge |zu töten. Viel Glück."
+[IND01_BRIEFING_DM_PARTB_07]
+Text="Ihre Aufgabe besteht darin, den Komplex getarnt zu infiltrieren und sich dann in die Terminals| zu hacken und freizuschalten. Dieser Vorgang dauert ein paar Sekunden. Wenn Sie ein |Terminal neutralisieren, werden ALLE anderen freigeschaltet."
+[IND01_BRIEFING_DM_PARTB_08]
+Text="Ihre Aufgabe besteht darin, den Komplex getarnt zu infiltrieren und sich dann in die Terminals| zu hacken und freizuschalten. Dieser Vorgang dauert ein paar Sekunden. Wenn Sie| ein Terminal neutralisieren, werden ALLE anderen freigeschaltet."
+[IND01_BRIEFING_DM_PARTB_09]
+Text="Seien Sie vorsichtig. Die Speicherzellen sind sehr empfindlich und können nach der Entnahme| aus einem Terminal nur für einen begrenzten Zeitraum genutzt werden. Wir raten Ihnen |dringend, im Team zu arbeiten. Noch ein letzter Hinweis: Achten Sie auf die Patrouillen |der Upsilon Force, die den Ort verteidigen: Sie sind schlagkräftig, effizient und haben |den Befehl, alle Eindringlinge zu töten. Viel Glück."
+[IND01_BRIEFING_DM_PARTB_12]
+Text="Seien Sie vorsichtig. Die Speicherzellen sind sehr empfindlich und können nach der Entnahme |aus einem Terminal nur für einen begrenzten Zeitraum genutzt werden. Wir raten Ihnen dringend,| im Team zu arbeiten. Noch ein letzter Hinweis: Achten Sie auf die Patrouillen der Upsilon Force, |die den Ort verteidigen: Sie sind schlagkräftig, effizient und haben den Befehl, alle Eindringlinge| zu töten. Viel Glück."
+[IND01_BRIEFING_DM_PARTB_13]
+Text="Ihre Aufgabe besteht darin, den Komplex getarnt zu infiltrieren und sich dann in die Terminals |zu hacken und freizuschalten. Dieser Vorgang dauert ein paar Sekunden. Wenn Sie ein |Terminal neutralisieren, werden ALLE anderen freigeschaltet."
+[IND01_BRIEFING_DM_PARTB_15]
+Text="Seien Sie vorsichtig. Die Speicherzellen sind sehr empfindlich und können nach der Entnahme| aus einem Terminal nur für einen begrenzten Zeitraum genutzt werden. Wir raten Ihnen |dringend, im Team zu arbeiten. Noch ein letzter Hinweis: Achten Sie auf die Patrouillen |der Upsilon Force, die den Ort verteidigen: Sie sind schlagkräftig, effizient und haben |den Befehl, alle Eindringlinge zu töten. Viel Glück."
+[IND01_BRIEFING_DM_PARTB_16]
+Text="Damit diese Operation völlig unbemerkt bleibt, muss sie mit maximaler Geschwindigkeit |und Effizienz  durchgeführt werden. Sie müssen alles in Ihrer Macht stehende unternehmen, |um Ihren Auftrag so schnell wie möglich zu beenden."
+[IND01_BRIEFING_DM_PARTB_17]
+Text="Ihre Aufgabe besteht darin, den Komplex getarnt zu infiltrieren und sich dann in die Terminals| zu hacken und freizuschalten. Dieser Vorgang dauert ein paar Sekunden. Wenn Sie| ein Terminal neutralisieren, werden ALLE anderen freigeschaltet."
+[IND01_BRIEFING_DM_PARTB_19]
+Text="Seien Sie vorsichtig. Die Speicherzellen sind sehr empfindlich und können nach der Entnahme| aus einem Terminal nur für einen begrenzten Zeitraum genutzt werden. Wir raten Ihnen |dringend, im Team zu arbeiten. Noch ein letzter Hinweis: Achten Sie auf die Patrouillen |der Upsilon Force, die den Ort verteidigen: Sie sind schlagkräftig, effizient und haben |den Befehl, alle Eindringlinge zu töten. Viel Glück."
+[IND01_BRIEFING_DM_PARTB_20]
+Text="Außerdem sind die Spuren Ihres Eindringens restlos zu beseitigen. |Eliminieren Sie daher alle Verteidigungseinheiten auf der Karte."
+[IND01_BRIEFING_DM_PARTB_21]
+Text="Ihre Aufgabe besteht darin, den Komplex getarnt zu infiltrieren und sich dann in die |Terminals zu hacken und freizuschalten. Dieser Vorgang dauert ein paar Sekunden.| Wenn Sie ein Terminal neutralisieren, werden ALLE anderen freigeschaltet."
+[IND01_BRIEFING_DM_PARTB_23]
+Text="Seien Sie vorsichtig. Die Speicherzellen sind sehr empfindlich und können nach der |Entnahme aus einem Terminal nur für einen begrenzten Zeitraum genutzt werden. |Wir raten Ihnen dringend, im Team zu arbeiten. Noch ein letzter Hinweis: Achten Sie |auf die Patrouillen der Upsilon Force, die den Ort verteidigen: Sie sind schlagkräftig, |effizient und haben den Befehl, alle Eindringlinge zu töten. Viel Glück."
+[IND01_BRIEFING_DM_PARTB_24]
+Text="Diese Operation muss streng geheim bleiben. Wird eines Ihrer Teammitglieder in deren |Verlauf von einer Wache oder einem Überwachungsgerät entdeckt, müssen wir den Einsatz abbrechen."
+[IND01_BRIEFING_DM_VERSUS_01]
+Text="Auf geht's, die Herren! Finden Sie die Terminals und schalten Sie sie frei!"
+[IND01_BRIEFING_DM_VERSUS_02]
+Text="Die Terminals sind freigeschaltet. Stehlen Sie nun die darin enthaltenen |Speicherzellen und bringen Sie sie zu dieser Drohne, um sie zu sichern."
+[IND01_BRIEFING_DM_SCORE_01]
+Text="Auf geht's, die Herren! Finden Sie die Terminals und schalten Sie sie frei!"
+[IND01_BRIEFING_DM_SCORE_02]
+Text="Die Terminals sind freigeschaltet. Stehlen Sie nun die darin enthaltenen Speicherzellen| und bringen Sie sie zu dieser Drohne, um sie zu sichern."
+[IND01_BRIEFING_DM_INFILT]
+Text="Auf geht's, die Herren! Finden Sie die Terminals und schalten Sie sie frei!"
+[IND01_BRIEFING_DM_EXFILT]
+Text="Stehlen Sie die Speicherzellen und bringen Sie sie zu dieser Drohne, um sie zu sichern."
+[IND01_BRIEFING_DM_ND_01]
+Text="Auf geht's, die Herren! Finden Sie die Terminals und schalten Sie sie frei!"
+[IND01_BRIEFING_DM_ND_02]
+Text="Die Terminals sind freigeschaltet. Stehlen Sie nun die darin enthaltenen |Speicherzellen und bringen Sie sie zu dieser Drohne, um sie zu sichern."
+[IND01_BRIEFING_DM_TA_01]
+Text="Auf geht's, die Herren! Finden Sie die Terminals und schalten Sie sie frei!"
+[IND01_BRIEFING_DM_TA_02]
+Text="Die Terminals sind freigeschaltet. Stehlen Sie nun die darin enthaltenen| Speicherzellen und bringen Sie sie zu dieser Drohne, um sie zu sichern."
+[IND01_BRIEFING_DM_TK_01]
+Text="Auf geht's, die Herren! Finden Sie die Terminals und schalten Sie sie frei!"
+[IND01_BRIEFING_DM_TK_02]
+Text="Die Terminals sind freigeschaltet. Stehlen Sie nun die darin enthaltenen Speicherzellen |und bringen Sie sie zu dieser Drohne, um sie zu sichern."
+[IND01_BRIEFING_DM_NDET_01]
+Text="Auf geht's, die Herren! Finden Sie die Terminals und schalten Sie sie frei!"
+[IND01_BRIEFING_DM_NDET_02]
+Text="Die Terminals sind freigeschaltet. Stehlen Sie nun die darin enthaltenen Speicherzellen |und bringen Sie sie zu dieser Drohne, um sie zu sichern."

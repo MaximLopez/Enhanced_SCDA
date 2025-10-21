@@ -1,0 +1,10 @@
+[IND04_GAME_OUVRIR_RIDEAUX]
+Text="Ouvrir rideaux"
+[IND04_GAME_FERMER_RIDEAUX]
+Text="Fermer rideaux"
+[IND04_GAME_ARRET_CHAUDIERE]
+Text="Arrêt chaudière"
+[IND04_GAME_DEM_CHAUDIERE]
+Text="Démarrage chaudière"
+[IND04_GAME_SEC_ANTI_ACCIDENT]
+Text="Sécurité anti accident !"
